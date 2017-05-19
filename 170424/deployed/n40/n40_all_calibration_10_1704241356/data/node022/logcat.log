@@ -1,0 +1,62 @@
+--------- beginning of /dev/log/main
+04-24 06:44:51.744  1406  1414 E MP-Decision: num online cores: 2 reqd : 1 available : 4 rq_depth:1.200000 hotplug_avg_load_dw: 16
+04-24 06:44:51.744  1406  1414 E MP-Decision: DOWN cpu:1 core_idx:1 Ns:1.100000 Ts:190 total_time_down:0.000000
+04-24 06:44:51.994  1406  1414 E MP-Decision: num online cores: 1 reqd : 2 available : 4 rq_depth:1.000000 hotplug_avg_load_dw: 62
+04-24 06:44:51.994  1406  1414 E MP-Decision: UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 total_time_up:0.000000
+04-24 06:44:52.615 16495 16495 D AndroidRuntime: 
+04-24 06:44:52.615 16495 16495 D AndroidRuntime: >>>>>> AndroidRuntime START com.android.internal.os.RuntimeInit <<<<<<
+04-24 06:44:52.615 16495 16495 D AndroidRuntime: CheckJNI is ON
+04-24 06:44:52.615 16495 16495 E dalvikvm: ERROR: must specify non-'.' bootclasspath
+04-24 06:44:52.615 16495 16495 W dalvikvm: CreateJavaVM failed: dvmClassStartup failed
+04-24 06:44:52.615 16495 16495 E AndroidRuntime: JNI_CreateJavaVM failed
+04-24 06:44:52.955 16496 16496 D AndroidRuntime: 
+04-24 06:44:52.955 16496 16496 D AndroidRuntime: >>>>>> AndroidRuntime START com.android.internal.os.RuntimeInit <<<<<<
+04-24 06:44:52.955 16496 16496 D AndroidRuntime: CheckJNI is ON
+04-24 06:44:52.955 16496 16496 E dalvikvm: ERROR: must specify non-'.' bootclasspath
+04-24 06:44:52.955 16496 16496 W dalvikvm: CreateJavaVM failed: dvmClassStartup failed
+04-24 06:44:52.955 16496 16496 E AndroidRuntime: JNI_CreateJavaVM failed
+04-24 06:44:55.107  1406  1414 E MP-Decision: num online cores: 2 reqd : 1 available : 4 rq_depth:0.000000 hotplug_avg_load_dw: 20
+04-24 06:44:55.107  1406  1414 E MP-Decision: DOWN cpu:1 core_idx:1 Ns:1.100000 Ts:190 total_time_down:2402.000000
+--------- beginning of /dev/log/system
+04-24 06:48:11.095   798   816 W BroadcastQueue: Timeout of broadcast BroadcastRecord{41f612d8 u0 com.android.server.action.NETWORK_STATS_POLL} - receiver=android.app.LoadedApk$ReceiverDispatcher$InnerReceiver@41a6ef20, started 60013ms ago
+04-24 06:48:11.095   798   816 W BroadcastQueue: Receiver during timeout: BroadcastFilter{41a4a2f8 u0 ReceiverList{41a4b278 798 system/1000/u0 local:41a6ef20}}
+04-24 06:56:40.103 16677 16677 I olsrd   : Writing '1' (was 1) to /proc/sys/net/ipv4/ip_forward
+04-24 06:56:40.103 16677 16677 I olsrd   : Writing '0' (was 1) to /proc/sys/net/ipv4/conf/all/send_redirects
+04-24 06:56:40.103 16677 16677 I olsrd   : Writing '0' (was 0) to /proc/sys/net/ipv4/conf/all/rp_filter
+04-24 06:56:40.113 16677 16677 I olsrd   : Writing '0' (was 0) to /proc/sys/net/ipv4/conf/wlan0/send_redirects
+04-24 06:56:40.113 16677 16677 I olsrd   : Writing '0' (was 0) to /proc/sys/net/ipv4/conf/wlan0/rp_filter
+04-24 06:56:40.113 16677 16677 I olsrd   : Adding interface wlan0
+04-24 06:56:40.113 16677 16677 I olsrd   : New main address: 10.1.1.22
+04-24 06:56:40.113 16678 16678 I olsrd   : olsr.org -  0.6.6.2-n -git_0000000 -n -hash_ 7985605520f3cae9b305d56e83b35d9c successfully started
+04-24 06:59:00.108  1406  1414 E MP-Decision: num online cores: 1 reqd : 2 available : 4 rq_depth:4.100000 hotplug_avg_load_dw: 25
+04-24 06:59:00.108  1406  1414 E MP-Decision: UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 total_time_up:144.000000
+04-24 06:59:00.108   798   818 W ProcessStats: Skipping unknown process pid 17553
+04-24 06:59:00.258  1406  1414 E MP-Decision: num online cores: 2 reqd : 1 available : 4 rq_depth:0.000000 hotplug_avg_load_dw: 16
+04-24 06:59:00.258  1406  1414 E MP-Decision: DOWN cpu:1 core_idx:1 Ns:1.100000 Ts:190 total_time_down:99.000000
+04-24 07:00:42.055   798   816 W ProcessStats: Skipping unknown process pid 18197
+04-24 07:02:20.290  1406  1414 E MP-Decision: num online cores: 1 reqd : 2 available : 4 rq_depth:1.000000 hotplug_avg_load_dw: 67
+04-24 07:02:20.290  1406  1414 E MP-Decision: UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 total_time_up:0.000000
+04-24 07:02:20.450 18860 18860 D AndroidRuntime: 
+04-24 07:02:20.450 18860 18860 D AndroidRuntime: >>>>>> AndroidRuntime START com.android.internal.os.RuntimeInit <<<<<<
+04-24 07:02:20.450 18860 18860 D AndroidRuntime: CheckJNI is ON
+04-24 07:02:20.450 18860 18860 E dalvikvm: ERROR: must specify non-'.' bootclasspath
+04-24 07:02:20.450 18860 18860 W dalvikvm: CreateJavaVM failed: dvmClassStartup failed
+04-24 07:02:20.450 18860 18860 E AndroidRuntime: JNI_CreateJavaVM failed
+04-24 07:02:20.650 16678 16678 I olsrd   : Writing '1' (was 0) to /proc/sys/net/ipv4/conf/all/send_redirects
+04-24 07:02:20.650 16678 16678 I olsrd   : olsr.org -  0.6.6.2-n -git_0000000 -n -hash_ 7985605520f3cae9b305d56e83b35d9c stopped
+04-24 07:02:21.441  1406  1414 E MP-Decision: num online cores: 2 reqd : 1 available : 4 rq_depth:0.800000 hotplug_avg_load_dw: 20
+04-24 07:02:21.441  1406  1414 E MP-Decision: DOWN cpu:1 core_idx:1 Ns:1.100000 Ts:190 total_time_down:227.000000
+04-24 07:02:21.951  1406  1414 E MP-Decision: num online cores: 1 reqd : 2 available : 4 rq_depth:1.300000 hotplug_avg_load_dw: 70
+04-24 07:02:21.951  1406  1414 E MP-Decision: UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 total_time_up:0.000000
+04-24 07:02:22.562 18958 18958 D AndroidRuntime: 
+04-24 07:02:22.562 18958 18958 D AndroidRuntime: >>>>>> AndroidRuntime START com.android.internal.os.RuntimeInit <<<<<<
+04-24 07:02:22.562 18958 18958 D AndroidRuntime: CheckJNI is ON
+04-24 07:02:22.562 18958 18958 E dalvikvm: ERROR: must specify non-'.' bootclasspath
+04-24 07:02:22.562 18958 18958 W dalvikvm: CreateJavaVM failed: dvmClassStartup failed
+04-24 07:02:22.562 18958 18958 E AndroidRuntime: JNI_CreateJavaVM failed
+04-24 07:02:22.872 18959 18959 D AndroidRuntime: 
+04-24 07:02:22.872 18959 18959 D AndroidRuntime: >>>>>> AndroidRuntime START com.android.internal.os.RuntimeInit <<<<<<
+04-24 07:02:22.872 18959 18959 D AndroidRuntime: CheckJNI is ON
+04-24 07:02:22.872 18959 18959 E dalvikvm: ERROR: must specify non-'.' bootclasspath
+04-24 07:02:22.872 18959 18959 W dalvikvm: CreateJavaVM failed: dvmClassStartup failed
+04-24 07:02:22.872 18959 18959 E AndroidRuntime: JNI_CreateJavaVM failed

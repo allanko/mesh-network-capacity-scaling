@@ -1,0 +1,139 @@
+--------- beginning of /dev/log/main
+04-24 06:04:01.128  1423  1429 E MP-Decision: num online cores: 2 reqd : 1 available : 4 rq_depth:0.000000 hotplug_avg_load_dw: 28
+04-24 06:04:01.128  1423  1429 E MP-Decision: DOWN cpu:1 core_idx:1 Ns:1.100000 Ts:190 total_time_down:275.000000
+04-24 06:04:02.009  1423  1429 E MP-Decision: num online cores: 1 reqd : 2 available : 4 rq_depth:1.000000 hotplug_avg_load_dw: 66
+04-24 06:04:02.009  1423  1429 E MP-Decision: UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 total_time_up:0.000000
+04-24 06:04:02.530 17214 17214 D AndroidRuntime: 
+04-24 06:04:02.530 17214 17214 D AndroidRuntime: >>>>>> AndroidRuntime START com.android.internal.os.RuntimeInit <<<<<<
+04-24 06:04:02.530 17214 17214 D AndroidRuntime: CheckJNI is ON
+04-24 06:04:02.530 17214 17214 E dalvikvm: ERROR: must specify non-'.' bootclasspath
+04-24 06:04:02.530 17214 17214 W dalvikvm: CreateJavaVM failed: dvmClassStartup failed
+04-24 06:04:02.530 17214 17214 E AndroidRuntime: JNI_CreateJavaVM failed
+04-24 06:04:02.870 17216 17216 D AndroidRuntime: 
+04-24 06:04:02.870 17216 17216 D AndroidRuntime: >>>>>> AndroidRuntime START com.android.internal.os.RuntimeInit <<<<<<
+04-24 06:04:02.870 17216 17216 D AndroidRuntime: CheckJNI is ON
+04-24 06:04:02.870 17216 17216 E dalvikvm: ERROR: must specify non-'.' bootclasspath
+04-24 06:04:02.870 17216 17216 W dalvikvm: CreateJavaVM failed: dvmClassStartup failed
+04-24 06:04:02.870 17216 17216 E AndroidRuntime: JNI_CreateJavaVM failed
+04-24 06:04:04.451  1423  1429 E MP-Decision: num online cores: 2 reqd : 1 available : 4 rq_depth:0.000000 hotplug_avg_load_dw: 19
+04-24 06:04:04.451  1423  1429 E MP-Decision: DOWN cpu:1 core_idx:1 Ns:1.100000 Ts:190 total_time_down:2412.000000
+04-24 06:04:13.130   944   944 E kickstart: Total bytes received so far: 48
+04-24 06:04:13.130   944   944 E kickstart: EVENT: RECEIVED <-- SAHARA_HELLO
+04-24 06:04:13.130   944   944 E kickstart: EVENT: SENDING --> SAHARA_HELLO_RESPONSE
+04-24 06:04:13.130   944   944 E kickstart: EVENT: sahara_mode                         = 2
+04-24 06:04:13.130   944   944 E kickstart: EVENT: m_comm->sahara_hello_packet_rx.mode = 2
+04-24 06:04:13.130   944   944 E kickstart: EVENT: helloRx.mode                        = 2
+04-24 06:04:13.130   944   944 E kickstart: Total bytes received so far: 64
+04-24 06:04:13.130   944   944 E kickstart: EVENT: RECEIVED <-- SAHARA_MEMORY_DEBUG
+04-24 06:04:13.140   944   944 E kickstart: Total bytes received so far: 116
+04-24 06:04:13.140   944   944 E kickstart: EVENT: 0x46980000, len=000C0000, "m9kefs1", ""
+04-24 06:04:13.140   944   944 E kickstart: EVENT: STATE <-- SAHARA_WAIT_MEMORY_REGION
+04-24 06:04:13.140   944   944 E kickstart: EVENT: Saving "/dev/block/platform/msm_sdcc.1/by-name/m9kefs1"
+04-24 06:04:13.230   944   944 E kickstart: Total bytes received so far: 786548
+04-24 06:04:13.230   944   944 E kickstart: EVENT: Received: 786432 bytes
+04-24 06:04:13.230   944   944 E kickstart: EVENT: Writing to disk
+04-24 06:04:13.240   944   944 E kickstart: EVENT: Successfully wrote to disk
+04-24 06:04:13.240   944   944 E kickstart: Received file "m9kefs1"
+04-24 06:04:13.290   944   944 E kickstart: Sync finish Received file "m9kefs1"
+04-24 06:04:13.290   944   944 E kickstart: 786432 bytes transferred in 0.144s (5.21 MBps)
+04-24 06:04:13.290   944   944 E kickstart: EVENT: num_debug_entries not >=0
+04-24 06:04:13.290   944   944 E kickstart: Successfully downloaded files from target 
+04-24 06:04:13.290   944   944 E kickstart: EVENT: SENDING --> SAHARA_RESET
+04-24 06:04:13.300   944   944 E kickstart: Total bytes received so far: 786556
+04-24 06:04:13.300   944   944 E kickstart: EVENT: RECEIVED <-- SAHARA_RESET_RESP
+04-24 06:04:13.300   944   944 E kickstart: Sahara protocol completed
+04-24 06:04:13.300   944   944 E kickstart: EVENT: STATE <-- SAHARA_WAIT_HELLO
+--------- beginning of /dev/log/system
+04-24 06:05:29.984   806   830 W BroadcastQueue: Timeout of broadcast BroadcastRecord{42084e00 u0 com.android.server.action.NETWORK_STATS_POLL} - receiver=android.app.LoadedApk$ReceiverDispatcher$InnerReceiver@418aa8d8, started 60009ms ago
+04-24 06:05:29.984   806   830 W BroadcastQueue: Receiver during timeout: BroadcastFilter{4189c870 u0 ReceiverList{418a4560 806 system/1000/u0 local:418aa8d8}}
+04-24 06:10:00.144  1423  1429 E MP-Decision: num online cores: 1 reqd : 2 available : 4 rq_depth:4.100000 hotplug_avg_load_dw: 26
+04-24 06:10:00.144  1423  1429 E MP-Decision: UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 total_time_up:146.000000
+04-24 06:10:00.174 17395 17395 I olsrd   : Writing '1' (was 1) to /proc/sys/net/ipv4/ip_forward
+04-24 06:10:00.174 17395 17395 I olsrd   : Writing '0' (was 1) to /proc/sys/net/ipv4/conf/all/send_redirects
+04-24 06:10:00.174 17395 17395 I olsrd   : Writing '0' (was 0) to /proc/sys/net/ipv4/conf/all/rp_filter
+04-24 06:10:00.174 17395 17395 I olsrd   : Writing '0' (was 0) to /proc/sys/net/ipv4/conf/wlan0/send_redirects
+04-24 06:10:00.174 17395 17395 I olsrd   : Writing '0' (was 0) to /proc/sys/net/ipv4/conf/wlan0/rp_filter
+04-24 06:10:00.174 17395 17395 I olsrd   : Adding interface wlan0
+04-24 06:10:00.174 17395 17395 I olsrd   : New main address: 10.1.1.17
+04-24 06:10:00.184 17400 17400 I olsrd   : olsr.org -  0.6.6.2-n -git_0000000 -n -hash_ 7985605520f3cae9b305d56e83b35d9c successfully started
+04-24 06:10:00.274  1423  1429 E MP-Decision: num online cores: 2 reqd : 1 available : 4 rq_depth:0.000000 hotplug_avg_load_dw: 9
+04-24 06:10:00.274  1423  1429 E MP-Decision: DOWN cpu:1 core_idx:1 Ns:1.100000 Ts:190 total_time_down:126.000000
+04-24 06:10:05.059   806   830 W ProcessStats: Skipping unknown process pid 17432
+04-24 06:10:05.059   806   830 W ProcessStats: Skipping unknown process pid 17433
+04-24 06:10:05.059   806   830 W ProcessStats: Skipping unknown process pid 17434
+04-24 06:11:06.458 17400 17400 I olsrd   : detected duplicate packet with seqnr 0xb997 from 10.1.1.1 on wlan0 (432 Bytes)
+04-24 06:11:06.468 17400 17400 I olsrd   : detected duplicate packet with seqnr 0xb997 from 10.1.1.1 on wlan0 (432 Bytes)
+04-24 06:11:06.468 17400 17400 I olsrd   : detected duplicate packet with seqnr 0xb997 from 10.1.1.1 on wlan0 (432 Bytes)
+04-24 06:11:06.468 17400 17400 I olsrd   : detected duplicate packet with seqnr 0xb997 from 10.1.1.1 on wlan0 (432 Bytes)
+04-24 06:11:06.468 17400 17400 I olsrd   : detected duplicate packet with seqnr 0xb997 from 10.1.1.1 on wlan0 (432 Bytes)
+04-24 06:11:06.468 17400 17400 I olsrd   : detected duplicate packet with seqnr 0xb997 from 10.1.1.1 on wlan0 (432 Bytes)
+04-24 06:11:17.008 17400 17400 I olsrd   : detected duplicate packet with seqnr 0xb99e from 10.1.1.1 on wlan0 (252 Bytes)
+04-24 06:11:17.008 17400 17400 I olsrd   : detected duplicate packet with seqnr 0xb99e from 10.1.1.1 on wlan0 (252 Bytes)
+04-24 06:11:17.008 17400 17400 I olsrd   : detected duplicate packet with seqnr 0xb99e from 10.1.1.1 on wlan0 (252 Bytes)
+04-24 06:11:17.008 17400 17400 I olsrd   : detected duplicate packet with seqnr 0xb99e from 10.1.1.1 on wlan0 (252 Bytes)
+04-24 06:11:17.008 17400 17400 I olsrd   : detected duplicate packet with seqnr 0xb99e from 10.1.1.1 on wlan0 (252 Bytes)
+04-24 06:11:17.008 17400 17400 I olsrd   : detected duplicate packet with seqnr 0xb99e from 10.1.1.1 on wlan0 (252 Bytes)
+04-24 06:11:40.190 17400 17400 I olsrd   : detected duplicate packet with seqnr 0xb9aa from 10.1.1.1 on wlan0 (588 Bytes)
+04-24 06:11:40.190 17400 17400 I olsrd   : detected duplicate packet with seqnr 0xb9aa from 10.1.1.1 on wlan0 (588 Bytes)
+04-24 06:11:40.190 17400 17400 I olsrd   : detected duplicate packet with seqnr 0xb9aa from 10.1.1.1 on wlan0 (588 Bytes)
+04-24 06:11:40.190 17400 17400 I olsrd   : detected duplicate packet with seqnr 0xb9aa from 10.1.1.1 on wlan0 (588 Bytes)
+04-24 06:11:55.255 17400 17400 I olsrd   : detected duplicate packet with seqnr 0xb9b3 from 10.1.1.1 on wlan0 (220 Bytes)
+04-24 06:11:55.255 17400 17400 I olsrd   : detected duplicate packet with seqnr 0xb9b3 from 10.1.1.1 on wlan0 (220 Bytes)
+04-24 06:11:55.255 17400 17400 I olsrd   : detected duplicate packet with seqnr 0xb9b3 from 10.1.1.1 on wlan0 (220 Bytes)
+04-24 06:11:59.519 17400 17400 I olsrd   : detected duplicate packet with seqnr 0xb9b5 from 10.1.1.1 on wlan0 (812 Bytes)
+04-24 06:11:59.519 17400 17400 I olsrd   : detected duplicate packet with seqnr 0xb9b5 from 10.1.1.1 on wlan0 (812 Bytes)
+04-24 06:11:59.519 17400 17400 I olsrd   : detected duplicate packet with seqnr 0xb9b5 from 10.1.1.1 on wlan0 (812 Bytes)
+04-24 06:12:26.815 17400 17400 I olsrd   : detected duplicate packet with seqnr 0xb9c4 from 10.1.1.1 on wlan0 (296 Bytes)
+04-24 06:12:33.081 17400 17400 I olsrd   : detected duplicate packet with seqnr 0xb9c8 from 10.1.1.1 on wlan0 (448 Bytes)
+04-24 06:12:33.081 17400 17400 I olsrd   : detected duplicate packet with seqnr 0xb9c8 from 10.1.1.1 on wlan0 (448 Bytes)
+04-24 06:12:42.961 17400 17400 I olsrd   : detected duplicate packet with seqnr 0xb9cd from 10.1.1.1 on wlan0 (272 Bytes)
+04-24 06:12:42.961 17400 17400 I olsrd   : detected duplicate packet with seqnr 0xb9cd from 10.1.1.1 on wlan0 (272 Bytes)
+04-24 06:12:42.961 17400 17400 I olsrd   : detected duplicate packet with seqnr 0xb9cd from 10.1.1.1 on wlan0 (272 Bytes)
+04-24 06:12:42.961 17400 17400 I olsrd   : detected duplicate packet with seqnr 0xb9cd from 10.1.1.1 on wlan0 (272 Bytes)
+04-24 06:12:42.961 17400 17400 I olsrd   : detected duplicate packet with seqnr 0xb9cd from 10.1.1.1 on wlan0 (272 Bytes)
+04-24 06:12:42.961 17400 17400 I olsrd   : detected duplicate packet with seqnr 0xb9cd from 10.1.1.1 on wlan0 (272 Bytes)
+04-24 06:12:42.961 17400 17400 I olsrd   : detected duplicate packet with seqnr 0xb9cd from 10.1.1.1 on wlan0 (272 Bytes)
+04-24 06:13:47.593 17400 17400 I olsrd   : detected duplicate packet with seqnr 0xb9f2 from 10.1.1.1 on wlan0 (208 Bytes)
+04-24 06:13:47.593 17400 17400 I olsrd   : detected duplicate packet with seqnr 0xb9f2 from 10.1.1.1 on wlan0 (208 Bytes)
+04-24 06:13:47.593 17400 17400 I olsrd   : detected duplicate packet with seqnr 0xb9f2 from 10.1.1.1 on wlan0 (208 Bytes)
+04-24 06:14:12.037 17400 17400 I olsrd   : detected duplicate packet with seqnr 0xba00 from 10.1.1.1 on wlan0 (376 Bytes)
+04-24 06:14:39.053 17400 17400 I olsrd   : detected duplicate packet with seqnr 0xba0e from 10.1.1.1 on wlan0 (244 Bytes)
+04-24 06:14:39.053 17400 17400 I olsrd   : detected duplicate packet with seqnr 0xba0e from 10.1.1.1 on wlan0 (244 Bytes)
+04-24 06:14:42.736 17400 17400 I olsrd   : detected duplicate packet with seqnr 0xba10 from 10.1.1.1 on wlan0 (564 Bytes)
+04-24 06:14:42.736 17400 17400 I olsrd   : detected duplicate packet with seqnr 0xba10 from 10.1.1.1 on wlan0 (564 Bytes)
+04-24 06:14:42.736 17400 17400 I olsrd   : detected duplicate packet with seqnr 0xba10 from 10.1.1.1 on wlan0 (564 Bytes)
+04-24 06:14:42.736 17400 17400 I olsrd   : detected duplicate packet with seqnr 0xba10 from 10.1.1.1 on wlan0 (564 Bytes)
+04-24 06:14:58.131 17400 17400 I olsrd   : detected duplicate packet with seqnr 0xba19 from 10.1.1.1 on wlan0 (380 Bytes)
+04-24 06:14:58.131 17400 17400 I olsrd   : detected duplicate packet with seqnr 0xba19 from 10.1.1.1 on wlan0 (380 Bytes)
+04-24 06:14:58.131 17400 17400 I olsrd   : detected duplicate packet with seqnr 0xba19 from 10.1.1.1 on wlan0 (380 Bytes)
+04-24 06:14:58.141 17400 17400 I olsrd   : detected duplicate packet with seqnr 0xba19 from 10.1.1.1 on wlan0 (380 Bytes)
+04-24 06:14:58.151 17400 17400 I olsrd   : detected duplicate packet with seqnr 0xba19 from 10.1.1.1 on wlan0 (380 Bytes)
+04-24 06:14:58.151 17400 17400 I olsrd   : detected duplicate packet with seqnr 0xba19 from 10.1.1.1 on wlan0 (380 Bytes)
+04-24 06:15:02.255   329   752 D MDnsDS  : MDnsSdListener::Monitor poll timed out
+04-24 06:15:02.255   329   752 D MDnsDS  : Going to poll with pollCount 1
+04-24 06:15:40.292  1423  1429 E MP-Decision: num online cores: 1 reqd : 2 available : 4 rq_depth:1.000000 hotplug_avg_load_dw: 66
+04-24 06:15:40.292  1423  1429 E MP-Decision: UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 total_time_up:0.000000
+04-24 06:15:40.432 19565 19565 D AndroidRuntime: 
+04-24 06:15:40.432 19565 19565 D AndroidRuntime: >>>>>> AndroidRuntime START com.android.internal.os.RuntimeInit <<<<<<
+04-24 06:15:40.432 19565 19565 D AndroidRuntime: CheckJNI is ON
+04-24 06:15:40.432 19565 19565 E dalvikvm: ERROR: must specify non-'.' bootclasspath
+04-24 06:15:40.432 19565 19565 W dalvikvm: CreateJavaVM failed: dvmClassStartup failed
+04-24 06:15:40.432 19565 19565 E AndroidRuntime: JNI_CreateJavaVM failed
+04-24 06:15:40.532 17400 17400 I olsrd   : Writing '1' (was 0) to /proc/sys/net/ipv4/conf/all/send_redirects
+04-24 06:15:40.532 17400 17400 I olsrd   : olsr.org -  0.6.6.2-n -git_0000000 -n -hash_ 7985605520f3cae9b305d56e83b35d9c stopped
+04-24 06:15:41.323  1423  1429 E MP-Decision: num online cores: 2 reqd : 1 available : 4 rq_depth:0.000000 hotplug_avg_load_dw: 20
+04-24 06:15:41.323  1423  1429 E MP-Decision: DOWN cpu:1 core_idx:1 Ns:1.100000 Ts:190 total_time_down:225.000000
+04-24 06:15:41.883  1423  1429 E MP-Decision: num online cores: 1 reqd : 2 available : 4 rq_depth:1.300000 hotplug_avg_load_dw: 69
+04-24 06:15:41.883  1423  1429 E MP-Decision: UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 total_time_up:0.000000
+04-24 06:15:42.454 19676 19676 D AndroidRuntime: 
+04-24 06:15:42.454 19676 19676 D AndroidRuntime: >>>>>> AndroidRuntime START com.android.internal.os.RuntimeInit <<<<<<
+04-24 06:15:42.454 19676 19676 D AndroidRuntime: CheckJNI is ON
+04-24 06:15:42.454 19676 19676 E dalvikvm: ERROR: must specify non-'.' bootclasspath
+04-24 06:15:42.454 19676 19676 W dalvikvm: CreateJavaVM failed: dvmClassStartup failed
+04-24 06:15:42.454 19676 19676 E AndroidRuntime: JNI_CreateJavaVM failed
+04-24 06:15:42.784 19677 19677 D AndroidRuntime: 
+04-24 06:15:42.784 19677 19677 D AndroidRuntime: >>>>>> AndroidRuntime START com.android.internal.os.RuntimeInit <<<<<<
+04-24 06:15:42.784 19677 19677 D AndroidRuntime: CheckJNI is ON
+04-24 06:15:42.784 19677 19677 E dalvikvm: ERROR: must specify non-'.' bootclasspath
+04-24 06:15:42.784 19677 19677 W dalvikvm: CreateJavaVM failed: dvmClassStartup failed
+04-24 06:15:42.784 19677 19677 E AndroidRuntime: JNI_CreateJavaVM failed

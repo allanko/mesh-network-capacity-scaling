@@ -1,0 +1,4 @@
+1493053091.227077
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.12    0.0.0.0         UG    0      0        0 usb0

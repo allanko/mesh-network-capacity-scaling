@@ -1,0 +1,464 @@
+Reading exp.xml
+The Dirs tag is deprecated and correct values are set elsewhere. No further action is needed.
+Done.
+
+===
+Running experiment n10_all_calibration_60
+sending incremental file list
+n10_all_calibration_60/
+n10_all_calibration_60/exp.xml
+n10_all_calibration_60/onAndroid-bin/
+n10_all_calibration_60/onAndroid-bin/monitor.sh
+n10_all_calibration_60/onAndroid-bin/reset.sh
+n10_all_calibration_60/onAndroid-bin/startInstrument.sh
+n10_all_calibration_60/onAndroid-bin/startScenario.sh
+n10_all_calibration_60/onAndroid-bin/stopInstrument.sh
+n10_all_calibration_60/onAndroid-bin/stopScenario.sh
+n10_all_calibration_60/onAndroid-bin/uberLocal.sh
+n10_all_calibration_60/onAndroid/
+n10_all_calibration_60/onAndroid/node001/
+n10_all_calibration_60/onAndroid/node001/run_1_gcn.sh
+n10_all_calibration_60/onAndroid/node002/
+n10_all_calibration_60/onAndroid/node002/run_1_gcn.sh
+n10_all_calibration_60/onAndroid/node003/
+n10_all_calibration_60/onAndroid/node003/run_1_gcn.sh
+n10_all_calibration_60/onAndroid/node004/
+n10_all_calibration_60/onAndroid/node004/run_1_gcn.sh
+n10_all_calibration_60/onAndroid/node005/
+n10_all_calibration_60/onAndroid/node005/run_1_gcn.sh
+n10_all_calibration_60/onAndroid/node006/
+n10_all_calibration_60/onAndroid/node006/run_1_gcn.sh
+n10_all_calibration_60/onAndroid/node007/
+n10_all_calibration_60/onAndroid/node007/run_1_gcn.sh
+n10_all_calibration_60/onAndroid/node008/
+n10_all_calibration_60/onAndroid/node008/run_1_gcn.sh
+n10_all_calibration_60/onAndroid/node009/
+n10_all_calibration_60/onAndroid/node009/run_1_gcn.sh
+n10_all_calibration_60/onAndroid/node010/
+n10_all_calibration_60/onAndroid/node010/run_1_gcn.sh
+
+sent 25057 bytes  received 406 bytes  50926.00 bytes/sec
+total size is 23651  speedup is 0.93
+Executing steps...
+Running step ConfigWithMgmt.
+[1] 11:46:41 [SUCCESS] 192.168.1.201
+Stderr: **********************************************************************
+                               WARNING
+**********************************************************************
+This is an MIT Lincoln Laboratory computer system and is the property
+                   of the United States Government.
+
+ This system is for authorized Laboratory use only. Users (authorized
+or unauthorized) have no explicit or implicit expectations of privacy.
+ Any or all users of this system and all files on this system may be
+  intercepted, monitored, recorded, copied, audited, inspected, and
+   disclosed to authorized individuals and agencies, including law
+enforcement personnel. By using this system, the user consents to such
+ interception, monitoring, recording, copying, auditing, inspections,
+     and disclosure at the discretion of MIT Lincoln Laboratory.
+
+ Pursuant to Laboratory's ISS-1, unauthorized or improper use of this
+  system may result in administrative disciplinary action including
+employment termination and civil and criminal penalties. By continuing
+  to use this system, you indicate your awareness of and consent to
+                  these terms and conditions of use.
+**********************************************************************
+Running: rsync -rltvp --delete --copy-links --exclude=".git" --exclude=".svn" /home/cbmen/key_testbed_components/copy_testbed_master/collect/n10_all_calibration_60_1704241437/run_tmp/ /home/cbmen/.harness/run/n10_all_calibration_60_1704241437/run_tmp
+[1] 11:46:41 [SUCCESS] 192.168.1.201
+sending incremental file list
+./
+exp.xml
+node_map
+nodes.lst
+testbedInfo.json
+
+sent 3305 bytes  received 91 bytes  6792.00 bytes/sec
+total size is 3002  speedup is 0.88
+Stderr: **********************************************************************
+                               WARNING
+**********************************************************************
+This is an MIT Lincoln Laboratory computer system and is the property
+                   of the United States Government.
+
+ This system is for authorized Laboratory use only. Users (authorized
+or unauthorized) have no explicit or implicit expectations of privacy.
+ Any or all users of this system and all files on this system may be
+  intercepted, monitored, recorded, copied, audited, inspected, and
+   disclosed to authorized individuals and agencies, including law
+enforcement personnel. By using this system, the user consents to such
+ interception, monitoring, recording, copying, auditing, inspections,
+     and disclosure at the discretion of MIT Lincoln Laboratory.
+
+ Pursuant to Laboratory's ISS-1, unauthorized or improper use of this
+  system may result in administrative disciplinary action including
+employment termination and civil and criminal penalties. By continuing
+  to use this system, you indicate your awareness of and consent to
+                  these terms and conditions of use.
+**********************************************************************
+Running: rsync -rltvp --delete --copy-links --exclude=".git" --exclude=".svn" ../runExp/onServer/ /home/cbmen/.harness/run/n10_all_calibration_60_1704241437/bin
+[1] 11:46:42 [SUCCESS] 192.168.1.201
+sending incremental file list
+./
+AndroidDebugBridge.py
+AndroidDebugBridge.pyc
+NletLogger.py
+NletLoggerClient.py
+collector.py
+helper.py
+startInstrument.sh
+stopInstrument.sh
+
+sent 60161 bytes  received 167 bytes  40218.67 bytes/sec
+total size is 59569  speedup is 0.99
+Stderr: **********************************************************************
+                               WARNING
+**********************************************************************
+This is an MIT Lincoln Laboratory computer system and is the property
+                   of the United States Government.
+
+ This system is for authorized Laboratory use only. Users (authorized
+or unauthorized) have no explicit or implicit expectations of privacy.
+ Any or all users of this system and all files on this system may be
+  intercepted, monitored, recorded, copied, audited, inspected, and
+   disclosed to authorized individuals and agencies, including law
+enforcement personnel. By using this system, the user consents to such
+ interception, monitoring, recording, copying, auditing, inspections,
+     and disclosure at the discretion of MIT Lincoln Laboratory.
+
+ Pursuant to Laboratory's ISS-1, unauthorized or improper use of this
+  system may result in administrative disciplinary action including
+employment termination and civil and criminal penalties. By continuing
+  to use this system, you indicate your awareness of and consent to
+                  these terms and conditions of use.
+**********************************************************************
+Running: rsync -rtvp --copy-links --keep-dirlinks --exclude=".git" --exclude=".svn" /home/cbmen/key_testbed_components/copy_testbed_master/collect/n10_all_calibration_60_1704241437/run_tmp/config_frame/ /
+[1] 11:46:42 [SUCCESS] node001
+sending incremental file list
+./
+data/
+data/llcbmen/
+data/llcbmen/pkg/
+data/llcbmen/pkg/n10_all_calibration_60/
+sdcard/
+sdcard/llcbmen/
+sdcard/llcbmen/EMANE/
+sdcard/llcbmen/data/
+sdcard/llcbmen/data/n10_all_calibration_60_1704241437/
+sdcard/llcbmen/n10_all_calibration_60/
+sdcard/llcbmen/n10_all_calibration_60/node001/
+sdcard/llcbmen/n10_all_calibration_60/node002/
+sdcard/llcbmen/n10_all_calibration_60/node003/
+sdcard/llcbmen/n10_all_calibration_60/node004/
+sdcard/llcbmen/n10_all_calibration_60/node005/
+sdcard/llcbmen/n10_all_calibration_60/node006/
+sdcard/llcbmen/n10_all_calibration_60/node007/
+sdcard/llcbmen/n10_all_calibration_60/node008/
+sdcard/llcbmen/n10_all_calibration_60/node009/
+sdcard/llcbmen/n10_all_calibration_60/node010/
+
+sent 1674 bytes  received 138 bytes  3624.00 bytes/sec
+total size is 55606  speedup is 30.69
+Stderr: void endpwent()(3) is not implemented on Android
+[2] 11:46:42 [SUCCESS] node003
+sending incremental file list
+./
+data/
+data/llcbmen/
+data/llcbmen/pkg/
+data/llcbmen/pkg/n10_all_calibration_60/
+sdcard/
+sdcard/llcbmen/
+sdcard/llcbmen/EMANE/
+sdcard/llcbmen/data/
+sdcard/llcbmen/data/n10_all_calibration_60_1704241437/
+sdcard/llcbmen/n10_all_calibration_60/
+sdcard/llcbmen/n10_all_calibration_60/node001/
+sdcard/llcbmen/n10_all_calibration_60/node002/
+sdcard/llcbmen/n10_all_calibration_60/node003/
+sdcard/llcbmen/n10_all_calibration_60/node004/
+sdcard/llcbmen/n10_all_calibration_60/node005/
+sdcard/llcbmen/n10_all_calibration_60/node006/
+sdcard/llcbmen/n10_all_calibration_60/node007/
+sdcard/llcbmen/n10_all_calibration_60/node008/
+sdcard/llcbmen/n10_all_calibration_60/node009/
+sdcard/llcbmen/n10_all_calibration_60/node010/
+
+sent 1674 bytes  received 138 bytes  3624.00 bytes/sec
+total size is 55606  speedup is 30.69
+Stderr: void endpwent()(3) is not implemented on Android
+[3] 11:46:42 [SUCCESS] node004
+sending incremental file list
+./
+data/
+data/llcbmen/
+data/llcbmen/pkg/
+data/llcbmen/pkg/n10_all_calibration_60/
+sdcard/
+sdcard/llcbmen/
+sdcard/llcbmen/EMANE/
+sdcard/llcbmen/data/
+sdcard/llcbmen/data/n10_all_calibration_60_1704241437/
+sdcard/llcbmen/n10_all_calibration_60/
+sdcard/llcbmen/n10_all_calibration_60/node001/
+sdcard/llcbmen/n10_all_calibration_60/node002/
+sdcard/llcbmen/n10_all_calibration_60/node003/
+sdcard/llcbmen/n10_all_calibration_60/node004/
+sdcard/llcbmen/n10_all_calibration_60/node005/
+sdcard/llcbmen/n10_all_calibration_60/node006/
+sdcard/llcbmen/n10_all_calibration_60/node007/
+sdcard/llcbmen/n10_all_calibration_60/node008/
+sdcard/llcbmen/n10_all_calibration_60/node009/
+sdcard/llcbmen/n10_all_calibration_60/node010/
+
+sent 1674 bytes  received 138 bytes  3624.00 bytes/sec
+total size is 55606  speedup is 30.69
+Stderr: void endpwent()(3) is not implemented on Android
+[4] 11:46:42 [SUCCESS] node006
+sending incremental file list
+./
+data/
+data/llcbmen/
+data/llcbmen/pkg/
+data/llcbmen/pkg/n10_all_calibration_60/
+sdcard/
+sdcard/llcbmen/
+sdcard/llcbmen/EMANE/
+sdcard/llcbmen/data/
+sdcard/llcbmen/data/n10_all_calibration_60_1704241437/
+sdcard/llcbmen/n10_all_calibration_60/
+sdcard/llcbmen/n10_all_calibration_60/node001/
+sdcard/llcbmen/n10_all_calibration_60/node002/
+sdcard/llcbmen/n10_all_calibration_60/node003/
+sdcard/llcbmen/n10_all_calibration_60/node004/
+sdcard/llcbmen/n10_all_calibration_60/node005/
+sdcard/llcbmen/n10_all_calibration_60/node006/
+sdcard/llcbmen/n10_all_calibration_60/node007/
+sdcard/llcbmen/n10_all_calibration_60/node008/
+sdcard/llcbmen/n10_all_calibration_60/node009/
+sdcard/llcbmen/n10_all_calibration_60/node010/
+
+sent 1674 bytes  received 138 bytes  3624.00 bytes/sec
+total size is 55606  speedup is 30.69
+Stderr: void endpwent()(3) is not implemented on Android
+[5] 11:46:42 [SUCCESS] node005
+sending incremental file list
+data/
+data/llcbmen/
+data/llcbmen/pkg/
+data/llcbmen/pkg/n10_all_calibration_60/
+sdcard/
+sdcard/llcbmen/
+sdcard/llcbmen/EMANE/
+sdcard/llcbmen/data/
+sdcard/llcbmen/data/n10_all_calibration_60_1704241437/
+sdcard/llcbmen/n10_all_calibration_60/
+sdcard/llcbmen/n10_all_calibration_60/node001/
+sdcard/llcbmen/n10_all_calibration_60/node002/
+sdcard/llcbmen/n10_all_calibration_60/node003/
+sdcard/llcbmen/n10_all_calibration_60/node004/
+sdcard/llcbmen/n10_all_calibration_60/node005/
+sdcard/llcbmen/n10_all_calibration_60/node006/
+sdcard/llcbmen/n10_all_calibration_60/node007/
+sdcard/llcbmen/n10_all_calibration_60/node008/
+sdcard/llcbmen/n10_all_calibration_60/node009/
+sdcard/llcbmen/n10_all_calibration_60/node010/
+
+sent 1671 bytes  received 135 bytes  3612.00 bytes/sec
+total size is 55606  speedup is 30.79
+Stderr: void endpwent()(3) is not implemented on Android
+[6] 11:46:42 [SUCCESS] node007
+sending incremental file list
+./
+data/
+data/llcbmen/
+data/llcbmen/pkg/
+data/llcbmen/pkg/n10_all_calibration_60/
+sdcard/
+sdcard/llcbmen/
+sdcard/llcbmen/EMANE/
+sdcard/llcbmen/data/
+sdcard/llcbmen/data/n10_all_calibration_60_1704241437/
+sdcard/llcbmen/n10_all_calibration_60/
+sdcard/llcbmen/n10_all_calibration_60/node001/
+sdcard/llcbmen/n10_all_calibration_60/node002/
+sdcard/llcbmen/n10_all_calibration_60/node003/
+sdcard/llcbmen/n10_all_calibration_60/node004/
+sdcard/llcbmen/n10_all_calibration_60/node005/
+sdcard/llcbmen/n10_all_calibration_60/node006/
+sdcard/llcbmen/n10_all_calibration_60/node007/
+sdcard/llcbmen/n10_all_calibration_60/node008/
+sdcard/llcbmen/n10_all_calibration_60/node009/
+sdcard/llcbmen/n10_all_calibration_60/node010/
+
+sent 1674 bytes  received 138 bytes  3624.00 bytes/sec
+total size is 55606  speedup is 30.69
+Stderr: void endpwent()(3) is not implemented on Android
+[7] 11:46:42 [SUCCESS] node002
+sending incremental file list
+./
+data/
+data/llcbmen/
+data/llcbmen/pkg/
+data/llcbmen/pkg/n10_all_calibration_60/
+sdcard/
+sdcard/llcbmen/
+sdcard/llcbmen/EMANE/
+sdcard/llcbmen/data/
+sdcard/llcbmen/data/n10_all_calibration_60_1704241437/
+sdcard/llcbmen/n10_all_calibration_60/
+sdcard/llcbmen/n10_all_calibration_60/node001/
+sdcard/llcbmen/n10_all_calibration_60/node002/
+sdcard/llcbmen/n10_all_calibration_60/node003/
+sdcard/llcbmen/n10_all_calibration_60/node004/
+sdcard/llcbmen/n10_all_calibration_60/node005/
+sdcard/llcbmen/n10_all_calibration_60/node006/
+sdcard/llcbmen/n10_all_calibration_60/node007/
+sdcard/llcbmen/n10_all_calibration_60/node008/
+sdcard/llcbmen/n10_all_calibration_60/node009/
+sdcard/llcbmen/n10_all_calibration_60/node010/
+
+sent 1674 bytes  received 138 bytes  3624.00 bytes/sec
+total size is 55606  speedup is 30.69
+Stderr: void endpwent()(3) is not implemented on Android
+[8] 11:46:42 [SUCCESS] node009
+sending incremental file list
+./
+data/
+data/llcbmen/
+data/llcbmen/pkg/
+data/llcbmen/pkg/n10_all_calibration_60/
+sdcard/
+sdcard/llcbmen/
+sdcard/llcbmen/EMANE/
+sdcard/llcbmen/data/
+sdcard/llcbmen/data/n10_all_calibration_60_1704241437/
+sdcard/llcbmen/n10_all_calibration_60/
+sdcard/llcbmen/n10_all_calibration_60/node001/
+sdcard/llcbmen/n10_all_calibration_60/node002/
+sdcard/llcbmen/n10_all_calibration_60/node003/
+sdcard/llcbmen/n10_all_calibration_60/node004/
+sdcard/llcbmen/n10_all_calibration_60/node005/
+sdcard/llcbmen/n10_all_calibration_60/node006/
+sdcard/llcbmen/n10_all_calibration_60/node007/
+sdcard/llcbmen/n10_all_calibration_60/node008/
+sdcard/llcbmen/n10_all_calibration_60/node009/
+sdcard/llcbmen/n10_all_calibration_60/node010/
+
+sent 1674 bytes  received 138 bytes  3624.00 bytes/sec
+total size is 55606  speedup is 30.69
+Stderr: void endpwent()(3) is not implemented on Android
+[9] 11:46:42 [SUCCESS] node008
+sending incremental file list
+./
+data/
+data/llcbmen/
+data/llcbmen/pkg/
+data/llcbmen/pkg/n10_all_calibration_60/
+sdcard/
+sdcard/llcbmen/
+sdcard/llcbmen/EMANE/
+sdcard/llcbmen/data/
+sdcard/llcbmen/data/n10_all_calibration_60_1704241437/
+sdcard/llcbmen/n10_all_calibration_60/
+sdcard/llcbmen/n10_all_calibration_60/node001/
+sdcard/llcbmen/n10_all_calibration_60/node002/
+sdcard/llcbmen/n10_all_calibration_60/node003/
+sdcard/llcbmen/n10_all_calibration_60/node004/
+sdcard/llcbmen/n10_all_calibration_60/node005/
+sdcard/llcbmen/n10_all_calibration_60/node006/
+sdcard/llcbmen/n10_all_calibration_60/node007/
+sdcard/llcbmen/n10_all_calibration_60/node008/
+sdcard/llcbmen/n10_all_calibration_60/node009/
+sdcard/llcbmen/n10_all_calibration_60/node010/
+
+sent 1674 bytes  received 138 bytes  3624.00 bytes/sec
+total size is 55606  speedup is 30.69
+Stderr: void endpwent()(3) is not implemented on Android
+[10] 11:46:42 [SUCCESS] node010
+sending incremental file list
+data/
+data/llcbmen/
+data/llcbmen/pkg/
+data/llcbmen/pkg/n10_all_calibration_60/
+sdcard/
+sdcard/llcbmen/
+sdcard/llcbmen/EMANE/
+sdcard/llcbmen/data/
+sdcard/llcbmen/data/n10_all_calibration_60_1704241437/
+sdcard/llcbmen/n10_all_calibration_60/
+sdcard/llcbmen/n10_all_calibration_60/node001/
+sdcard/llcbmen/n10_all_calibration_60/node002/
+sdcard/llcbmen/n10_all_calibration_60/node003/
+sdcard/llcbmen/n10_all_calibration_60/node004/
+sdcard/llcbmen/n10_all_calibration_60/node005/
+sdcard/llcbmen/n10_all_calibration_60/node006/
+sdcard/llcbmen/n10_all_calibration_60/node007/
+sdcard/llcbmen/n10_all_calibration_60/node008/
+sdcard/llcbmen/n10_all_calibration_60/node009/
+sdcard/llcbmen/n10_all_calibration_60/node010/
+
+sent 1671 bytes  received 135 bytes  3612.00 bytes/sec
+total size is 55606  speedup is 30.79
+Stderr: void endpwent()(3) is not implemented on Android
+  Running step UberRun.
+Starting instrumentation on servers...
+[1] 11:46:43 [SUCCESS] 192.168.1.201
+Stderr: **********************************************************************
+                               WARNING
+**********************************************************************
+This is an MIT Lincoln Laboratory computer system and is the property
+                   of the United States Government.
+
+ This system is for authorized Laboratory use only. Users (authorized
+or unauthorized) have no explicit or implicit expectations of privacy.
+ Any or all users of this system and all files on this system may be
+  intercepted, monitored, recorded, copied, audited, inspected, and
+   disclosed to authorized individuals and agencies, including law
+enforcement personnel. By using this system, the user consents to such
+ interception, monitoring, recording, copying, auditing, inspections,
+     and disclosure at the discretion of MIT Lincoln Laboratory.
+
+ Pursuant to Laboratory's ISS-1, unauthorized or improper use of this
+  system may result in administrative disciplinary action including
+employment termination and civil and criminal penalties. By continuing
+  to use this system, you indicate your awareness of and consent to
+                  these terms and conditions of use.
+**********************************************************************
+<type 'str'>
+  Scenario basetime is 1493059060 = 14:37:40.
+node001: /data/llcbmen/uberLocalStartup.sh /data/llcbmen /sdcard/llcbmen n10_all_calibration_60 n10_all_calibration_60_1704241437 1493059060 300 30   -i wlan0 -b 10000 10.1.1.255:15387  &
+node002: /data/llcbmen/uberLocalStartup.sh /data/llcbmen /sdcard/llcbmen n10_all_calibration_60 n10_all_calibration_60_1704241437 1493059060 300 30   -i wlan0 -b 10000 10.1.1.255:15387  &
+node003: /data/llcbmen/uberLocalStartup.sh /data/llcbmen /sdcard/llcbmen n10_all_calibration_60 n10_all_calibration_60_1704241437 1493059060 300 30   -i wlan0 -b 10000 10.1.1.255:15387  &
+node004: /data/llcbmen/uberLocalStartup.sh /data/llcbmen /sdcard/llcbmen n10_all_calibration_60 n10_all_calibration_60_1704241437 1493059060 300 30   -i wlan0 -b 10000 10.1.1.255:15387  &
+node005: /data/llcbmen/uberLocalStartup.sh /data/llcbmen /sdcard/llcbmen n10_all_calibration_60 n10_all_calibration_60_1704241437 1493059060 300 30   -i wlan0 -b 10000 10.1.1.255:15387  &
+node006: /data/llcbmen/uberLocalStartup.sh /data/llcbmen /sdcard/llcbmen n10_all_calibration_60 n10_all_calibration_60_1704241437 1493059060 300 30   -i wlan0 -b 10000 10.1.1.255:15387  &
+node007: /data/llcbmen/uberLocalStartup.sh /data/llcbmen /sdcard/llcbmen n10_all_calibration_60 n10_all_calibration_60_1704241437 1493059060 300 30   -i wlan0 -b 10000 10.1.1.255:15387  &
+node008: /data/llcbmen/uberLocalStartup.sh /data/llcbmen /sdcard/llcbmen n10_all_calibration_60 n10_all_calibration_60_1704241437 1493059060 300 30   -i wlan0 -b 10000 10.1.1.255:15387  &
+node009: /data/llcbmen/uberLocalStartup.sh /data/llcbmen /sdcard/llcbmen n10_all_calibration_60 n10_all_calibration_60_1704241437 1493059060 300 30   -i wlan0 -b 10000 10.1.1.255:15387  &
+node010: /data/llcbmen/uberLocalStartup.sh /data/llcbmen /sdcard/llcbmen n10_all_calibration_60 n10_all_calibration_60_1704241437 1493059060 300 30   -i wlan0 -b 10000 10.1.1.255:15387  &
+[1] 11:46:43 [SUCCESS] node010
+Stderr: void endpwent()(3) is not implemented on Android
+[2] 11:46:43 [SUCCESS] node008
+Stderr: void endpwent()(3) is not implemented on Android
+[3] 11:46:43 [SUCCESS] node009
+Stderr: void endpwent()(3) is not implemented on Android
+[4] 11:46:43 [SUCCESS] node002
+Stderr: void endpwent()(3) is not implemented on Android
+[5] 11:46:43 [SUCCESS] node003
+Stderr: void endpwent()(3) is not implemented on Android
+[6] 11:46:43 [SUCCESS] node001
+Stderr: void endpwent()(3) is not implemented on Android
+[7] 11:46:43 [SUCCESS] node007
+Stderr: void endpwent()(3) is not implemented on Android
+[8] 11:46:43 [SUCCESS] node006
+Stderr: void endpwent()(3) is not implemented on Android
+[9] 11:46:43 [SUCCESS] node005
+Stderr: void endpwent()(3) is not implemented on Android
+[10] 11:46:43 [SUCCESS] node004
+Stderr: void endpwent()(3) is not implemented on Android
+
+Done.
+===
+
+Cleaning up logger client...
+done.

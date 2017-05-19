@@ -1,0 +1,335 @@
+--------- beginning of /dev/log/main
+04-24 06:04:01.769  1423  1429 E MP-Decision: num online cores: 2 reqd : 1 available : 4 rq_depth:0.000000 hotplug_avg_load_dw: 20
+04-24 06:04:01.769  1423  1429 E MP-Decision: DOWN cpu:1 core_idx:1 Ns:1.100000 Ts:190 total_time_down:765.000000
+04-24 06:04:02.019  1423  1429 E MP-Decision: num online cores: 1 reqd : 2 available : 4 rq_depth:1.000000 hotplug_avg_load_dw: 60
+04-24 06:04:02.019  1423  1429 E MP-Decision: UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 total_time_up:0.000000
+04-24 06:04:02.609 17140 17140 D AndroidRuntime: 
+04-24 06:04:02.609 17140 17140 D AndroidRuntime: >>>>>> AndroidRuntime START com.android.internal.os.RuntimeInit <<<<<<
+04-24 06:04:02.609 17140 17140 D AndroidRuntime: CheckJNI is ON
+04-24 06:04:02.609 17140 17140 E dalvikvm: ERROR: must specify non-'.' bootclasspath
+04-24 06:04:02.609 17140 17140 W dalvikvm: CreateJavaVM failed: dvmClassStartup failed
+04-24 06:04:02.609 17140 17140 E AndroidRuntime: JNI_CreateJavaVM failed
+04-24 06:04:02.950 17141 17141 D AndroidRuntime: 
+04-24 06:04:02.950 17141 17141 D AndroidRuntime: >>>>>> AndroidRuntime START com.android.internal.os.RuntimeInit <<<<<<
+04-24 06:04:02.950 17141 17141 D AndroidRuntime: CheckJNI is ON
+04-24 06:04:02.950 17141 17141 E dalvikvm: ERROR: must specify non-'.' bootclasspath
+04-24 06:04:02.950 17141 17141 W dalvikvm: CreateJavaVM failed: dvmClassStartup failed
+04-24 06:04:02.950 17141 17141 E AndroidRuntime: JNI_CreateJavaVM failed
+04-24 06:04:05.372  1423  1429 E MP-Decision: num online cores: 2 reqd : 1 available : 4 rq_depth:0.000000 hotplug_avg_load_dw: 15
+04-24 06:04:05.372  1423  1429 E MP-Decision: DOWN cpu:1 core_idx:1 Ns:1.100000 Ts:190 total_time_down:3219.000000
+04-24 06:10:00.124 17318 17318 I olsrd   : Writing '1' (was 1) to /proc/sys/net/ipv4/ip_forward
+04-24 06:10:00.124 17318 17318 I olsrd   : Writing '0' (was 1) to /proc/sys/net/ipv4/conf/all/send_redirects
+04-24 06:10:00.124 17318 17318 I olsrd   : Writing '0' (was 0) to /proc/sys/net/ipv4/conf/all/rp_filter
+04-24 06:10:00.134 17318 17318 I olsrd   : Writing '0' (was 0) to /proc/sys/net/ipv4/conf/wlan0/send_redirects
+04-24 06:10:00.134 17318 17318 I olsrd   : Writing '0' (was 0) to /proc/sys/net/ipv4/conf/wlan0/rp_filter
+04-24 06:10:00.134 17318 17318 I olsrd   : Adding interface wlan0
+04-24 06:10:00.134 17318 17318 I olsrd   : New main address: 10.1.1.13
+04-24 06:10:00.134 17319 17319 I olsrd   : olsr.org -  0.6.6.2-n -git_0000000 -n -hash_ 7985605520f3cae9b305d56e83b35d9c successfully started
+--------- beginning of /dev/log/system
+04-24 06:10:05.048   805   832 W ProcessStats: Skipping unknown process pid 17348
+04-24 06:10:05.048   805   832 W ProcessStats: Skipping unknown process pid 17349
+04-24 06:10:05.048   805   832 W ProcessStats: Skipping unknown process pid 17350
+04-24 06:11:06.458 17319 17319 I olsrd   : detected duplicate packet with seqnr 0xb997 from 10.1.1.1 on wlan0 (432 Bytes)
+04-24 06:11:06.518 17319 17319 I olsrd   : detected duplicate packet with seqnr 0xb997 from 10.1.1.1 on wlan0 (432 Bytes)
+04-24 06:11:16.978 17319 17319 I olsrd   : detected duplicate packet with seqnr 0xb99e from 10.1.1.1 on wlan0 (252 Bytes)
+04-24 06:11:16.978 17319 17319 I olsrd   : detected duplicate packet with seqnr 0xb99e from 10.1.1.1 on wlan0 (252 Bytes)
+04-24 06:11:40.180 17319 17319 I olsrd   : detected duplicate packet with seqnr 0xb9aa from 10.1.1.1 on wlan0 (588 Bytes)
+04-24 06:11:40.180 17319 17319 I olsrd   : detected duplicate packet with seqnr 0xb9aa from 10.1.1.1 on wlan0 (588 Bytes)
+04-24 06:11:59.529 17319 17319 I olsrd   : detected duplicate packet with seqnr 0xb9b5 from 10.1.1.1 on wlan0 (812 Bytes)
+04-24 06:12:11.951 17319 17319 I olsrd   : detected duplicate packet with seqnr 0x753e from 10.1.1.12 on wlan0 (472 Bytes)
+04-24 06:14:42.716 17319 17319 I olsrd   : detected duplicate packet with seqnr 0xba10 from 10.1.1.1 on wlan0 (564 Bytes)
+04-24 06:14:46.970   330   751 D MDnsDS  : MDnsSdListener::Monitor poll timed out
+04-24 06:14:46.970   330   751 D MDnsDS  : Going to poll with pollCount 1
+04-24 06:14:58.081 17319 17319 I olsrd   : detected duplicate packet with seqnr 0xba19 from 10.1.1.1 on wlan0 (380 Bytes)
+04-24 06:14:58.131 17319 17319 I olsrd   : detected duplicate packet with seqnr 0xba19 from 10.1.1.1 on wlan0 (380 Bytes)
+04-24 06:14:58.141 17319 17319 I olsrd   : detected duplicate packet with seqnr 0xba19 from 10.1.1.1 on wlan0 (380 Bytes)
+04-24 06:14:58.141 17319 17319 I olsrd   : detected duplicate packet with seqnr 0xba19 from 10.1.1.1 on wlan0 (380 Bytes)
+04-24 06:15:13.576   942   942 E kickstart: Total bytes received so far: 48
+04-24 06:15:13.576   942   942 E kickstart: EVENT: RECEIVED <-- SAHARA_HELLO
+04-24 06:15:13.576   942   942 E kickstart: EVENT: SENDING --> SAHARA_HELLO_RESPONSE
+04-24 06:15:13.576   942   942 E kickstart: EVENT: sahara_mode                         = 2
+04-24 06:15:13.576   942   942 E kickstart: EVENT: m_comm->sahara_hello_packet_rx.mode = 2
+04-24 06:15:13.576   942   942 E kickstart: EVENT: helloRx.mode                        = 2
+04-24 06:15:13.586   942   942 E kickstart: Total bytes received so far: 64
+04-24 06:15:13.586   942   942 E kickstart: EVENT: RECEIVED <-- SAHARA_MEMORY_DEBUG
+04-24 06:15:13.586   942   942 E kickstart: Total bytes received so far: 116
+04-24 06:15:13.586   942   942 E kickstart: EVENT: 0x46980000, len=000C0000, "m9kefs1", ""
+04-24 06:15:13.586   942   942 E kickstart: EVENT: STATE <-- SAHARA_WAIT_MEMORY_REGION
+04-24 06:15:13.586   942   942 E kickstart: EVENT: Saving "/dev/block/platform/msm_sdcc.1/by-name/m9kefs1"
+04-24 06:15:13.666   942   942 E kickstart: Total bytes received so far: 786548
+04-24 06:15:13.666   942   942 E kickstart: EVENT: Received: 786432 bytes
+04-24 06:15:13.666   942   942 E kickstart: EVENT: Writing to disk
+04-24 06:15:13.666   942   942 E kickstart: EVENT: Successfully wrote to disk
+04-24 06:15:13.666   942   942 E kickstart: Received file "m9kefs1"
+04-24 06:15:13.716   942   942 E kickstart: Sync finish Received file "m9kefs1"
+04-24 06:15:13.716   942   942 E kickstart: 786432 bytes transferred in 0.121s (6.20 MBps)
+04-24 06:15:13.716   942   942 E kickstart: EVENT: num_debug_entries not >=0
+04-24 06:15:13.716   942   942 E kickstart: Successfully downloaded files from target 
+04-24 06:15:13.716   942   942 E kickstart: EVENT: SENDING --> SAHARA_RESET
+04-24 06:15:13.716   942   942 E kickstart: Total bytes received so far: 786556
+04-24 06:15:13.716   942   942 E kickstart: EVENT: RECEIVED <-- SAHARA_RESET_RESP
+04-24 06:15:13.716   942   942 E kickstart: Sahara protocol completed
+04-24 06:15:13.716   942   942 E kickstart: EVENT: STATE <-- SAHARA_WAIT_HELLO
+04-24 06:15:40.281  1423  1429 E MP-Decision: num online cores: 1 reqd : 2 available : 4 rq_depth:1.000000 hotplug_avg_load_dw: 66
+04-24 06:15:40.281  1423  1429 E MP-Decision: UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 total_time_up:0.000000
+04-24 06:15:40.421 19482 19482 D AndroidRuntime: 
+04-24 06:15:40.421 19482 19482 D AndroidRuntime: >>>>>> AndroidRuntime START com.android.internal.os.RuntimeInit <<<<<<
+04-24 06:15:40.421 19482 19482 D AndroidRuntime: CheckJNI is ON
+04-24 06:15:40.421 19482 19482 E dalvikvm: ERROR: must specify non-'.' bootclasspath
+04-24 06:15:40.431 19482 19482 W dalvikvm: CreateJavaVM failed: dvmClassStartup failed
+04-24 06:15:40.431 19482 19482 E AndroidRuntime: JNI_CreateJavaVM failed
+04-24 06:15:40.532 17319 17319 I olsrd   : Writing '1' (was 0) to /proc/sys/net/ipv4/conf/all/send_redirects
+04-24 06:15:40.532 17319 17319 I olsrd   : olsr.org -  0.6.6.2-n -git_0000000 -n -hash_ 7985605520f3cae9b305d56e83b35d9c stopped
+04-24 06:15:40.602 19500 19500 F libc    : Fatal signal 13 (SIGPIPE) at 0x00004c2c (code=0), thread 19500 (sed)
+04-24 06:15:40.712   331   331 I DEBUG   : *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** ***
+04-24 06:15:40.712   331   331 I DEBUG   : Build fingerprint: 'samsung/jfltexx/jflte:4.2.2/JDQ39/I9505XXUAMDE:user/release-keys'
+04-24 06:15:40.712   331   331 I DEBUG   : Revision: '11'
+04-24 06:15:40.712   331   331 I DEBUG   : pid: 19500, tid: 19500, name: sed  >>> sed <<<
+04-24 06:15:40.712   331   331 I DEBUG   : signal 13 (SIGPIPE), code -6 (SI_TKILL), fault addr --------
+04-24 06:15:40.722   331   331 I DEBUG   :     r0 ffffffe0  r1 b71b0368  r2 00000041  r3 00000888
+04-24 06:15:40.722   331   331 I DEBUG   :     r4 b6f48170  r5 b71b0368  r6 00000041  r7 00000004
+04-24 06:15:40.722   331   331 I DEBUG   : AM write failure (32 / Broken pipe)
+04-24 06:15:40.722   331   331 I DEBUG   :     r8 00001000  r9 00000000  sl b6f57998  fp 0000000c
+04-24 06:15:40.722   331   331 I DEBUG   :     ip b6f4bea8  sp bef35c58  lr b6f207a9  pc b6f1b24c  cpsr 20000010
+04-24 06:15:40.722   331   331 I DEBUG   :     d0  0000000000000000  d1  0000000000000000
+04-24 06:15:40.722   331   331 I DEBUG   :     d2  0000000000000000  d3  0000000000000000
+04-24 06:15:40.722   331   331 I DEBUG   :     d4  0000000000000000  d5  0000000000000000
+04-24 06:15:40.722   331   331 I DEBUG   :     d6  0000000000000000  d7  579f6b0000000000
+04-24 06:15:40.722   331   331 I DEBUG   :     d8  0000000000000000  d9  0000000000000000
+04-24 06:15:40.722   331   331 I DEBUG   :     d10 0000000000000000  d11 0000000000000000
+04-24 06:15:40.722   331   331 I DEBUG   :     d12 0000000000000000  d13 0000000000000000
+04-24 06:15:40.722   331   331 I DEBUG   :     d14 0000000000000000  d15 0000000000000000
+04-24 06:15:40.722   331   331 I DEBUG   :     d16 30330a306e616c77  d17 310a313439363237
+04-24 06:15:40.722   331   331 I DEBUG   :     d18 0a300a3936393135  d19 300a300a300a3139
+04-24 06:15:40.722   331   331 I DEBUG   :     d20 3637370a3637310a  d21 34340a3636353438
+04-24 06:15:40.722   331   331 I DEBUG   :     d22 300a300a37353734  d23 300a300a300a300a
+04-24 06:15:40.722   331   331 I DEBUG   :     d24 0000000000000000  d25 0000000000000000
+04-24 06:15:40.722   331   331 I DEBUG   :     d26 0000000000000000  d27 0000000000000000
+04-24 06:15:40.722   331   331 I DEBUG   :     d28 0000000000000000  d29 0000000000000000
+04-24 06:15:40.722   331   331 I DEBUG   :     d30 0000000000000000  d31 0000000000000000
+04-24 06:15:40.722   331   331 I DEBUG   :     scr 00000010
+04-24 06:15:40.722   805  1000 W NativeCrashListener: Couldn't find ProcessRecord for pid 19500
+04-24 06:15:40.722   805  1000 D NativeCrashListener: Closing socket connection: FileDescriptor[194]
+04-24 06:15:40.732   331   331 I DEBUG   : 
+04-24 06:15:40.732   331   331 I DEBUG   : backtrace:
+04-24 06:15:40.732   331   331 I DEBUG   :     #00  pc 0001b24c  /system/lib/libc.so (write+12)
+04-24 06:15:40.732   331   331 I DEBUG   :     #01  pc 000207a7  /system/lib/libc.so (__sflush+50)
+04-24 06:15:40.732   331   331 I DEBUG   :     #02  pc 00020637  /system/lib/libc.so (fclose+54)
+04-24 06:15:40.732   331   331 I DEBUG   :     #03  pc 0000d45d  /system/lib/libc.so
+04-24 06:15:40.732   331   331 I DEBUG   :     #04  pc 0000ea18  /system/lib/libc.so (pthread_once+108)
+04-24 06:15:40.732   331   331 I DEBUG   :     #05  pc 0000dc7b  /system/lib/libc.so (malloc_debug_fini+10)
+04-24 06:15:40.732   331   331 I DEBUG   :     #06  pc 00024ab9  /system/lib/libc.so (__cxa_finalize+156)
+04-24 06:15:40.732   331   331 I DEBUG   :     #07  pc 00024d71  /system/lib/libc.so (exit+6)
+04-24 06:15:40.732   331   331 I DEBUG   :     #08  pc 00025b97  /system/xbin/busybox
+04-24 06:15:40.732   331   331 I DEBUG   :     #09  pc 00025bd3  /system/xbin/busybox
+04-24 06:15:40.732   331   331 I DEBUG   :     #10  pc 00025d7f  /system/xbin/busybox
+04-24 06:15:40.732   331   331 I DEBUG   :     #11  pc 0000dd83  /system/lib/libc.so (__libc_init+50)
+04-24 06:15:40.732   331   331 I DEBUG   :     #12  pc 000058b0  /system/xbin/busybox
+04-24 06:15:40.732   331   331 I DEBUG   : 
+04-24 06:15:40.732   331   331 I DEBUG   : stack:
+04-24 06:15:40.732   331   331 I DEBUG   :          bef35c18  00000005  
+04-24 06:15:40.732   331   331 I DEBUG   :          bef35c1c  bef35c48  [stack]
+04-24 06:15:40.732   331   331 I DEBUG   :          bef35c20  bef35d5c  [stack]
+04-24 06:15:40.732   331   331 I DEBUG   :          bef35c24  b6f8c23b  /system/xbin/busybox
+04-24 06:15:40.732   331   331 I DEBUG   :          bef35c28  bef35c48  [stack]
+04-24 06:15:40.732   331   331 I DEBUG   :          bef35c2c  b6fe5448  /system/xbin/busybox
+04-24 06:15:40.732   331   331 I DEBUG   :          bef35c30  00000000  
+04-24 06:15:40.732   331   331 I DEBUG   :          bef35c34  00000000  
+04-24 06:15:40.732   331   331 I DEBUG   :          bef35c38  00000000  
+04-24 06:15:40.732   331   331 I DEBUG   :          bef35c3c  00000000  
+04-24 06:15:40.732   331   331 I DEBUG   :          bef35c40  00000000  
+04-24 06:15:40.732   331   331 I DEBUG   :          bef35c44  00000000  
+04-24 06:15:40.732   331   331 I DEBUG   :          bef35c48  b6f48170  /system/lib/libc.so
+04-24 06:15:40.732   331   331 I DEBUG   :          bef35c4c  b71b0368  [heap]
+04-24 06:15:40.732   331   331 I DEBUG   :          bef35c50  df0027ad  
+04-24 06:15:40.732   331   331 I DEBUG   :          bef35c54  00000000  
+04-24 06:15:40.732   331   331 I DEBUG   :     #00  bef35c58  b6f48170  /system/lib/libc.so
+04-24 06:15:40.732   331   331 I DEBUG   :          ........  ........
+04-24 06:15:40.732   331   331 I DEBUG   :     #01  bef35c58  b6f48170  /system/lib/libc.so
+04-24 06:15:40.732   331   331 I DEBUG   :          bef35c5c  00000008  
+04-24 06:15:40.732   331   331 I DEBUG   :          bef35c60  b6f4bea8  
+04-24 06:15:40.732   331   331 I DEBUG   :          bef35c64  b6f2063b  /system/lib/libc.so (fclose+58)
+04-24 06:15:40.732   331   331 I DEBUG   :     #02  bef35c68  b6f4811c  /system/lib/libc.so
+04-24 06:15:40.732   331   331 I DEBUG   :          bef35c6c  b6f0d449  /system/lib/libc.so
+04-24 06:15:40.732   331   331 I DEBUG   :          bef35c70  00000000  
+04-24 06:15:40.732   331   331 I DEBUG   :          bef35c74  b6f0d461  /system/lib/libc.so
+04-24 06:15:40.732   331   331 I DEBUG   : 
+04-24 06:15:40.732   331   331 I DEBUG   : memory near r1:
+04-24 06:15:40.732   331   331 I DEBUG   :     b71b0348 00000000 00000000 00000000 00000000  
+04-24 06:15:40.732   331   331 I DEBUG   :     b71b0358 00000000 00000000 00000000 0000100b  
+04-24 06:15:40.732   331   331 I DEBUG   :     b71b0368 6e616c77 30330a30 39363237 310a3134  
+04-24 06:15:40.732   331   331 I DEBUG   :     b71b0378 36393135 0a300a39 300a3139 300a300a  
+04-24 06:15:40.732   331   331 I DEBUG   :     b71b0388 3637310a 3637370a 36353438 34340a36  
+04-24 06:15:40.732   331   331 I DEBUG   :     b71b0398 37353734 300a300a 300a300a 300a300a  
+04-24 06:15:40.732   331   331 I DEBUG   :     b71b03a8 00000a0a 00000000 00000000 00000000  
+04-24 06:15:40.732   331   331 I DEBUG   :     b71b03b8 00000000 00000000 00000000 00000000  
+04-24 06:15:40.732   331   331 I DEBUG   :     b71b03c8 00000000 00000000 00000000 00000000  
+04-24 06:15:40.732   331   331 I DEBUG   :     b71b03d8 00000000 00000000 00000000 00000000  
+04-24 06:15:40.732   331   331 I DEBUG   :     b71b03e8 00000000 00000000 00000000 00000000  
+04-24 06:15:40.732   331   331 I DEBUG   :     b71b03f8 00000000 00000000 00000000 00000000  
+04-24 06:15:40.732   331   331 I DEBUG   :     b71b0408 00000000 00000000 00000000 00000000  
+04-24 06:15:40.732   331   331 I DEBUG   :     b71b0418 00000000 00000000 00000000 00000000  
+04-24 06:15:40.742   331   331 I DEBUG   :     b71b0428 00000000 00000000 00000000 00000000  
+04-24 06:15:40.742   331   331 I DEBUG   :     b71b0438 00000000 00000000 00000000 00000000  
+04-24 06:15:40.742   331   331 I DEBUG   : 
+04-24 06:15:40.742   331   331 I DEBUG   : memory near r4:
+04-24 06:15:40.742   331   331 I DEBUG   :     b6f48150 00000000 00000000 00000000 00000000  
+04-24 06:15:40.742   331   331 I DEBUG   :     b6f48160 00000000 00000000 00001000 00000042  
+04-24 06:15:40.742   331   331 I DEBUG   :     b6f48170 b71b0368 00000000 00001000 00010888  
+04-24 06:15:40.742   331   331 I DEBUG   :     b6f48180 b71b0368 00001000 00000000 b6f48170  
+04-24 06:15:40.742   331   331 I DEBUG   :     b6f48190 b6f222df b6f22261 b6f222bb b6f22283  
+04-24 06:15:40.742   331   331 I DEBUG   :     b6f481a0 b6f4823c 00000000 00000000 00000000  
+04-24 06:15:40.742   331   331 I DEBUG   :     b6f481b0 00000000 00000000 00000000 00001000  
+04-24 06:15:40.742   331   331 I DEBUG   :     b6f481c0 00000000 00000000 00000000 00000000  
+04-24 06:15:40.742   331   331 I DEBUG   :     b6f481d0 0002000a 00000000 00000000 00000000  
+04-24 06:15:40.742   331   331 I DEBUG   :     b6f481e0 b6f481c4 b6f222df b6f22261 b6f222bb  
+04-24 06:15:40.742   331   331 I DEBUG   :     b6f481f0 b6f22283 b6f4824c 00000000 00000000  
+04-24 06:15:40.742   331   331 I DEBUG   :     b6f48200 00000000 00000000 00000000 00000000  
+04-24 06:15:40.742   331   331 I DEBUG   :     b6f48210 00000000 00000000 00000000 ffffffff  
+04-24 06:15:40.742   331   331 I DEBUG   :     b6f48220 00000000 00000011 b6f4b4b8 00000000  
+04-24 06:15:40.742   331   331 I DEBUG   :     b6f48230 00000000 00000000 00004000 00000000  
+04-24 06:15:40.742   331   331 I DEBUG   :     b6f48240 00000000 00000000 00004000 00000000  
+04-24 06:15:40.742   331   331 I DEBUG   : 
+04-24 06:15:40.742   331   331 I DEBUG   : memory near r5:
+04-24 06:15:40.742   331   331 I DEBUG   :     b71b0348 00000000 00000000 00000000 00000000  
+04-24 06:15:40.742   331   331 I DEBUG   :     b71b0358 00000000 00000000 00000000 0000100b  
+04-24 06:15:40.742   331   331 I DEBUG   :     b71b0368 6e616c77 30330a30 39363237 310a3134  
+04-24 06:15:40.742   331   331 I DEBUG   :     b71b0378 36393135 0a300a39 300a3139 300a300a  
+04-24 06:15:40.742   331   331 I DEBUG   :     b71b0388 3637310a 3637370a 36353438 34340a36  
+04-24 06:15:40.742   331   331 I DEBUG   :     b71b0398 37353734 300a300a 300a300a 300a300a  
+04-24 06:15:40.742   331   331 I DEBUG   :     b71b03a8 00000a0a 00000000 00000000 00000000  
+04-24 06:15:40.742   331   331 I DEBUG   :     b71b03b8 00000000 00000000 00000000 00000000  
+04-24 06:15:40.742   331   331 I DEBUG   :     b71b03c8 00000000 00000000 00000000 00000000  
+04-24 06:15:40.742   331   331 I DEBUG   :     b71b03d8 00000000 00000000 00000000 00000000  
+04-24 06:15:40.742   331   331 I DEBUG   :     b71b03e8 00000000 00000000 00000000 00000000  
+04-24 06:15:40.742   331   331 I DEBUG   :     b71b03f8 00000000 00000000 00000000 00000000  
+04-24 06:15:40.742   331   331 I DEBUG   :     b71b0408 00000000 00000000 00000000 00000000  
+04-24 06:15:40.742   331   331 I DEBUG   :     b71b0418 00000000 00000000 00000000 00000000  
+04-24 06:15:40.742   331   331 I DEBUG   :     b71b0428 00000000 00000000 00000000 00000000  
+04-24 06:15:40.742   331   331 I DEBUG   :     b71b0438 00000000 00000000 00000000 00000000  
+04-24 06:15:40.742   331   331 I DEBUG   : 
+04-24 06:15:40.742   331   331 I DEBUG   : memory near r8:
+04-24 06:15:40.742   331   331 I DEBUG   :     00000fe0 ffffffff ffffffff ffffffff ffffffff  
+04-24 06:15:40.742   331   331 I DEBUG   :     00000ff0 ffffffff ffffffff ffffffff ffffffff  
+04-24 06:15:40.742   331   331 I DEBUG   :     00001000 ffffffff ffffffff ffffffff ffffffff  
+04-24 06:15:40.742   331   331 I DEBUG   :     00001010 ffffffff ffffffff ffffffff ffffffff  
+04-24 06:15:40.742   331   331 I DEBUG   :     00001020 ffffffff ffffffff ffffffff ffffffff  
+04-24 06:15:40.742   331   331 I DEBUG   :     00001030 ffffffff ffffffff ffffffff ffffffff  
+04-24 06:15:40.742   331   331 I DEBUG   :     00001040 ffffffff ffffffff ffffffff ffffffff  
+04-24 06:15:40.742   331   331 I DEBUG   :     00001050 ffffffff ffffffff ffffffff ffffffff  
+04-24 06:15:40.742   331   331 I DEBUG   :     00001060 ffffffff ffffffff ffffffff ffffffff  
+04-24 06:15:40.742   331   331 I DEBUG   :     00001070 ffffffff ffffffff ffffffff ffffffff  
+04-24 06:15:40.742   331   331 I DEBUG   :     00001080 ffffffff ffffffff ffffffff ffffffff  
+04-24 06:15:40.742   331   331 I DEBUG   :     00001090 ffffffff ffffffff ffffffff ffffffff  
+04-24 06:15:40.742   331   331 I DEBUG   :     000010a0 ffffffff ffffffff ffffffff ffffffff  
+04-24 06:15:40.742   331   331 I DEBUG   :     000010b0 ffffffff ffffffff ffffffff ffffffff  
+04-24 06:15:40.742   331   331 I DEBUG   :     000010c0 ffffffff ffffffff ffffffff ffffffff  
+04-24 06:15:40.742   331   331 I DEBUG   :     000010d0 ffffffff ffffffff ffffffff ffffffff  
+04-24 06:15:40.742   331   331 I DEBUG   : 
+04-24 06:15:40.742   331   331 I DEBUG   : memory near sl:
+04-24 06:15:40.742   331   331 I DEBUG   :     b6f57978 00000000 00000000 00000000 00000000  
+04-24 06:15:40.742   331   331 I DEBUG   :     b6f57988 00000000 00000000 00000000 00000000  
+04-24 06:15:40.742   331   331 I DEBUG   :     b6f57998 b6f58000 00000001 00000000 00000000  
+04-24 06:15:40.742   331   331 I DEBUG   :     b6f579a8 00000000 00000000 00000000 00000000  
+04-24 06:15:40.742   331   331 I DEBUG   :     b6f579b8 00000000 00000000 00000000 00000000  
+04-24 06:15:40.742   331   331 I DEBUG   :     b6f579c8 00000000 00000000 00000000 00000000  
+04-24 06:15:40.742   331   331 I DEBUG   :     b6f579d8 00000000 00000000 00000000 00000000  
+04-24 06:15:40.742   331   331 I DEBUG   :     b6f579e8 00000000 00000000 00000000 00000000  
+04-24 06:15:40.742   331   331 I DEBUG   :     b6f579f8 00000000 00000000 00000000 00000000  
+04-24 06:15:40.742   331   331 I DEBUG   :     b6f57a08 00000000 00000000 00000000 00000000  
+04-24 06:15:40.742   331   331 I DEBUG   :     b6f57a18 00000000 00000000 00000000 00000000  
+04-24 06:15:40.742   331   331 I DEBUG   :     b6f57a28 00000000 00000000 00000000 00000000  
+04-24 06:15:40.742   331   331 I DEBUG   :     b6f57a38 00000000 00000000 00000000 00000000  
+04-24 06:15:40.742   331   331 I DEBUG   :     b6f57a48 00000000 00000000 00000000 00000000  
+04-24 06:15:40.742   331   331 I DEBUG   :     b6f57a58 00000000 00000000 00000000 00000000  
+04-24 06:15:40.742   331   331 I DEBUG   :     b6f57a68 00000000 00000000 00000000 00000000  
+04-24 06:15:40.742   331   331 I DEBUG   : 
+04-24 06:15:40.742   331   331 I DEBUG   : memory near ip:
+04-24 06:15:40.742   331   331 I DEBUG   :     b6f4be88 00000000 00000000 00000000 00000000  
+04-24 06:15:40.742   331   331 I DEBUG   :     b6f4be98 00000000 00000000 00000000 00000001  
+04-24 06:15:40.742   331   331 I DEBUG   :     b6f4bea8 00000000 00000000 00000000 00000000  
+04-24 06:15:40.742   331   331 I DEBUG   :     b6f4beb8 00000000 00000000 00000000 00000000  
+04-24 06:15:40.752   331   331 I DEBUG   :     b6f4bec8 00000000 00000000 00000000 00000000  
+04-24 06:15:40.752   331   331 I DEBUG   :     b6f4bed8 00000000 00000000 00000000 00000000  
+04-24 06:15:40.752   331   331 I DEBUG   :     b6f4bee8 00000000 00000000 00000000 00000000  
+04-24 06:15:40.752   331   331 I DEBUG   :     b6f4bef8 00000000 00000000 00000000 00000000  
+04-24 06:15:40.752   331   331 I DEBUG   :     b6f4bf08 00000000 00000000 00000000 00000000  
+04-24 06:15:40.752   331   331 I DEBUG   :     b6f4bf18 00000000 00000000 00000000 00000000  
+04-24 06:15:40.752   331   331 I DEBUG   :     b6f4bf28 00000000 00000000 00000000 00000000  
+04-24 06:15:40.752   331   331 I DEBUG   :     b6f4bf38 00000000 00000000 00000000 00000000  
+04-24 06:15:40.752   331   331 I DEBUG   :     b6f4bf48 00000000 00000000 00000000 00000000  
+04-24 06:15:40.752   331   331 I DEBUG   :     b6f4bf58 00000000 00000000 00000000 00000000  
+04-24 06:15:40.752   331   331 I DEBUG   :     b6f4bf68 00000000 00000000 00000000 00000000  
+04-24 06:15:40.752   331   331 I DEBUG   :     b6f4bf78 00000000 00000000 00000000 00000000  
+04-24 06:15:40.752   331   331 I DEBUG   : 
+04-24 06:15:40.752   331   331 I DEBUG   : memory near sp:
+04-24 06:15:40.752   331   331 I DEBUG   :     bef35c38 00000000 00000000 00000000 00000000  
+04-24 06:15:40.752   331   331 I DEBUG   :     bef35c48 b6f48170 b71b0368 df0027ad 00000000  
+04-24 06:15:40.752   331   331 I DEBUG   :     bef35c58 b6f48170 00000008 b6f4bea8 b6f2063b  
+04-24 06:15:40.752   331   331 I DEBUG   :     bef35c68 b6f4811c b6f0d449 00000000 b6f0d461  
+04-24 06:15:40.752   331   331 I DEBUG   :     bef35c78 b6f4ad04 b6f0ea1c b6f58000 b6f58018  
+04-24 06:15:40.752   331   331 I DEBUG   :     bef35c88 00000001 b6f0dc7f 00000000 b6f24abb  
+04-24 06:15:40.752   331   331 I DEBUG   :     bef35c98 00000009 b6f58024 b6f5a000 b6f11c49  
+04-24 06:15:40.752   331   331 I DEBUG   :     bef35ca8 b6fe45c4 00000000 00000000 00000000  
+04-24 06:15:40.752   331   331 I DEBUG   :     bef35cb8 bef35d64 b6f8bffd b6fe45cc b6fe506c  
+04-24 06:15:40.752   331   331 I DEBUG   :     bef35cc8 00000000 00000000 bef35d5c b6f24d75  
+04-24 06:15:40.752   331   331 I DEBUG   :     bef35cd8 0000000a b6f91b9b bef35d64 bef35e62  
+04-24 06:15:40.752   331   331 I DEBUG   :     bef35ce8 00000005 b6f47fd8 b6f91d49 b6f91bd7  
+04-24 06:15:40.752   331   331 I DEBUG   :     bef35cf8 bef35e62 bef35d64 b6fe58ec bef35d64  
+04-24 06:15:40.752   331   331 I DEBUG   :     bef35d08 00000005 b6f47fd8 b6f91d49 00000000  
+04-24 06:15:40.752   331   331 I DEBUG   :     bef35d18 00000000 b6f91d83 00000000 bef35d64  
+04-24 06:15:40.752   331   331 I DEBUG   :     bef35d28 bef35d7c b6f0dd85 00000000 00000000  
+04-24 06:15:40.752   331   331 I DEBUG   : 
+04-24 06:15:40.752   331   331 I DEBUG   : code around pc:
+04-24 06:15:40.752   331   331 I DEBUG   :     b6f1b22c e1a0700c e3700a01 912fff1e e2600000  
+04-24 06:15:40.752   331   331 I DEBUG   :     b6f1b23c ea0083a0 e1a0c007 e3a07004 ef000000  
+04-24 06:15:40.752   331   331 I DEBUG   :     b6f1b24c e1a0700c e3700a01 912fff1e e2600000  
+04-24 06:15:40.752   331   331 I DEBUG   :     b6f1b25c ea008398 e1a0c00d e92d00f0 e89c0070  
+04-24 06:15:40.752   331   331 I DEBUG   :     b6f1b26c e3a070b4 ef000000 e8bd00f0 e3700a01  
+04-24 06:15:40.752   331   331 I DEBUG   :     b6f1b27c 912fff1e e2600000 ea00838e e1a0c00d  
+04-24 06:15:40.752   331   331 I DEBUG   :     b6f1b28c e92d00f0 e89c0070 e3a070b5 ef000000  
+04-24 06:15:40.752   331   331 I DEBUG   :     b6f1b29c e8bd00f0 e3700a01 912fff1e e2600000  
+04-24 06:15:40.752   331   331 I DEBUG   :     b6f1b2ac ea008384 e1a0c007 e3a07005 ef000000  
+04-24 06:15:40.752   331   331 I DEBUG   :     b6f1b2bc e1a0700c e3700a01 912fff1e e2600000  
+04-24 06:15:40.752   331   331 I DEBUG   :     b6f1b2cc ea00837c e1a0c007 e59f7014 ef000000  
+04-24 06:15:40.752   331   331 I DEBUG   :     b6f1b2dc e1a0700c e3700a01 912fff1e e2600000  
+04-24 06:15:40.752   331   331 I DEBUG   :     b6f1b2ec ea008374 00000142 e1a0c007 e3a07006  
+04-24 06:15:40.752   331   331 I DEBUG   :     b6f1b2fc ef000000 e1a0700c e3700a01 912fff1e  
+04-24 06:15:40.752   331   331 I DEBUG   :     b6f1b30c e2600000 ea00836b e1a0c007 e3a07013  
+04-24 06:15:40.752   331   331 I DEBUG   :     b6f1b31c ef000000 e1a0700c e3700a01 912fff1e  
+04-24 06:15:40.752   331   331 I DEBUG   : 
+04-24 06:15:40.752   331   331 I DEBUG   : code around lr:
+04-24 06:15:40.752   331   331 I DEBUG   :     b6f20788 d0fa2d00 68260799 6961bf0c 60252100  
+04-24 06:15:40.752   331   331 I DEBUG   :     b6f20798 60a11b76 6ae3e00f 69e04629 47984632  
+04-24 06:15:40.752   331   331 I DEBUG   :     b6f207a8 dc062800 f04289a2 81a00040 30fff04f  
+04-24 06:15:40.752   331   331 I DEBUG   :     b6f207b8 1a36bd70 2e00182d e7dedced 4a0b4b0a  
+04-24 06:15:40.752   331   331 I DEBUG   :     b6f207c8 4604b570 589b447b 461d6819 f00ab109  
+04-24 06:15:40.752   331   331 I DEBUG   :     b6f207d8 4620fd3e ffcaf7ff 68284606 4620b110  
+04-24 06:15:40.752   331   331 I DEBUG   :     b6f207e8 fd42f00a bd704630 00027808 ffffff60  
+04-24 06:15:40.752   331   331 I DEBUG   :     b6f207f8 b5704b13 447b4604 4812b928 e8bd4478  
+04-24 06:15:40.752   331   331 I DEBUG   :     b6f20808 f0004070 4a10bfcb 6819589b b109461e  
+04-24 06:15:40.752   331   331 I DEBUG   :     b6f20818 fd1df00a f00089a0 b9350518 fba0f7f3  
+04-24 06:15:40.752   331   331 I DEBUG   :     b6f20828 f04f2209 600235ff 4620e003 ff9ef7ff  
+04-24 06:15:40.752   331   331 I DEBUG   :     b6f20838 68334605 4620b113 fd16f00a bd704628  
+04-24 06:15:40.752   331   331 I DEBUG   :     b6f20848 000277d6 ffffffbd ffffff60 4a424b41  
+04-24 06:15:40.752   331   331 I DEBUG   :     b6f20858 47f0e92d 447b4604 589f4688 b10b683b  
+04-24 06:15:40.752   331   331 I DEBUG   :     b6f20868 fcf5f00a 28006860 6826dd09 6865210a  
+04-24 06:15:40.752   331   331 I DEBUG   :     b6f20878 462a4630 f980f018 4606b938 4620e014  
+04-24 06:15:40.762   805   838 I BootReceiver: Copying /data/tombstones/tombstone_07 to DropBox (SYSTEM_TOMBSTONE)
+04-24 06:15:40.832  1423  1429 E MP-Decision: num online cores: 2 reqd : 3 available : 4 rq_depth:2.700000 hotplug_avg_load_dw: 95
+04-24 06:15:40.832  1423  1429 E MP-Decision: UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 total_time_up:0.000000
+04-24 06:15:40.832  1423  1429 E MP-Decision: UP cpu:2 core_idx:2 Nw:2.700000 Tw:90 total_time_up:98.000000
+04-24 06:15:41.593  1423  1429 E MP-Decision: num online cores: 3 reqd : 2 available : 4 rq_depth:0.000000 hotplug_avg_load_dw: 50
+04-24 06:15:41.593  1423  1429 E MP-Decision: DOWN cpu:2 core_idx:2 Ns:2.100000 Ts:240 total_time_down:504.000000
+04-24 06:15:42.353 19586 19586 D AndroidRuntime: 
+04-24 06:15:42.353 19586 19586 D AndroidRuntime: >>>>>> AndroidRuntime START com.android.internal.os.RuntimeInit <<<<<<
+04-24 06:15:42.353 19586 19586 D AndroidRuntime: CheckJNI is ON
+04-24 06:15:42.353 19586 19586 E dalvikvm: ERROR: must specify non-'.' bootclasspath
+04-24 06:15:42.353 19586 19586 W dalvikvm: CreateJavaVM failed: dvmClassStartup failed
+04-24 06:15:42.363 19586 19586 E AndroidRuntime: JNI_CreateJavaVM failed
+04-24 06:15:42.634 19587 19587 D AndroidRuntime: 
+04-24 06:15:42.634 19587 19587 D AndroidRuntime: >>>>>> AndroidRuntime START com.android.internal.os.RuntimeInit <<<<<<
+04-24 06:15:42.634 19587 19587 D AndroidRuntime: CheckJNI is ON
+04-24 06:15:42.634 19587 19587 E dalvikvm: ERROR: must specify non-'.' bootclasspath
+04-24 06:15:42.644 19587 19587 W dalvikvm: CreateJavaVM failed: dvmClassStartup failed
+04-24 06:15:42.644 19587 19587 E AndroidRuntime: JNI_CreateJavaVM failed

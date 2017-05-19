@@ -1,0 +1,101 @@
+--------- beginning of /dev/log/main
+04-24 03:46:41.301  1422  1429 E MP-Decision: num online cores: 2 reqd : 1 available : 4 rq_depth:0.000000 hotplug_avg_load_dw: 29
+04-24 03:46:41.301  1422  1429 E MP-Decision: DOWN cpu:1 core_idx:1 Ns:1.100000 Ts:190 total_time_down:813.000000
+04-24 03:46:44.364  2301  2301 D dalvikvm: Not late-enabling CheckJNI (already on)
+--------- beginning of /dev/log/system
+04-24 03:46:44.384   805   829 I ActivityManager: Start proc edu.mit.ll.cbmen.monitor for service edu.mit.ll.cbmen.monitor/.MonitorService: pid=2301 uid=10055 gids={50055, 1015, 3003, 1028}
+04-24 03:46:44.434  2301  2301 I MonitorService: onCreate() MonitorService
+04-24 03:46:44.434  2301  2301 D AndroidRuntime: Shutting down VM
+04-24 03:46:44.434  2301  2301 W dalvikvm: threadid=1: thread exiting with uncaught exception (group=0x41df67c0)
+04-24 03:46:44.444  2301  2301 E AndroidRuntime: FATAL EXCEPTION: main
+04-24 03:46:44.444  2301  2301 E AndroidRuntime: java.lang.RuntimeException: Unable to start service edu.mit.ll.cbmen.monitor.MonitorService@42074950 with null: java.lang.NullPointerException
+04-24 03:46:44.444  2301  2301 E AndroidRuntime: 	at android.app.ActivityThread.handleServiceArgs(ActivityThread.java:2849)
+04-24 03:46:44.444  2301  2301 E AndroidRuntime: 	at android.app.ActivityThread.access$1900(ActivityThread.java:153)
+04-24 03:46:44.444  2301  2301 E AndroidRuntime: 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1366)
+04-24 03:46:44.444  2301  2301 E AndroidRuntime: 	at android.os.Handler.dispatchMessage(Handler.java:99)
+04-24 03:46:44.444  2301  2301 E AndroidRuntime: 	at android.os.Looper.loop(Looper.java:137)
+04-24 03:46:44.444  2301  2301 E AndroidRuntime: 	at android.app.ActivityThread.main(ActivityThread.java:5289)
+04-24 03:46:44.444  2301  2301 E AndroidRuntime: 	at java.lang.reflect.Method.invokeNative(Native Method)
+04-24 03:46:44.444  2301  2301 E AndroidRuntime: 	at java.lang.reflect.Method.invoke(Method.java:525)
+04-24 03:46:44.444  2301  2301 E AndroidRuntime: 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:739)
+04-24 03:46:44.444  2301  2301 E AndroidRuntime: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:555)
+04-24 03:46:44.444  2301  2301 E AndroidRuntime: 	at dalvik.system.NativeStart.main(Native Method)
+04-24 03:46:44.444  2301  2301 E AndroidRuntime: Caused by: java.lang.NullPointerException
+04-24 03:46:44.444  2301  2301 E AndroidRuntime: 	at edu.mit.ll.cbmen.monitor.MonitorService.onStartCommand(MonitorService.java:773)
+04-24 03:46:44.444  2301  2301 E AndroidRuntime: 	at android.app.ActivityThread.handleServiceArgs(ActivityThread.java:2832)
+04-24 03:46:44.444  2301  2301 E AndroidRuntime: 	... 10 more
+04-24 03:46:44.454  2301  2301 I Process : Sending signal. PID: 2301 SIG: 9
+04-24 03:46:44.454   805   816 I ActivityManager: Process edu.mit.ll.cbmen.monitor (pid 2301) has died.
+04-24 03:46:44.454   805   816 W ActivityManager: Scheduling restart of crashed service edu.mit.ll.cbmen.monitor/.MonitorService in 20000ms
+04-24 03:46:48.248   805   829 W BroadcastQueue: Timeout of broadcast BroadcastRecord{421d1b78 u0 com.android.server.action.NETWORK_STATS_POLL} - receiver=android.app.LoadedApk$ReceiverDispatcher$InnerReceiver@424384e0, started 60003ms ago
+04-24 03:46:48.248   805   829 W BroadcastQueue: Receiver during timeout: BroadcastFilter{423fbb08 u0 ReceiverList{423ff418 805 system/1000/u0 local:424384e0}}
+04-24 03:47:04.483  2417  2417 D dalvikvm: Not late-enabling CheckJNI (already on)
+04-24 03:47:04.503   805   829 I ActivityManager: Start proc edu.mit.ll.cbmen.monitor for service edu.mit.ll.cbmen.monitor/.MonitorService: pid=2417 uid=10055 gids={50055, 1015, 3003, 1028}
+04-24 03:47:04.603  2417  2417 I MonitorService: onCreate() MonitorService
+04-24 03:47:04.613  1422  1429 E MP-Decision: num online cores: 1 reqd : 2 available : 4 rq_depth:3.100000 hotplug_avg_load_dw: 33
+04-24 03:47:04.613  1422  1429 E MP-Decision: UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 total_time_up:146.000000
+04-24 03:47:04.613  2417  2417 D AndroidRuntime: Shutting down VM
+04-24 03:47:04.613  2417  2417 W dalvikvm: threadid=1: thread exiting with uncaught exception (group=0x41df67c0)
+04-24 03:47:04.623  2417  2417 I Process : Sending signal. PID: 2417 SIG: 9
+04-24 03:47:04.623  2417  2417 E AndroidRuntime: FATAL EXCEPTION: main
+04-24 03:47:04.623  2417  2417 E AndroidRuntime: java.lang.RuntimeException: Unable to start service edu.mit.ll.cbmen.monitor.MonitorService@42075858 with null: java.lang.NullPointerException
+04-24 03:47:04.623  2417  2417 E AndroidRuntime: 	at android.app.ActivityThread.handleServiceArgs(ActivityThread.java:2849)
+04-24 03:47:04.623  2417  2417 E AndroidRuntime: 	at android.app.ActivityThread.access$1900(ActivityThread.java:153)
+04-24 03:47:04.623  2417  2417 E AndroidRuntime: 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1366)
+04-24 03:47:04.623  2417  2417 E AndroidRuntime: 	at android.os.Handler.dispatchMessage(Handler.java:99)
+04-24 03:47:04.623  2417  2417 E AndroidRuntime: 	at android.os.Looper.loop(Looper.java:137)
+04-24 03:47:04.623  2417  2417 E AndroidRuntime: 	at android.app.ActivityThread.main(ActivityThread.java:5289)
+04-24 03:47:04.623  2417  2417 E AndroidRuntime: 	at java.lang.reflect.Method.invokeNative(Native Method)
+04-24 03:47:04.623  2417  2417 E AndroidRuntime: 	at java.lang.reflect.Method.invoke(Method.java:525)
+04-24 03:47:04.623  2417  2417 E AndroidRuntime: 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:739)
+04-24 03:47:04.623  2417  2417 E AndroidRuntime: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:555)
+04-24 03:47:04.623  2417  2417 E AndroidRuntime: 	at dalvik.system.NativeStart.main(Native Method)
+04-24 03:47:04.623  2417  2417 E AndroidRuntime: Caused by: java.lang.NullPointerException
+04-24 03:47:04.623  2417  2417 E AndroidRuntime: 	at edu.mit.ll.cbmen.monitor.MonitorService.onStartCommand(MonitorService.java:773)
+04-24 03:47:04.623  2417  2417 E AndroidRuntime: 	at android.app.ActivityThread.handleServiceArgs(ActivityThread.java:2832)
+04-24 03:47:04.623  2417  2417 E AndroidRuntime: 	... 10 more
+04-24 03:47:04.633   805  1149 I ActivityManager: Process edu.mit.ll.cbmen.monitor (pid 2417) has died.
+04-24 03:47:04.633   805  1149 W ActivityManager: Service crashed 2 times, stopping: ServiceRecord{428a0060 u0 edu.mit.ll.cbmen.monitor/.MonitorService}
+04-24 03:47:04.833  1422  1429 E MP-Decision: num online cores: 2 reqd : 1 available : 4 rq_depth:0.000000 hotplug_avg_load_dw: 19
+04-24 03:47:04.833  1422  1429 E MP-Decision: DOWN cpu:1 core_idx:1 Ns:1.100000 Ts:190 total_time_down:170.000000
+04-24 03:47:12.140  2504  2504 I olsrd   : Writing '1' (was 1) to /proc/sys/net/ipv4/ip_forward
+04-24 03:47:12.140  2504  2504 I olsrd   : Writing '0' (was 1) to /proc/sys/net/ipv4/conf/all/send_redirects
+04-24 03:47:12.140  2504  2504 I olsrd   : Writing '0' (was 0) to /proc/sys/net/ipv4/conf/all/rp_filter
+04-24 03:47:12.140  2504  2504 I olsrd   : Writing '0' (was 1) to /proc/sys/net/ipv4/conf/wlan0/send_redirects
+04-24 03:47:12.140  2504  2504 I olsrd   : Writing '0' (was 0) to /proc/sys/net/ipv4/conf/wlan0/rp_filter
+04-24 03:47:12.140  2504  2504 I olsrd   : Adding interface wlan0
+04-24 03:47:12.140  2504  2504 I olsrd   : New main address: 10.1.1.26
+04-24 03:47:12.160  2505  2505 I olsrd   : olsr.org -  0.6.6.2-n -git_0000000 -n -hash_ 7985605520f3cae9b305d56e83b35d9c successfully started
+04-24 03:48:13.328  1422  1429 E MP-Decision: num online cores: 1 reqd : 2 available : 4 rq_depth:4.300000 hotplug_avg_load_dw: 33
+04-24 03:48:13.328  1422  1429 E MP-Decision: UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 total_time_up:147.000000
+04-24 03:48:13.578  1422  1429 E MP-Decision: num online cores: 2 reqd : 1 available : 4 rq_depth:0.100000 hotplug_avg_load_dw: 25
+04-24 03:48:13.578  1422  1429 E MP-Decision: DOWN cpu:1 core_idx:1 Ns:1.100000 Ts:190 total_time_down:190.000000
+04-24 03:51:37.682  4181  4181 D dalvikvm: Not late-enabling CheckJNI (already on)
+04-24 03:51:37.702   805   829 I ActivityManager: Start proc edu.mit.ll.NletLog.android for service edu.mit.ll.NletLog.android/.LoggerService: pid=4181 uid=10056 gids={50056, 1015, 3003, 1028}
+04-24 03:51:37.722  4181  4181 I dalvikvm: Turning on JNI app bug workarounds for target SDK version 12...
+04-24 03:51:37.772  1422  1429 E MP-Decision: num online cores: 1 reqd : 2 available : 4 rq_depth:3.500000 hotplug_avg_load_dw: 26
+04-24 03:51:37.772  1422  1429 E MP-Decision: UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 total_time_up:146.000000
+04-24 03:51:37.782  4181  4181 V LoggerService: Reading config file at /sdcard/llcbmen/startup_40/Logger.json
+04-24 03:51:37.782  4181  4181 V LoggerService: Could not read config file!
+04-24 03:51:37.802  4181  4181 V LoggerService: registering broadcast receiver...
+04-24 03:51:37.802  4181  4181 V LoggerService: registered broadcast receiver
+04-24 03:51:37.973  1422  1429 E MP-Decision: num online cores: 2 reqd : 1 available : 4 rq_depth:0.000000 hotplug_avg_load_dw: 17
+04-24 03:51:37.973  1422  1429 E MP-Decision: DOWN cpu:1 core_idx:1 Ns:1.100000 Ts:190 total_time_down:146.000000
+04-24 03:52:57.052   805   869 D Tethering: InitialState.processMessage what=4
+04-24 03:52:57.082  2505  2505 I olsrd   : Removing interface wlan0
+04-24 03:52:57.092   805   869 D Tethering: Exception adding default nw to upstreamIfaceTypes: java.lang.NullPointerException
+04-24 03:52:57.112   805   869 D Tethering: sendTetherStateChangedBroadcast 1, 0, 0
+04-24 03:52:57.122   805  1147 D Tethering: Exception adding default nw to upstreamIfaceTypes: java.lang.NullPointerException
+04-24 03:52:57.122   805   844 V RegulatoryObserver: uevent:
+04-24 03:52:57.122   805   844 V RegulatoryObserver: {SUBSYSTEM=platform, DEVPATH=/devices/platform/regulatory.0, SEQNUM=3262, ACTION=change, COUNTRY=00, MODALIAS=platform:regulatory}
+04-24 03:52:57.122   805   844 V RegulatoryObserver: Regulatory Country Code:00
+04-24 03:52:57.132   805   844 V RegulatoryObserver: Start wifi-crda service to run crda.
+04-24 03:52:57.132   805   844 V RegulatoryObserver: Country Code is 00
+04-24 03:52:57.132   805   826 I RegulatoryObserver: Broadcast intent for crda country code: 00
+04-24 03:52:57.132   805   826 W ContextImpl: Calling a method in the system process without a qualified user: android.app.ContextImpl.sendBroadcast:1113 com.android.server.RegulatoryObserver$1.handleMessage:132 android.os.Handler.dispatchMessage:99 android.os.Looper.loop:137 com.android.server.ServerThread.run:1209 
+04-24 03:52:57.132   805   844 V RegulatoryObserver: Send broadcast country code message.
+04-24 03:54:13.691  5186  5186 W libc    : void endpwent()(3) is not implemented on Android
+04-24 03:54:13.691   249   249 I busybox : void endpwent()(3) is not implemented on Android
+04-24 03:54:13.791  5188  5188 W libc    : void endpwent()(3) is not implemented on Android
+04-24 03:54:13.981  1422  1429 E MP-Decision: num online cores: 1 reqd : 2 available : 4 rq_depth:1.900000 hotplug_avg_load_dw: 61
+04-24 03:54:13.981  1422  1429 E MP-Decision: UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 total_time_up:49.000000

@@ -1,0 +1,95 @@
+--------- beginning of /dev/log/main
+04-24 07:14:01.817  1414  1425 E MP-Decision: num online cores: 2 reqd : 1 available : 4 rq_depth:1.200000 hotplug_avg_load_dw: 19
+04-24 07:14:01.817  1414  1425 E MP-Decision: DOWN cpu:1 core_idx:1 Ns:1.100000 Ts:190 total_time_down:0.000000
+04-24 07:14:02.067  1414  1425 E MP-Decision: num online cores: 1 reqd : 2 available : 4 rq_depth:1.000000 hotplug_avg_load_dw: 66
+04-24 07:14:02.067  1414  1425 E MP-Decision: UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 total_time_up:0.000000
+04-24 07:14:02.628 25445 25445 D AndroidRuntime: 
+04-24 07:14:02.628 25445 25445 D AndroidRuntime: >>>>>> AndroidRuntime START com.android.internal.os.RuntimeInit <<<<<<
+04-24 07:14:02.628 25445 25445 D AndroidRuntime: CheckJNI is ON
+04-24 07:14:02.628 25445 25445 E dalvikvm: ERROR: must specify non-'.' bootclasspath
+04-24 07:14:02.628 25445 25445 W dalvikvm: CreateJavaVM failed: dvmClassStartup failed
+04-24 07:14:02.628 25445 25445 E AndroidRuntime: JNI_CreateJavaVM failed
+04-24 07:14:02.908 25447 25447 D AndroidRuntime: 
+04-24 07:14:02.908 25447 25447 D AndroidRuntime: >>>>>> AndroidRuntime START com.android.internal.os.RuntimeInit <<<<<<
+04-24 07:14:02.908 25447 25447 D AndroidRuntime: CheckJNI is ON
+04-24 07:14:02.908 25447 25447 E dalvikvm: ERROR: must specify non-'.' bootclasspath
+04-24 07:14:02.908 25447 25447 W dalvikvm: CreateJavaVM failed: dvmClassStartup failed
+04-24 07:14:02.908 25447 25447 E AndroidRuntime: JNI_CreateJavaVM failed
+04-24 07:14:05.010  1414  1425 E MP-Decision: num online cores: 2 reqd : 1 available : 4 rq_depth:0.000000 hotplug_avg_load_dw: 17
+04-24 07:14:05.010  1414  1425 E MP-Decision: DOWN cpu:1 core_idx:1 Ns:1.100000 Ts:190 total_time_down:2670.000000
+--------- beginning of /dev/log/system
+04-24 07:14:05.050   813   836 W ProcessStats: Skipping unknown process pid 25433
+04-24 07:14:05.050   813   836 W ProcessStats: Skipping unknown process pid 25436
+04-24 07:17:31.810   813   836 W BroadcastQueue: Timeout of broadcast BroadcastRecord{41ba9c90 u0 com.android.server.action.NETWORK_STATS_POLL} - receiver=android.app.LoadedApk$ReceiverDispatcher$InnerReceiver@41abd0e0, started 60030ms ago
+04-24 07:17:31.810   813   836 W BroadcastQueue: Receiver during timeout: BroadcastFilter{41abca00 u0 ReceiverList{4189dbf0 813 system/1000/u0 local:41abd0e0}}
+04-24 07:20:00.153 25626 25626 I olsrd   : Writing '1' (was 1) to /proc/sys/net/ipv4/ip_forward
+04-24 07:20:00.153 25626 25626 I olsrd   : Writing '0' (was 1) to /proc/sys/net/ipv4/conf/all/send_redirects
+04-24 07:20:00.153 25626 25626 I olsrd   : Writing '0' (was 0) to /proc/sys/net/ipv4/conf/all/rp_filter
+04-24 07:20:00.153 25626 25626 I olsrd   : Writing '0' (was 0) to /proc/sys/net/ipv4/conf/wlan0/send_redirects
+04-24 07:20:00.153 25626 25626 I olsrd   : Writing '0' (was 0) to /proc/sys/net/ipv4/conf/wlan0/rp_filter
+04-24 07:20:00.153 25626 25626 I olsrd   : Adding interface wlan0
+04-24 07:20:00.153 25626 25626 I olsrd   : New main address: 10.1.1.19
+04-24 07:20:00.163 25627 25627 I olsrd   : olsr.org -  0.6.6.2-n -git_0000000 -n -hash_ 7985605520f3cae9b305d56e83b35d9c successfully started
+04-24 07:20:05.027   813   836 W ProcessStats: Skipping unknown process pid 25659
+04-24 07:21:10.120 25627 25627 I olsrd   : detected duplicate packet with seqnr 0x169 from 10.1.1.1 on wlan0 (320 Bytes)
+04-24 07:21:10.120 25627 25627 I olsrd   : detected duplicate packet with seqnr 0x169 from 10.1.1.1 on wlan0 (320 Bytes)
+04-24 07:21:10.120 25627 25627 I olsrd   : detected duplicate packet with seqnr 0x169 from 10.1.1.1 on wlan0 (320 Bytes)
+04-24 07:21:37.476 25627 25627 I olsrd   : detected duplicate packet with seqnr 0xcf26 from 10.1.1.18 on wlan0 (352 Bytes)
+04-24 07:21:37.476 25627 25627 I olsrd   : detected duplicate packet with seqnr 0xcf26 from 10.1.1.18 on wlan0 (352 Bytes)
+04-24 07:21:55.594 25627 25627 I olsrd   : detected duplicate packet with seqnr 0x183 from 10.1.1.1 on wlan0 (104 Bytes)
+04-24 07:22:29.617 25627 25627 I olsrd   : detected duplicate packet with seqnr 0x195 from 10.1.1.1 on wlan0 (128 Bytes)
+04-24 07:22:29.617 25627 25627 I olsrd   : detected duplicate packet with seqnr 0x195 from 10.1.1.1 on wlan0 (128 Bytes)
+04-24 07:22:29.617 25627 25627 I olsrd   : detected duplicate packet with seqnr 0x195 from 10.1.1.1 on wlan0 (128 Bytes)
+04-24 07:22:57.494 25627 25627 I olsrd   : detected duplicate packet with seqnr 0x1a6 from 10.1.1.1 on wlan0 (368 Bytes)
+04-24 07:23:00.536 25627 25627 I olsrd   : detected duplicate packet with seqnr 0x77de from 10.1.1.8 on wlan0 (408 Bytes)
+04-24 07:23:00.587 25627 25627 I olsrd   : detected duplicate packet with seqnr 0x77de from 10.1.1.8 on wlan0 (408 Bytes)
+04-24 07:23:00.587 25627 25627 I olsrd   : detected duplicate packet with seqnr 0x77de from 10.1.1.8 on wlan0 (408 Bytes)
+04-24 07:23:00.587 25627 25627 I olsrd   : detected duplicate packet with seqnr 0x77de from 10.1.1.8 on wlan0 (408 Bytes)
+04-24 07:23:06.332 25627 25627 I olsrd   : detected duplicate packet with seqnr 0x1ab from 10.1.1.1 on wlan0 (244 Bytes)
+04-24 07:23:49.704 25627 25627 I olsrd   : detected duplicate packet with seqnr 0x1c3 from 10.1.1.1 on wlan0 (348 Bytes)
+04-24 07:23:49.704 25627 25627 I olsrd   : detected duplicate packet with seqnr 0x1c3 from 10.1.1.1 on wlan0 (348 Bytes)
+04-24 07:23:49.704 25627 25627 I olsrd   : detected duplicate packet with seqnr 0x1c3 from 10.1.1.1 on wlan0 (348 Bytes)
+04-24 07:23:49.754 25627 25627 I olsrd   : detected duplicate packet with seqnr 0x1c3 from 10.1.1.1 on wlan0 (348 Bytes)
+04-24 07:23:49.754 25627 25627 I olsrd   : detected duplicate packet with seqnr 0x1c3 from 10.1.1.1 on wlan0 (348 Bytes)
+04-24 07:23:49.754 25627 25627 I olsrd   : detected duplicate packet with seqnr 0x1c3 from 10.1.1.1 on wlan0 (348 Bytes)
+04-24 07:24:06.090 25627 25627 I olsrd   : detected duplicate packet with seqnr 0x7803 from 10.1.1.8 on wlan0 (248 Bytes)
+04-24 07:24:06.090 25627 25627 I olsrd   : detected duplicate packet with seqnr 0x7803 from 10.1.1.8 on wlan0 (248 Bytes)
+04-24 07:24:06.090 25627 25627 I olsrd   : detected duplicate packet with seqnr 0x7803 from 10.1.1.8 on wlan0 (248 Bytes)
+04-24 07:24:15.228 25627 25627 I olsrd   : detected duplicate packet with seqnr 0x1d1 from 10.1.1.1 on wlan0 (192 Bytes)
+04-24 07:24:15.228 25627 25627 I olsrd   : detected duplicate packet with seqnr 0x1d1 from 10.1.1.1 on wlan0 (192 Bytes)
+04-24 07:24:15.279 25627 25627 I olsrd   : detected duplicate packet with seqnr 0x1d1 from 10.1.1.1 on wlan0 (192 Bytes)
+04-24 07:24:15.279 25627 25627 I olsrd   : detected duplicate packet with seqnr 0x1d1 from 10.1.1.1 on wlan0 (192 Bytes)
+04-24 07:24:24.047 25627 25627 I olsrd   : detected duplicate packet with seqnr 0x1d5 from 10.1.1.1 on wlan0 (544 Bytes)
+04-24 07:24:35.518 25627 25627 I olsrd   : detected duplicate packet with seqnr 0x1dc from 10.1.1.1 on wlan0 (56 Bytes)
+04-24 07:24:35.518 25627 25627 I olsrd   : detected duplicate packet with seqnr 0x1dc from 10.1.1.1 on wlan0 (56 Bytes)
+04-24 07:24:35.528 25627 25627 I olsrd   : detected duplicate packet with seqnr 0x1dc from 10.1.1.1 on wlan0 (56 Bytes)
+04-24 07:24:35.528 25627 25627 I olsrd   : detected duplicate packet with seqnr 0x1dc from 10.1.1.1 on wlan0 (56 Bytes)
+04-24 07:24:54.216 25627 25627 I olsrd   : detected duplicate packet with seqnr 0x1e7 from 10.1.1.1 on wlan0 (200 Bytes)
+04-24 07:25:05.057   813   836 W ProcessStats: Skipping unknown process pid 27531
+04-24 07:25:05.457 25627 25627 I olsrd   : detected duplicate packet with seqnr 0x7823 from 10.1.1.8 on wlan0 (184 Bytes)
+04-24 07:25:40.250  1414  1425 E MP-Decision: num online cores: 1 reqd : 2 available : 4 rq_depth:1.000000 hotplug_avg_load_dw: 53
+04-24 07:25:40.250  1414  1425 E MP-Decision: UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 total_time_up:0.000000
+04-24 07:25:40.471 27788 27788 D AndroidRuntime: 
+04-24 07:25:40.471 27788 27788 D AndroidRuntime: >>>>>> AndroidRuntime START com.android.internal.os.RuntimeInit <<<<<<
+04-24 07:25:40.471 27788 27788 D AndroidRuntime: CheckJNI is ON
+04-24 07:25:40.471 27788 27788 E dalvikvm: ERROR: must specify non-'.' bootclasspath
+04-24 07:25:40.471 27788 27788 W dalvikvm: CreateJavaVM failed: dvmClassStartup failed
+04-24 07:25:40.471 27788 27788 E AndroidRuntime: JNI_CreateJavaVM failed
+04-24 07:25:40.641 25627 25627 I olsrd   : Writing '1' (was 0) to /proc/sys/net/ipv4/conf/all/send_redirects
+04-24 07:25:40.641 25627 25627 I olsrd   : olsr.org -  0.6.6.2-n -git_0000000 -n -hash_ 7985605520f3cae9b305d56e83b35d9c stopped
+04-24 07:25:41.382  1414  1425 E MP-Decision: num online cores: 2 reqd : 1 available : 4 rq_depth:0.000000 hotplug_avg_load_dw: 27
+04-24 07:25:41.382  1414  1425 E MP-Decision: DOWN cpu:1 core_idx:1 Ns:1.100000 Ts:190 total_time_down:277.000000
+04-24 07:25:41.942  1414  1425 E MP-Decision: num online cores: 1 reqd : 2 available : 4 rq_depth:1.300000 hotplug_avg_load_dw: 70
+04-24 07:25:41.942  1414  1425 E MP-Decision: UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 total_time_up:0.000000
+04-24 07:25:42.563 27900 27900 D AndroidRuntime: 
+04-24 07:25:42.563 27900 27900 D AndroidRuntime: >>>>>> AndroidRuntime START com.android.internal.os.RuntimeInit <<<<<<
+04-24 07:25:42.563 27900 27900 D AndroidRuntime: CheckJNI is ON
+04-24 07:25:42.563 27900 27900 E dalvikvm: ERROR: must specify non-'.' bootclasspath
+04-24 07:25:42.573 27900 27900 W dalvikvm: CreateJavaVM failed: dvmClassStartup failed
+04-24 07:25:42.573 27900 27900 E AndroidRuntime: JNI_CreateJavaVM failed
+04-24 07:25:42.913 27901 27901 D AndroidRuntime: 
+04-24 07:25:42.913 27901 27901 D AndroidRuntime: >>>>>> AndroidRuntime START com.android.internal.os.RuntimeInit <<<<<<
+04-24 07:25:42.913 27901 27901 D AndroidRuntime: CheckJNI is ON
+04-24 07:25:42.913 27901 27901 E dalvikvm: ERROR: must specify non-'.' bootclasspath
+04-24 07:25:42.913 27901 27901 W dalvikvm: CreateJavaVM failed: dvmClassStartup failed
+04-24 07:25:42.913 27901 27901 E AndroidRuntime: JNI_CreateJavaVM failed

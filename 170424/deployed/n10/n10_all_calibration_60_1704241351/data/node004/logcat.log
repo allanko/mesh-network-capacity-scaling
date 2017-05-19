@@ -1,0 +1,17 @@
+--------- beginning of /dev/log/main
+04-24 06:50:41.693  1427  1432 E MP-Decision: num online cores: 2 reqd : 1 available : 4 rq_depth:0.000000 hotplug_avg_load_dw: 18
+04-24 06:50:41.693  1427  1432 E MP-Decision: DOWN cpu:1 core_idx:1 Ns:1.100000 Ts:190 total_time_down:467.000000
+04-24 06:50:41.944  1427  1432 E MP-Decision: num online cores: 1 reqd : 2 available : 4 rq_depth:1.900000 hotplug_avg_load_dw: 70
+04-24 06:50:41.944  1427  1432 E MP-Decision: UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 total_time_up:49.000000
+04-24 06:50:42.514 27398 27398 D AndroidRuntime: 
+04-24 06:50:42.514 27398 27398 D AndroidRuntime: >>>>>> AndroidRuntime START com.android.internal.os.RuntimeInit <<<<<<
+04-24 06:50:42.514 27398 27398 D AndroidRuntime: CheckJNI is ON
+04-24 06:50:42.514 27398 27398 E dalvikvm: ERROR: must specify non-'.' bootclasspath
+04-24 06:50:42.514 27398 27398 W dalvikvm: CreateJavaVM failed: dvmClassStartup failed
+04-24 06:50:42.514 27398 27398 E AndroidRuntime: JNI_CreateJavaVM failed
+04-24 06:50:42.794 27399 27399 D AndroidRuntime: 
+04-24 06:50:42.794 27399 27399 D AndroidRuntime: >>>>>> AndroidRuntime START com.android.internal.os.RuntimeInit <<<<<<
+04-24 06:50:42.794 27399 27399 D AndroidRuntime: CheckJNI is ON
+04-24 06:50:42.794 27399 27399 E dalvikvm: ERROR: must specify non-'.' bootclasspath
+04-24 06:50:42.794 27399 27399 W dalvikvm: CreateJavaVM failed: dvmClassStartup failed
+04-24 06:50:42.794 27399 27399 E AndroidRuntime: JNI_CreateJavaVM failed

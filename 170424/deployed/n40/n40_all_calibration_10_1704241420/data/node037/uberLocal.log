@@ -1,0 +1,41 @@
+nodeName node037
+nodeNum 37
+binDir /data/llcbmen
+expRoot /sdcard/llcbmen
+runId n40_all_calibration_10_1704241420
+basetime 1493058010
+duration 300
+startWait 30
+dataDir /sdcard/llcbmen/data/n40_all_calibration_10_1704241420
+doAPK N
+logFiles 
+ifaces wlan0
+si2Args  -b 10000 10.1.1.255:15387
+
+Resetting at time Mon Apr 24 07:02:20 SST 2017 = 1493056940.148376
+rm: can't remove '/sdcard/node*.log': No such file or directory
+rm: can't remove '/sdcard/*.json': No such file or directory
+killall: gcn: no process killed
+killall: beaconer: no process killed
+killall: babeld: no process killed
+killall: edu.mit.ll.NletLog.android: no process killed
+killall: edu.mit.ll.cbmen.monitor: no process killed
+killall: mchttpd: no process killed
+rm: can't remove '/sdcard/cascade': No such file or directory
+rm: can't remove '/sdcard/CBMEN': No such file or directory
+rm: can't remove '/sdcard/llcbmen/ISI': No such file or directory
+rm: can't remove '/sdcard/Android/data/cbmen.comet.workflow.cascade': No such file or directory
+rm: can't remove '/sdcard/registrar.db': No such file or directory
+Waiting until prep time...
+Sleeping 1039.22 sec until basetime + -30 = 1493057980
+Starting uberLocal.sh at time Mon Apr 24 07:19:40 SST 2017 = 1493057980.063302 with basetime 1493058010
+
+Starting instruments at time Mon Apr 24 07:19:40 SST 2017 = 1493057980.075540
+
+Sleeping 19.7369 sec until basetime + -10 = 1493058000
+
+Starting scenario at time Mon Apr 24 07:20:00 SST 2017 = 1493058000.052624
+Starting mgen.
+Parsing file: "/etc/olsrd.conf"
+mgen: version 5.02
+mgen: starting now ...

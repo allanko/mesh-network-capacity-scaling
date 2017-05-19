@@ -1,0 +1,103 @@
+--------- beginning of /dev/log/main
+04-24 04:16:29.249  1423  1430 E MP-Decision: num online cores: 2 reqd : 1 available : 4 rq_depth:0.000000 hotplug_avg_load_dw: 20
+04-24 04:16:29.249  1423  1430 E MP-Decision: DOWN cpu:1 core_idx:1 Ns:1.100000 Ts:190 total_time_down:236.000000
+04-24 04:16:32.352 10333 10333 D dalvikvm: Not late-enabling CheckJNI (already on)
+--------- beginning of /dev/log/system
+04-24 04:16:32.372   805   823 I ActivityManager: Start proc edu.mit.ll.cbmen.monitor for service edu.mit.ll.cbmen.monitor/.MonitorService: pid=10333 uid=10055 gids={50055, 1015, 3003, 1028}
+04-24 04:16:32.432 10333 10333 I MonitorService: onCreate() MonitorService
+04-24 04:16:32.432 10333 10333 D AndroidRuntime: Shutting down VM
+04-24 04:16:32.432 10333 10333 W dalvikvm: threadid=1: thread exiting with uncaught exception (group=0x415597c0)
+04-24 04:16:32.432 10333 10333 E AndroidRuntime: FATAL EXCEPTION: main
+04-24 04:16:32.432 10333 10333 E AndroidRuntime: java.lang.RuntimeException: Unable to start service edu.mit.ll.cbmen.monitor.MonitorService@417dc500 with null: java.lang.NullPointerException
+04-24 04:16:32.432 10333 10333 E AndroidRuntime: 	at android.app.ActivityThread.handleServiceArgs(ActivityThread.java:2849)
+04-24 04:16:32.432 10333 10333 E AndroidRuntime: 	at android.app.ActivityThread.access$1900(ActivityThread.java:153)
+04-24 04:16:32.432 10333 10333 E AndroidRuntime: 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1366)
+04-24 04:16:32.432 10333 10333 E AndroidRuntime: 	at android.os.Handler.dispatchMessage(Handler.java:99)
+04-24 04:16:32.432 10333 10333 E AndroidRuntime: 	at android.os.Looper.loop(Looper.java:137)
+04-24 04:16:32.432 10333 10333 E AndroidRuntime: 	at android.app.ActivityThread.main(ActivityThread.java:5289)
+04-24 04:16:32.432 10333 10333 E AndroidRuntime: 	at java.lang.reflect.Method.invokeNative(Native Method)
+04-24 04:16:32.432 10333 10333 E AndroidRuntime: 	at java.lang.reflect.Method.invoke(Method.java:525)
+04-24 04:16:32.432 10333 10333 E AndroidRuntime: 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:739)
+04-24 04:16:32.432 10333 10333 E AndroidRuntime: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:555)
+04-24 04:16:32.432 10333 10333 E AndroidRuntime: 	at dalvik.system.NativeStart.main(Native Method)
+04-24 04:16:32.432 10333 10333 E AndroidRuntime: Caused by: java.lang.NullPointerException
+04-24 04:16:32.432 10333 10333 E AndroidRuntime: 	at edu.mit.ll.cbmen.monitor.MonitorService.onStartCommand(MonitorService.java:773)
+04-24 04:16:32.432 10333 10333 E AndroidRuntime: 	at android.app.ActivityThread.handleServiceArgs(ActivityThread.java:2832)
+04-24 04:16:32.432 10333 10333 E AndroidRuntime: 	... 10 more
+04-24 04:16:32.442 10333 10333 I Process : Sending signal. PID: 10333 SIG: 9
+04-24 04:16:32.442   805   817 I ActivityManager: Process edu.mit.ll.cbmen.monitor (pid 10333) has died.
+04-24 04:16:32.442   805   817 W ActivityManager: Scheduling restart of crashed service edu.mit.ll.cbmen.monitor/.MonitorService in 20000ms
+04-24 04:16:52.472 10475 10475 D dalvikvm: Not late-enabling CheckJNI (already on)
+04-24 04:16:52.482   805   823 I ActivityManager: Start proc edu.mit.ll.cbmen.monitor for service edu.mit.ll.cbmen.monitor/.MonitorService: pid=10475 uid=10055 gids={50055, 1015, 3003, 1028}
+04-24 04:16:52.552 10475 10475 I MonitorService: onCreate() MonitorService
+04-24 04:16:52.552 10475 10475 D AndroidRuntime: Shutting down VM
+04-24 04:16:52.552 10475 10475 W dalvikvm: threadid=1: thread exiting with uncaught exception (group=0x415597c0)
+04-24 04:16:52.552 10475 10475 E AndroidRuntime: FATAL EXCEPTION: main
+04-24 04:16:52.552 10475 10475 E AndroidRuntime: java.lang.RuntimeException: Unable to start service edu.mit.ll.cbmen.monitor.MonitorService@417dd408 with null: java.lang.NullPointerException
+04-24 04:16:52.552 10475 10475 E AndroidRuntime: 	at android.app.ActivityThread.handleServiceArgs(ActivityThread.java:2849)
+04-24 04:16:52.552 10475 10475 E AndroidRuntime: 	at android.app.ActivityThread.access$1900(ActivityThread.java:153)
+04-24 04:16:52.552 10475 10475 E AndroidRuntime: 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1366)
+04-24 04:16:52.552 10475 10475 E AndroidRuntime: 	at android.os.Handler.dispatchMessage(Handler.java:99)
+04-24 04:16:52.552 10475 10475 E AndroidRuntime: 	at android.os.Looper.loop(Looper.java:137)
+04-24 04:16:52.552 10475 10475 E AndroidRuntime: 	at android.app.ActivityThread.main(ActivityThread.java:5289)
+04-24 04:16:52.552 10475 10475 E AndroidRuntime: 	at java.lang.reflect.Method.invokeNative(Native Method)
+04-24 04:16:52.552 10475 10475 E AndroidRuntime: 	at java.lang.reflect.Method.invoke(Method.java:525)
+04-24 04:16:52.552 10475 10475 E AndroidRuntime: 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:739)
+04-24 04:16:52.552 10475 10475 E AndroidRuntime: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:555)
+04-24 04:16:52.552 10475 10475 E AndroidRuntime: 	at dalvik.system.NativeStart.main(Native Method)
+04-24 04:16:52.552 10475 10475 E AndroidRuntime: Caused by: java.lang.NullPointerException
+04-24 04:16:52.552 10475 10475 E AndroidRuntime: 	at edu.mit.ll.cbmen.monitor.MonitorService.onStartCommand(MonitorService.java:773)
+04-24 04:16:52.552 10475 10475 E AndroidRuntime: 	at android.app.ActivityThread.handleServiceArgs(ActivityThread.java:2832)
+04-24 04:16:52.552 10475 10475 E AndroidRuntime: 	... 10 more
+04-24 04:16:52.562 10475 10475 I Process : Sending signal. PID: 10475 SIG: 9
+04-24 04:16:52.562   805  1173 I ActivityManager: Process edu.mit.ll.cbmen.monitor (pid 10475) has died.
+04-24 04:16:52.562   805  1173 W ActivityManager: Service crashed 2 times, stopping: ServiceRecord{4204c2b8 u0 edu.mit.ll.cbmen.monitor/.MonitorService}
+04-24 04:16:57.126 10527 10527 I olsrd   : Writing '1' (was 1) to /proc/sys/net/ipv4/ip_forward
+04-24 04:16:57.126 10527 10527 I olsrd   : Writing '0' (was 1) to /proc/sys/net/ipv4/conf/all/send_redirects
+04-24 04:16:57.126 10527 10527 I olsrd   : Writing '0' (was 0) to /proc/sys/net/ipv4/conf/all/rp_filter
+04-24 04:16:57.126 10527 10527 I olsrd   : Writing '0' (was 0) to /proc/sys/net/ipv4/conf/wlan0/send_redirects
+04-24 04:16:57.126 10527 10527 I olsrd   : Writing '0' (was 0) to /proc/sys/net/ipv4/conf/wlan0/rp_filter
+04-24 04:16:57.126 10527 10527 I olsrd   : Adding interface wlan0
+04-24 04:16:57.126 10527 10527 I olsrd   : New main address: 10.1.1.5
+04-24 04:16:57.136 10532 10532 I olsrd   : olsr.org -  0.6.6.2-n -git_0000000 -n -hash_ 7985605520f3cae9b305d56e83b35d9c successfully started
+04-24 04:18:46.952 10532 10532 I olsrd   : detected duplicate packet with seqnr 0x2f5a from 10.1.1.10 on wlan0 (180 Bytes)
+04-24 04:18:52.797 10532 10532 I olsrd   : detected duplicate packet with seqnr 0x5a6b from 10.1.1.2 on wlan0 (260 Bytes)
+04-24 04:18:53.048   805   823 W ProcessStats: Skipping unknown process pid 11497
+04-24 04:18:54.759  1423  1430 E MP-Decision: num online cores: 1 reqd : 2 available : 4 rq_depth:3.500000 hotplug_avg_load_dw: 31
+04-24 04:18:54.759  1423  1430 E MP-Decision: UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 total_time_up:146.000000
+04-24 04:18:55.009  1423  1430 E MP-Decision: num online cores: 2 reqd : 1 available : 4 rq_depth:0.400000 hotplug_avg_load_dw: 28
+04-24 04:18:55.009  1423  1430 E MP-Decision: DOWN cpu:1 core_idx:1 Ns:1.100000 Ts:190 total_time_down:190.000000
+04-24 04:19:13.657  1423  1430 E MP-Decision: num online cores: 1 reqd : 2 available : 4 rq_depth:2.300000 hotplug_avg_load_dw: 26
+04-24 04:19:13.657  1423  1430 E MP-Decision: UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 total_time_up:146.000000
+04-24 04:19:13.808  1423  1430 E MP-Decision: num online cores: 2 reqd : 1 available : 4 rq_depth:0.600000 hotplug_avg_load_dw: 18
+04-24 04:19:13.808  1423  1430 E MP-Decision: DOWN cpu:1 core_idx:1 Ns:1.100000 Ts:190 total_time_down:142.000000
+04-24 04:19:19.963  1423  1430 E MP-Decision: num online cores: 1 reqd : 2 available : 4 rq_depth:2.500000 hotplug_avg_load_dw: 25
+04-24 04:19:19.963  1423  1430 E MP-Decision: UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 total_time_up:143.000000
+04-24 04:19:20.164  1423  1430 E MP-Decision: num online cores: 2 reqd : 1 available : 4 rq_depth:1.200000 hotplug_avg_load_dw: 19
+04-24 04:19:20.164  1423  1430 E MP-Decision: DOWN cpu:1 core_idx:1 Ns:1.100000 Ts:190 total_time_down:0.000000
+04-24 04:22:37.283  1423  1430 E MP-Decision: num online cores: 1 reqd : 2 available : 4 rq_depth:1.000000 hotplug_avg_load_dw: 58
+04-24 04:22:37.283  1423  1430 E MP-Decision: UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 total_time_up:0.000000
+04-24 04:22:37.483 13401 13401 D AndroidRuntime: 
+04-24 04:22:37.483 13401 13401 D AndroidRuntime: >>>>>> AndroidRuntime START com.android.internal.os.RuntimeInit <<<<<<
+04-24 04:22:37.483 13401 13401 D AndroidRuntime: CheckJNI is ON
+04-24 04:22:37.483 13401 13401 E dalvikvm: ERROR: must specify non-'.' bootclasspath
+04-24 04:22:37.483 13401 13401 W dalvikvm: CreateJavaVM failed: dvmClassStartup failed
+04-24 04:22:37.483 13401 13401 E AndroidRuntime: JNI_CreateJavaVM failed
+04-24 04:22:37.614 10532 10532 I olsrd   : Writing '1' (was 0) to /proc/sys/net/ipv4/conf/all/send_redirects
+04-24 04:22:37.614 10532 10532 I olsrd   : olsr.org -  0.6.6.2-n -git_0000000 -n -hash_ 7985605520f3cae9b305d56e83b35d9c stopped
+04-24 04:22:38.595  1423  1430 E MP-Decision: num online cores: 2 reqd : 1 available : 4 rq_depth:0.000000 hotplug_avg_load_dw: 27
+04-24 04:22:38.595  1423  1430 E MP-Decision: DOWN cpu:1 core_idx:1 Ns:1.100000 Ts:190 total_time_down:258.000000
+04-24 04:22:38.895  1423  1430 E MP-Decision: num online cores: 1 reqd : 2 available : 4 rq_depth:1.000000 hotplug_avg_load_dw: 61
+04-24 04:22:38.895  1423  1430 E MP-Decision: UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 total_time_up:0.000000
+04-24 04:22:39.475 13499 13499 D AndroidRuntime: 
+04-24 04:22:39.475 13499 13499 D AndroidRuntime: >>>>>> AndroidRuntime START com.android.internal.os.RuntimeInit <<<<<<
+04-24 04:22:39.475 13499 13499 D AndroidRuntime: CheckJNI is ON
+04-24 04:22:39.475 13499 13499 E dalvikvm: ERROR: must specify non-'.' bootclasspath
+04-24 04:22:39.475 13499 13499 W dalvikvm: CreateJavaVM failed: dvmClassStartup failed
+04-24 04:22:39.475 13499 13499 E AndroidRuntime: JNI_CreateJavaVM failed
+04-24 04:22:39.806 13501 13501 D AndroidRuntime: 
+04-24 04:22:39.806 13501 13501 D AndroidRuntime: >>>>>> AndroidRuntime START com.android.internal.os.RuntimeInit <<<<<<
+04-24 04:22:39.806 13501 13501 D AndroidRuntime: CheckJNI is ON
+04-24 04:22:39.816 13501 13501 E dalvikvm: ERROR: must specify non-'.' bootclasspath
+04-24 04:22:39.816 13501 13501 W dalvikvm: CreateJavaVM failed: dvmClassStartup failed
+04-24 04:22:39.816 13501 13501 E AndroidRuntime: JNI_CreateJavaVM failed

@@ -1,0 +1,112 @@
+--------- beginning of /dev/log/main
+04-24 04:16:29.364  1401  1409 E MP-Decision: num online cores: 2 reqd : 1 available : 4 rq_depth:0.000000 hotplug_avg_load_dw: 17
+04-24 04:16:29.364  1401  1409 E MP-Decision: DOWN cpu:1 core_idx:1 Ns:1.100000 Ts:190 total_time_down:342.000000
+04-24 04:16:32.357  8502  8502 D dalvikvm: Not late-enabling CheckJNI (already on)
+--------- beginning of /dev/log/system
+04-24 04:16:32.357   797   815 I ActivityManager: Start proc edu.mit.ll.cbmen.monitor for service edu.mit.ll.cbmen.monitor/.MonitorService: pid=8502 uid=10055 gids={50055, 1015, 3003, 1028}
+04-24 04:16:32.437  8502  8502 I MonitorService: onCreate() MonitorService
+04-24 04:16:32.437  8502  8502 D AndroidRuntime: Shutting down VM
+04-24 04:16:32.437  8502  8502 W dalvikvm: threadid=1: thread exiting with uncaught exception (group=0x416f87c0)
+04-24 04:16:32.447  8502  8502 I Process : Sending signal. PID: 8502 SIG: 9
+04-24 04:16:32.447  8502  8502 E AndroidRuntime: FATAL EXCEPTION: main
+04-24 04:16:32.447  8502  8502 E AndroidRuntime: java.lang.RuntimeException: Unable to start service edu.mit.ll.cbmen.monitor.MonitorService@4197c408 with null: java.lang.NullPointerException
+04-24 04:16:32.447  8502  8502 E AndroidRuntime: 	at android.app.ActivityThread.handleServiceArgs(ActivityThread.java:2849)
+04-24 04:16:32.447  8502  8502 E AndroidRuntime: 	at android.app.ActivityThread.access$1900(ActivityThread.java:153)
+04-24 04:16:32.447  8502  8502 E AndroidRuntime: 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1366)
+04-24 04:16:32.447  8502  8502 E AndroidRuntime: 	at android.os.Handler.dispatchMessage(Handler.java:99)
+04-24 04:16:32.447  8502  8502 E AndroidRuntime: 	at android.os.Looper.loop(Looper.java:137)
+04-24 04:16:32.447  8502  8502 E AndroidRuntime: 	at android.app.ActivityThread.main(ActivityThread.java:5289)
+04-24 04:16:32.447  8502  8502 E AndroidRuntime: 	at java.lang.reflect.Method.invokeNative(Native Method)
+04-24 04:16:32.447  8502  8502 E AndroidRuntime: 	at java.lang.reflect.Method.invoke(Method.java:525)
+04-24 04:16:32.447  8502  8502 E AndroidRuntime: 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:739)
+04-24 04:16:32.447  8502  8502 E AndroidRuntime: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:555)
+04-24 04:16:32.447  8502  8502 E AndroidRuntime: 	at dalvik.system.NativeStart.main(Native Method)
+04-24 04:16:32.447  8502  8502 E AndroidRuntime: Caused by: java.lang.NullPointerException
+04-24 04:16:32.447  8502  8502 E AndroidRuntime: 	at edu.mit.ll.cbmen.monitor.MonitorService.onStartCommand(MonitorService.java:773)
+04-24 04:16:32.447  8502  8502 E AndroidRuntime: 	at android.app.ActivityThread.handleServiceArgs(ActivityThread.java:2832)
+04-24 04:16:32.447  8502  8502 E AndroidRuntime: 	... 10 more
+04-24 04:16:32.457   797  1156 I ActivityManager: Process edu.mit.ll.cbmen.monitor (pid 8502) has died.
+04-24 04:16:32.457   797  1156 W ActivityManager: Scheduling restart of crashed service edu.mit.ll.cbmen.monitor/.MonitorService in 20000ms
+04-24 04:16:52.486  8516  8516 D dalvikvm: Not late-enabling CheckJNI (already on)
+04-24 04:16:52.496   797   815 I ActivityManager: Start proc edu.mit.ll.cbmen.monitor for service edu.mit.ll.cbmen.monitor/.MonitorService: pid=8516 uid=10055 gids={50055, 1015, 3003, 1028}
+04-24 04:16:52.566  1401  1409 E MP-Decision: num online cores: 1 reqd : 2 available : 4 rq_depth:3.100000 hotplug_avg_load_dw: 23
+04-24 04:16:52.566  1401  1409 E MP-Decision: UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 total_time_up:145.000000
+04-24 04:16:52.566  8516  8516 I MonitorService: onCreate() MonitorService
+04-24 04:16:52.566  8516  8516 D AndroidRuntime: Shutting down VM
+04-24 04:16:52.566  8516  8516 W dalvikvm: threadid=1: thread exiting with uncaught exception (group=0x416f87c0)
+04-24 04:16:52.566  8516  8516 E AndroidRuntime: FATAL EXCEPTION: main
+04-24 04:16:52.566  8516  8516 E AndroidRuntime: java.lang.RuntimeException: Unable to start service edu.mit.ll.cbmen.monitor.MonitorService@4197d310 with null: java.lang.NullPointerException
+04-24 04:16:52.566  8516  8516 E AndroidRuntime: 	at android.app.ActivityThread.handleServiceArgs(ActivityThread.java:2849)
+04-24 04:16:52.566  8516  8516 E AndroidRuntime: 	at android.app.ActivityThread.access$1900(ActivityThread.java:153)
+04-24 04:16:52.566  8516  8516 E AndroidRuntime: 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1366)
+04-24 04:16:52.566  8516  8516 E AndroidRuntime: 	at android.os.Handler.dispatchMessage(Handler.java:99)
+04-24 04:16:52.566  8516  8516 E AndroidRuntime: 	at android.os.Looper.loop(Looper.java:137)
+04-24 04:16:52.566  8516  8516 E AndroidRuntime: 	at android.app.ActivityThread.main(ActivityThread.java:5289)
+04-24 04:16:52.566  8516  8516 E AndroidRuntime: 	at java.lang.reflect.Method.invokeNative(Native Method)
+04-24 04:16:52.566  8516  8516 E AndroidRuntime: 	at java.lang.reflect.Method.invoke(Method.java:525)
+04-24 04:16:52.566  8516  8516 E AndroidRuntime: 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:739)
+04-24 04:16:52.566  8516  8516 E AndroidRuntime: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:555)
+04-24 04:16:52.566  8516  8516 E AndroidRuntime: 	at dalvik.system.NativeStart.main(Native Method)
+04-24 04:16:52.566  8516  8516 E AndroidRuntime: Caused by: java.lang.NullPointerException
+04-24 04:16:52.566  8516  8516 E AndroidRuntime: 	at edu.mit.ll.cbmen.monitor.MonitorService.onStartCommand(MonitorService.java:773)
+04-24 04:16:52.566  8516  8516 E AndroidRuntime: 	at android.app.ActivityThread.handleServiceArgs(ActivityThread.java:2832)
+04-24 04:16:52.566  8516  8516 E AndroidRuntime: 	... 10 more
+04-24 04:16:52.576  8516  8516 I Process : Sending signal. PID: 8516 SIG: 9
+04-24 04:16:52.576   797  1070 I ActivityManager: Process edu.mit.ll.cbmen.monitor (pid 8516) has died.
+04-24 04:16:52.576   797  1070 W ActivityManager: Service crashed 2 times, stopping: ServiceRecord{422093d8 u0 edu.mit.ll.cbmen.monitor/.MonitorService}
+04-24 04:16:52.706  1401  1409 E MP-Decision: num online cores: 2 reqd : 1 available : 4 rq_depth:0.000000 hotplug_avg_load_dw: 16
+04-24 04:16:52.706  1401  1409 E MP-Decision: DOWN cpu:1 core_idx:1 Ns:1.100000 Ts:190 total_time_down:137.000000
+04-24 04:22:47.109  8707  8707 I olsrd   : Writing '1' (was 1) to /proc/sys/net/ipv4/ip_forward
+04-24 04:22:47.109  8707  8707 I olsrd   : Writing '0' (was 1) to /proc/sys/net/ipv4/conf/all/send_redirects
+04-24 04:22:47.109  8707  8707 I olsrd   : Writing '0' (was 0) to /proc/sys/net/ipv4/conf/all/rp_filter
+04-24 04:22:47.109  8707  8707 I olsrd   : Writing '0' (was 0) to /proc/sys/net/ipv4/conf/wlan0/send_redirects
+04-24 04:22:47.109  8707  8707 I olsrd   : Writing '0' (was 0) to /proc/sys/net/ipv4/conf/wlan0/rp_filter
+04-24 04:22:47.109  8707  8707 I olsrd   : Adding interface wlan0
+04-24 04:22:47.109  8707  8707 I olsrd   : New main address: 10.1.1.14
+04-24 04:22:47.119  8708  8708 I olsrd   : olsr.org -  0.6.6.2-n -git_0000000 -n -hash_ 7985605520f3cae9b305d56e83b35d9c successfully started
+04-24 04:24:30.949  8708  8708 I olsrd   : detected duplicate packet with seqnr 0x8b6a from 10.1.1.10 on wlan0 (172 Bytes)
+04-24 04:24:34.622  8708  8708 I olsrd   : detected duplicate packet with seqnr 0xac30 from 10.1.1.8 on wlan0 (176 Bytes)
+04-24 04:24:36.224  8708  8708 I olsrd   : detected duplicate packet with seqnr 0x9b52 from 10.1.1.2 on wlan0 (1108 Bytes)
+04-24 04:25:05.773  1401  1409 E MP-Decision: num online cores: 1 reqd : 2 available : 4 rq_depth:2.100000 hotplug_avg_load_dw: 31
+04-24 04:25:05.773  1401  1409 E MP-Decision: UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 total_time_up:145.000000
+04-24 04:25:05.823  1401  1409 E MP-Decision: num online cores: 2 reqd : 1 available : 4 rq_depth:0.000000 hotplug_avg_load_dw: 18
+04-24 04:25:05.823  1401  1409 E MP-Decision: DOWN cpu:1 core_idx:1 Ns:1.100000 Ts:190 total_time_down:44.000000
+04-24 04:25:37.833  8708  8708 I olsrd   : detected duplicate packet with seqnr 0x8b90 from 10.1.1.10 on wlan0 (452 Bytes)
+04-24 04:26:02.027  8708  8708 I olsrd   : detected duplicate packet with seqnr 0x5ffb from 10.1.1.4 on wlan0 (736 Bytes)
+04-24 04:26:02.077  8708  8708 I olsrd   : detected duplicate packet with seqnr 0xdf7 from 10.1.1.15 on wlan0 (264 Bytes)
+04-24 04:26:02.077  8708  8708 I olsrd   : detected duplicate packet with seqnr 0xdf7 from 10.1.1.15 on wlan0 (264 Bytes)
+04-24 04:26:10.395  8708  8708 I olsrd   : detected duplicate packet with seqnr 0xa17 from 10.1.1.16 on wlan0 (288 Bytes)
+04-24 04:26:10.395  8708  8708 I olsrd   : detected duplicate packet with seqnr 0xa17 from 10.1.1.16 on wlan0 (288 Bytes)
+04-24 04:26:40.584  8708  8708 I olsrd   : detected duplicate packet with seqnr 0xedee from 10.1.1.12 on wlan0 (308 Bytes)
+04-24 04:27:05.058   797   815 W ProcessStats: Skipping unknown process pid 10320
+04-24 04:27:08.861  8708  8708 I olsrd   : detected duplicate packet with seqnr 0x9ba7 from 10.1.1.2 on wlan0 (280 Bytes)
+04-24 04:27:15.247  8708  8708 I olsrd   : detected duplicate packet with seqnr 0xe1c from 10.1.1.15 on wlan0 (172 Bytes)
+04-24 04:27:15.247  8708  8708 I olsrd   : detected duplicate packet with seqnr 0xe1c from 10.1.1.15 on wlan0 (172 Bytes)
+04-24 04:27:43.064  8708  8708 I olsrd   : detected duplicate packet with seqnr 0xe22 from 10.1.1.15 on wlan0 (296 Bytes)
+04-24 04:27:43.064  8708  8708 I olsrd   : detected duplicate packet with seqnr 0xe22 from 10.1.1.15 on wlan0 (296 Bytes)
+04-24 04:27:43.064  8708  8708 I olsrd   : detected duplicate packet with seqnr 0xe22 from 10.1.1.15 on wlan0 (296 Bytes)
+04-24 04:27:49.611  8708  8708 I olsrd   : detected duplicate packet with seqnr 0xe27 from 10.1.1.15 on wlan0 (304 Bytes)
+04-24 04:27:49.611  8708  8708 I olsrd   : detected duplicate packet with seqnr 0xe27 from 10.1.1.15 on wlan0 (304 Bytes)
+04-24 04:27:49.611  8708  8708 I olsrd   : detected duplicate packet with seqnr 0xe27 from 10.1.1.15 on wlan0 (304 Bytes)
+04-24 04:27:49.621  8708  8708 I olsrd   : detected duplicate packet with seqnr 0xe27 from 10.1.1.15 on wlan0 (304 Bytes)
+04-24 04:27:49.621  8708  8708 I olsrd   : detected duplicate packet with seqnr 0xe27 from 10.1.1.15 on wlan0 (304 Bytes)
+04-24 04:27:51.122  8708  8708 I olsrd   : detected duplicate packet with seqnr 0xee16 from 10.1.1.12 on wlan0 (824 Bytes)
+04-24 04:27:51.122  8708  8708 I olsrd   : detected duplicate packet with seqnr 0xee16 from 10.1.1.12 on wlan0 (824 Bytes)
+04-24 04:27:51.122  8708  8708 I olsrd   : detected duplicate packet with seqnr 0xee16 from 10.1.1.12 on wlan0 (824 Bytes)
+04-24 04:27:51.122  8708  8708 I olsrd   : detected duplicate packet with seqnr 0xee16 from 10.1.1.12 on wlan0 (824 Bytes)
+04-24 04:27:51.122  8708  8708 I olsrd   : detected duplicate packet with seqnr 0xee16 from 10.1.1.12 on wlan0 (824 Bytes)
+04-24 04:27:56.097  8708  8708 I olsrd   : detected duplicate packet with seqnr 0xe6d1 from 10.1.1.9 on wlan0 (692 Bytes)
+04-24 04:27:56.097  8708  8708 I olsrd   : detected duplicate packet with seqnr 0xe6d1 from 10.1.1.9 on wlan0 (692 Bytes)
+04-24 04:27:56.147  8708  8708 I olsrd   : detected duplicate packet with seqnr 0xa5f from 10.1.1.16 on wlan0 (1412 Bytes)
+04-24 04:27:58.119  8708  8708 I olsrd   : detected duplicate packet with seqnr 0x8be6 from 10.1.1.10 on wlan0 (1324 Bytes)
+04-24 04:28:27.057  8708  8708 I olsrd   : Removing interface wlan0
+04-24 04:28:27.057   797   848 D Tethering: InitialState.processMessage what=4
+04-24 04:28:27.067   797   848 D Tethering: Exception adding default nw to upstreamIfaceTypes: java.lang.NullPointerException
+04-24 04:28:27.067   797   848 D Tethering: sendTetherStateChangedBroadcast 1, 0, 0
+04-24 04:28:27.067   797   797 D Tethering: Exception adding default nw to upstreamIfaceTypes: java.lang.NullPointerException
+04-24 04:29:59.996   797   815 I ActivityManager: No longer want com.cyanogenmod.lockclock (pid 1619): empty for 3242s
+04-24 04:33:17.877 12668 12668 W libc    : void endpwent()(3) is not implemented on Android
+04-24 04:33:17.877   250   250 I busybox : void endpwent()(3) is not implemented on Android
+04-24 04:33:17.957 12670 12670 W libc    : void endpwent()(3) is not implemented on Android
+04-24 04:33:18.147  1401  1409 E MP-Decision: num online cores: 1 reqd : 2 available : 4 rq_depth:2.100000 hotplug_avg_load_dw: 60
+04-24 04:33:18.147  1401  1409 E MP-Decision: UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 total_time_up:49.000000

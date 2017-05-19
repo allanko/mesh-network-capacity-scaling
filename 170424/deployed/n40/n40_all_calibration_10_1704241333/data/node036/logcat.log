@@ -1,0 +1,83 @@
+--------- beginning of /dev/log/main
+04-24 06:15:41.735  1408  1414 E MP-Decision: num online cores: 2 reqd : 1 available : 4 rq_depth:1.000000 hotplug_avg_load_dw: 13
+04-24 06:15:41.735  1408  1414 E MP-Decision: DOWN cpu:1 core_idx:1 Ns:1.100000 Ts:190 total_time_down:48.000000
+04-24 06:15:42.036  1408  1414 E MP-Decision: num online cores: 1 reqd : 2 available : 4 rq_depth:1.000000 hotplug_avg_load_dw: 72
+04-24 06:15:42.036  1408  1414 E MP-Decision: UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 total_time_up:0.000000
+04-24 06:15:42.496 16683 16683 D AndroidRuntime: 
+04-24 06:15:42.496 16683 16683 D AndroidRuntime: >>>>>> AndroidRuntime START com.android.internal.os.RuntimeInit <<<<<<
+04-24 06:15:42.496 16683 16683 D AndroidRuntime: CheckJNI is ON
+04-24 06:15:42.496 16683 16683 E dalvikvm: ERROR: must specify non-'.' bootclasspath
+04-24 06:15:42.496 16683 16683 W dalvikvm: CreateJavaVM failed: dvmClassStartup failed
+04-24 06:15:42.496 16683 16683 E AndroidRuntime: JNI_CreateJavaVM failed
+04-24 06:15:42.816 16685 16685 D AndroidRuntime: 
+04-24 06:15:42.816 16685 16685 D AndroidRuntime: >>>>>> AndroidRuntime START com.android.internal.os.RuntimeInit <<<<<<
+04-24 06:15:42.816 16685 16685 D AndroidRuntime: CheckJNI is ON
+04-24 06:15:42.816 16685 16685 E dalvikvm: ERROR: must specify non-'.' bootclasspath
+04-24 06:15:42.816 16685 16685 W dalvikvm: CreateJavaVM failed: dvmClassStartup failed
+04-24 06:15:42.816 16685 16685 E AndroidRuntime: JNI_CreateJavaVM failed
+04-24 06:15:45.018  1408  1414 E MP-Decision: num online cores: 2 reqd : 1 available : 4 rq_depth:0.000000 hotplug_avg_load_dw: 15
+04-24 06:15:45.018  1408  1414 E MP-Decision: DOWN cpu:1 core_idx:1 Ns:1.100000 Ts:190 total_time_down:2945.000000
+04-24 06:16:19.592   309   713 D MDnsDS  : MDnsSdListener::Monitor poll timed out
+04-24 06:16:19.592   309   713 D MDnsDS  : Going to poll with pollCount 1
+--------- beginning of /dev/log/system
+04-24 06:29:43.389   797   812 I EntropyMixer: Writing entropy...
+04-24 06:33:20.112 16864 16864 I olsrd   : Writing '1' (was 1) to /proc/sys/net/ipv4/ip_forward
+04-24 06:33:20.112 16864 16864 I olsrd   : Writing '0' (was 1) to /proc/sys/net/ipv4/conf/all/send_redirects
+04-24 06:33:20.112 16864 16864 I olsrd   : Writing '0' (was 0) to /proc/sys/net/ipv4/conf/all/rp_filter
+04-24 06:33:20.112 16864 16864 I olsrd   : Writing '0' (was 0) to /proc/sys/net/ipv4/conf/wlan0/send_redirects
+04-24 06:33:20.112 16864 16864 I olsrd   : Writing '0' (was 0) to /proc/sys/net/ipv4/conf/wlan0/rp_filter
+04-24 06:33:20.112 16864 16864 I olsrd   : Adding interface wlan0
+04-24 06:33:20.112 16864 16864 I olsrd   : New main address: 10.1.1.36
+04-24 06:33:20.122 16869 16869 I olsrd   : olsr.org -  0.6.6.2-n -git_0000000 -n -hash_ 7985605520f3cae9b305d56e83b35d9c successfully started
+04-24 06:38:49.274   933   933 E kickstart: Total bytes received so far: 48
+04-24 06:38:49.274   933   933 E kickstart: EVENT: RECEIVED <-- SAHARA_HELLO
+04-24 06:38:49.274   933   933 E kickstart: EVENT: SENDING --> SAHARA_HELLO_RESPONSE
+04-24 06:38:49.274   933   933 E kickstart: EVENT: sahara_mode                         = 2
+04-24 06:38:49.274   933   933 E kickstart: EVENT: m_comm->sahara_hello_packet_rx.mode = 2
+04-24 06:38:49.274   933   933 E kickstart: EVENT: helloRx.mode                        = 2
+04-24 06:38:49.284   933   933 E kickstart: Total bytes received so far: 64
+04-24 06:38:49.284   933   933 E kickstart: EVENT: RECEIVED <-- SAHARA_MEMORY_DEBUG
+04-24 06:38:49.284   933   933 E kickstart: Total bytes received so far: 116
+04-24 06:38:49.284   933   933 E kickstart: EVENT: 0x46980000, len=000C0000, "m9kefs1", ""
+04-24 06:38:49.284   933   933 E kickstart: EVENT: STATE <-- SAHARA_WAIT_MEMORY_REGION
+04-24 06:38:49.284   933   933 E kickstart: EVENT: Saving "/dev/block/platform/msm_sdcc.1/by-name/m9kefs1"
+04-24 06:38:49.364   933   933 E kickstart: Total bytes received so far: 786548
+04-24 06:38:49.364   933   933 E kickstart: EVENT: Received: 786432 bytes
+04-24 06:38:49.364   933   933 E kickstart: EVENT: Writing to disk
+04-24 06:38:49.364   933   933 E kickstart: EVENT: Successfully wrote to disk
+04-24 06:38:49.364   933   933 E kickstart: Received file "m9kefs1"
+04-24 06:38:49.404   933   933 E kickstart: Sync finish Received file "m9kefs1"
+04-24 06:38:49.404   933   933 E kickstart: 786432 bytes transferred in 0.115s (6.52 MBps)
+04-24 06:38:49.404   933   933 E kickstart: EVENT: num_debug_entries not >=0
+04-24 06:38:49.404   933   933 E kickstart: Successfully downloaded files from target 
+04-24 06:38:49.404   933   933 E kickstart: EVENT: SENDING --> SAHARA_RESET
+04-24 06:38:49.404   933   933 E kickstart: Total bytes received so far: 786556
+04-24 06:38:49.404   933   933 E kickstart: EVENT: RECEIVED <-- SAHARA_RESET_RESP
+04-24 06:38:49.404   933   933 E kickstart: Sahara protocol completed
+04-24 06:38:49.404   933   933 E kickstart: EVENT: STATE <-- SAHARA_WAIT_HELLO
+04-24 06:39:00.325  1408  1414 E MP-Decision: num online cores: 1 reqd : 2 available : 4 rq_depth:1.000000 hotplug_avg_load_dw: 74
+04-24 06:39:00.325  1408  1414 E MP-Decision: UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 total_time_up:0.000000
+04-24 06:39:00.445 19731 19731 D AndroidRuntime: 
+04-24 06:39:00.445 19731 19731 D AndroidRuntime: >>>>>> AndroidRuntime START com.android.internal.os.RuntimeInit <<<<<<
+04-24 06:39:00.445 19731 19731 D AndroidRuntime: CheckJNI is ON
+04-24 06:39:00.445 19731 19731 E dalvikvm: ERROR: must specify non-'.' bootclasspath
+04-24 06:39:00.445 19731 19731 W dalvikvm: CreateJavaVM failed: dvmClassStartup failed
+04-24 06:39:00.445 19731 19731 E AndroidRuntime: JNI_CreateJavaVM failed
+04-24 06:39:00.625 16869 16869 I olsrd   : Writing '1' (was 0) to /proc/sys/net/ipv4/conf/all/send_redirects
+04-24 06:39:00.625 16869 16869 I olsrd   : olsr.org -  0.6.6.2-n -git_0000000 -n -hash_ 7985605520f3cae9b305d56e83b35d9c stopped
+04-24 06:39:01.656  1408  1414 E MP-Decision: num online cores: 2 reqd : 1 available : 4 rq_depth:0.000000 hotplug_avg_load_dw: 18
+04-24 06:39:01.656  1408  1414 E MP-Decision: DOWN cpu:1 core_idx:1 Ns:1.100000 Ts:190 total_time_down:920.000000
+04-24 06:39:01.906  1408  1414 E MP-Decision: num online cores: 1 reqd : 2 available : 4 rq_depth:1.000000 hotplug_avg_load_dw: 56
+04-24 06:39:01.906  1408  1414 E MP-Decision: UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 total_time_up:0.000000
+04-24 06:39:02.487 19794 19794 D AndroidRuntime: 
+04-24 06:39:02.487 19794 19794 D AndroidRuntime: >>>>>> AndroidRuntime START com.android.internal.os.RuntimeInit <<<<<<
+04-24 06:39:02.487 19794 19794 D AndroidRuntime: CheckJNI is ON
+04-24 06:39:02.487 19794 19794 E dalvikvm: ERROR: must specify non-'.' bootclasspath
+04-24 06:39:02.487 19794 19794 W dalvikvm: CreateJavaVM failed: dvmClassStartup failed
+04-24 06:39:02.487 19794 19794 E AndroidRuntime: JNI_CreateJavaVM failed
+04-24 06:39:02.827 19795 19795 D AndroidRuntime: 
+04-24 06:39:02.827 19795 19795 D AndroidRuntime: >>>>>> AndroidRuntime START com.android.internal.os.RuntimeInit <<<<<<
+04-24 06:39:02.827 19795 19795 D AndroidRuntime: CheckJNI is ON
+04-24 06:39:02.827 19795 19795 E dalvikvm: ERROR: must specify non-'.' bootclasspath
+04-24 06:39:02.827 19795 19795 W dalvikvm: CreateJavaVM failed: dvmClassStartup failed
+04-24 06:39:02.827 19795 19795 E AndroidRuntime: JNI_CreateJavaVM failed

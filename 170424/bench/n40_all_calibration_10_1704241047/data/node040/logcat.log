@@ -1,0 +1,214 @@
+--------- beginning of /dev/log/main
+04-24 03:46:41.529  1426  1432 E MP-Decision: num online cores: 2 reqd : 1 available : 4 rq_depth:0.000000 hotplug_avg_load_dw: 21
+04-24 03:46:41.529  1426  1432 E MP-Decision: DOWN cpu:1 core_idx:1 Ns:1.100000 Ts:190 total_time_down:366.000000
+04-24 03:46:44.402  2173  2173 D dalvikvm: Not late-enabling CheckJNI (already on)
+--------- beginning of /dev/log/system
+04-24 03:46:44.422   807   829 I ActivityManager: Start proc edu.mit.ll.cbmen.monitor for service edu.mit.ll.cbmen.monitor/.MonitorService: pid=2173 uid=10057 gids={50057, 1015, 3003, 1028}
+04-24 03:46:44.472  2173  2173 I MonitorService: onCreate() MonitorService
+04-24 03:46:44.482  2173  2173 D AndroidRuntime: Shutting down VM
+04-24 03:46:44.482  2173  2173 W dalvikvm: threadid=1: thread exiting with uncaught exception (group=0x417297c0)
+04-24 03:46:44.482  2173  2173 E AndroidRuntime: FATAL EXCEPTION: main
+04-24 03:46:44.482  2173  2173 E AndroidRuntime: java.lang.RuntimeException: Unable to start service edu.mit.ll.cbmen.monitor.MonitorService@419a6a50 with null: java.lang.NullPointerException
+04-24 03:46:44.482  2173  2173 E AndroidRuntime: 	at android.app.ActivityThread.handleServiceArgs(ActivityThread.java:2849)
+04-24 03:46:44.482  2173  2173 E AndroidRuntime: 	at android.app.ActivityThread.access$1900(ActivityThread.java:153)
+04-24 03:46:44.482  2173  2173 E AndroidRuntime: 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1366)
+04-24 03:46:44.482  2173  2173 E AndroidRuntime: 	at android.os.Handler.dispatchMessage(Handler.java:99)
+04-24 03:46:44.482  2173  2173 E AndroidRuntime: 	at android.os.Looper.loop(Looper.java:137)
+04-24 03:46:44.482  2173  2173 E AndroidRuntime: 	at android.app.ActivityThread.main(ActivityThread.java:5289)
+04-24 03:46:44.482  2173  2173 E AndroidRuntime: 	at java.lang.reflect.Method.invokeNative(Native Method)
+04-24 03:46:44.482  2173  2173 E AndroidRuntime: 	at java.lang.reflect.Method.invoke(Method.java:525)
+04-24 03:46:44.482  2173  2173 E AndroidRuntime: 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:739)
+04-24 03:46:44.482  2173  2173 E AndroidRuntime: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:555)
+04-24 03:46:44.482  2173  2173 E AndroidRuntime: 	at dalvik.system.NativeStart.main(Native Method)
+04-24 03:46:44.482  2173  2173 E AndroidRuntime: Caused by: java.lang.NullPointerException
+04-24 03:46:44.482  2173  2173 E AndroidRuntime: 	at edu.mit.ll.cbmen.monitor.MonitorService.onStartCommand(MonitorService.java:773)
+04-24 03:46:44.482  2173  2173 E AndroidRuntime: 	at android.app.ActivityThread.handleServiceArgs(ActivityThread.java:2832)
+04-24 03:46:44.482  2173  2173 E AndroidRuntime: 	... 10 more
+04-24 03:46:44.492  2173  2173 I Process : Sending signal. PID: 2173 SIG: 9
+04-24 03:46:44.492   807  1141 I ActivityManager: Process edu.mit.ll.cbmen.monitor (pid 2173) has died.
+04-24 03:46:44.492   807  1141 W ActivityManager: Scheduling restart of crashed service edu.mit.ll.cbmen.monitor/.MonitorService in 20000ms
+04-24 03:47:04.520  2289  2289 D dalvikvm: Not late-enabling CheckJNI (already on)
+04-24 03:47:04.550   807   829 I ActivityManager: Start proc edu.mit.ll.cbmen.monitor for service edu.mit.ll.cbmen.monitor/.MonitorService: pid=2289 uid=10057 gids={50057, 1015, 3003, 1028}
+04-24 03:47:04.640  2289  2289 I MonitorService: onCreate() MonitorService
+04-24 03:47:04.640  2289  2289 D AndroidRuntime: Shutting down VM
+04-24 03:47:04.650  1426  1432 E MP-Decision: num online cores: 1 reqd : 2 available : 4 rq_depth:2.900000 hotplug_avg_load_dw: 36
+04-24 03:47:04.650  1426  1432 E MP-Decision: UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 total_time_up:144.000000
+04-24 03:47:04.650  2289  2289 W dalvikvm: threadid=1: thread exiting with uncaught exception (group=0x417297c0)
+04-24 03:47:04.650  2289  2289 I Process : Sending signal. PID: 2289 SIG: 9
+04-24 03:47:04.650  2289  2289 E AndroidRuntime: FATAL EXCEPTION: main
+04-24 03:47:04.650  2289  2289 E AndroidRuntime: java.lang.RuntimeException: Unable to start service edu.mit.ll.cbmen.monitor.MonitorService@419a7950 with null: java.lang.NullPointerException
+04-24 03:47:04.650  2289  2289 E AndroidRuntime: 	at android.app.ActivityThread.handleServiceArgs(ActivityThread.java:2849)
+04-24 03:47:04.650  2289  2289 E AndroidRuntime: 	at android.app.ActivityThread.access$1900(ActivityThread.java:153)
+04-24 03:47:04.650  2289  2289 E AndroidRuntime: 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1366)
+04-24 03:47:04.650  2289  2289 E AndroidRuntime: 	at android.os.Handler.dispatchMessage(Handler.java:99)
+04-24 03:47:04.650  2289  2289 E AndroidRuntime: 	at android.os.Looper.loop(Looper.java:137)
+04-24 03:47:04.650  2289  2289 E AndroidRuntime: 	at android.app.ActivityThread.main(ActivityThread.java:5289)
+04-24 03:47:04.650  2289  2289 E AndroidRuntime: 	at java.lang.reflect.Method.invokeNative(Native Method)
+04-24 03:47:04.650  2289  2289 E AndroidRuntime: 	at java.lang.reflect.Method.invoke(Method.java:525)
+04-24 03:47:04.650  2289  2289 E AndroidRuntime: 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:739)
+04-24 03:47:04.650  2289  2289 E AndroidRuntime: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:555)
+04-24 03:47:04.650  2289  2289 E AndroidRuntime: 	at dalvik.system.NativeStart.main(Native Method)
+04-24 03:47:04.650  2289  2289 E AndroidRuntime: Caused by: java.lang.NullPointerException
+04-24 03:47:04.650  2289  2289 E AndroidRuntime: 	at edu.mit.ll.cbmen.monitor.MonitorService.onStartCommand(MonitorService.java:773)
+04-24 03:47:04.650  2289  2289 E AndroidRuntime: 	at android.app.ActivityThread.handleServiceArgs(ActivityThread.java:2832)
+04-24 03:47:04.650  2289  2289 E AndroidRuntime: 	... 10 more
+04-24 03:47:04.670   807  1181 I ActivityManager: Process edu.mit.ll.cbmen.monitor (pid 2289) has died.
+04-24 03:47:04.670   807  1181 W ActivityManager: Service crashed 2 times, stopping: ServiceRecord{41f0ed30 u0 edu.mit.ll.cbmen.monitor/.MonitorService}
+04-24 03:47:04.780  1426  1432 E MP-Decision: num online cores: 2 reqd : 1 available : 4 rq_depth:0.000000 hotplug_avg_load_dw: 16
+04-24 03:47:04.780  1426  1432 E MP-Decision: DOWN cpu:1 core_idx:1 Ns:1.100000 Ts:190 total_time_down:127.000000
+04-24 03:47:12.127  2376  2376 I olsrd   : Writing '1' (was 1) to /proc/sys/net/ipv4/ip_forward
+04-24 03:47:12.127  2376  2376 I olsrd   : Writing '0' (was 1) to /proc/sys/net/ipv4/conf/all/send_redirects
+04-24 03:47:12.127  2376  2376 I olsrd   : Writing '0' (was 0) to /proc/sys/net/ipv4/conf/all/rp_filter
+04-24 03:47:12.127  2376  2376 I olsrd   : Writing '0' (was 1) to /proc/sys/net/ipv4/conf/wlan0/send_redirects
+04-24 03:47:12.127  2376  2376 I olsrd   : Writing '0' (was 0) to /proc/sys/net/ipv4/conf/wlan0/rp_filter
+04-24 03:47:12.127  2376  2376 I olsrd   : Adding interface wlan0
+04-24 03:47:12.127  2376  2376 I olsrd   : New main address: 10.1.1.40
+04-24 03:47:12.137  2381  2381 I olsrd   : olsr.org -  0.6.6.2-n -git_0000000 -n -hash_ 7985605520f3cae9b305d56e83b35d9c successfully started
+04-24 03:48:41.131  2381  2381 I olsrd   : detected duplicate packet with seqnr 0x64d0 from 10.1.1.37 on wlan0 (672 Bytes)
+04-24 03:48:41.141  2381  2381 I olsrd   : detected duplicate packet with seqnr 0x64d0 from 10.1.1.37 on wlan0 (672 Bytes)
+04-24 03:48:41.151  2381  2381 I olsrd   : detected duplicate packet with seqnr 0x64d0 from 10.1.1.37 on wlan0 (672 Bytes)
+04-24 03:48:41.151  2381  2381 I olsrd   : detected duplicate packet with seqnr 0x64d0 from 10.1.1.37 on wlan0 (672 Bytes)
+04-24 03:48:41.151  2381  2381 I olsrd   : detected duplicate packet with seqnr 0x64d0 from 10.1.1.37 on wlan0 (672 Bytes)
+04-24 03:48:41.231  2381  2381 I olsrd   : detected duplicate packet with seqnr 0x64d0 from 10.1.1.37 on wlan0 (672 Bytes)
+04-24 03:48:50.981  2381  2381 I olsrd   : detected duplicate packet with seqnr 0x7f44 from 10.1.1.34 on wlan0 (960 Bytes)
+04-24 03:48:50.981  2381  2381 I olsrd   : detected duplicate packet with seqnr 0x7f44 from 10.1.1.34 on wlan0 (960 Bytes)
+04-24 03:48:54.354  2381  2381 I olsrd   : detected duplicate packet with seqnr 0x4c4a from 10.1.1.9 on wlan0 (992 Bytes)
+04-24 03:48:54.354  2381  2381 I olsrd   : detected duplicate packet with seqnr 0x4c4a from 10.1.1.9 on wlan0 (992 Bytes)
+04-24 03:49:48.485  2381  2381 I olsrd   : detected duplicate packet with seqnr 0x3027 from 10.1.1.1 on wlan0 (1340 Bytes)
+04-24 03:49:48.635  2381  2381 I olsrd   : detected duplicate packet with seqnr 0x3027 from 10.1.1.1 on wlan0 (1340 Bytes)
+04-24 03:49:59.035  2381  2381 I olsrd   : detected duplicate packet with seqnr 0x5e7c from 10.1.1.2 on wlan0 (596 Bytes)
+04-24 03:50:03.560  2381  2381 I olsrd   : detected duplicate packet with seqnr 0x6564 from 10.1.1.24 on wlan0 (1080 Bytes)
+04-24 03:50:39.114  2381  2381 I olsrd   : detected duplicate packet with seqnr 0x43b4 from 10.1.1.29 on wlan0 (1456 Bytes)
+04-24 03:50:39.114  2381  2381 I olsrd   : detected duplicate packet with seqnr 0x43b4 from 10.1.1.29 on wlan0 (1456 Bytes)
+04-24 03:50:40.755  2381  2381 I olsrd   : detected duplicate packet with seqnr 0x8abc from 10.1.1.22 on wlan0 (536 Bytes)
+04-24 03:50:48.303  2381  2381 I olsrd   : detected duplicate packet with seqnr 0x5a from 10.1.1.6 on wlan0 (984 Bytes)
+04-24 03:50:48.303  2381  2381 I olsrd   : detected duplicate packet with seqnr 0x5a from 10.1.1.6 on wlan0 (984 Bytes)
+04-24 03:50:48.303  2381  2381 I olsrd   : detected duplicate packet with seqnr 0x5a from 10.1.1.6 on wlan0 (984 Bytes)
+04-24 03:50:48.303  2381  2381 I olsrd   : detected duplicate packet with seqnr 0x5a from 10.1.1.6 on wlan0 (984 Bytes)
+04-24 03:50:48.313  2381  2381 I olsrd   : detected duplicate packet with seqnr 0x5a from 10.1.1.6 on wlan0 (984 Bytes)
+04-24 03:50:48.313  2381  2381 I olsrd   : detected duplicate packet with seqnr 0x5a from 10.1.1.6 on wlan0 (984 Bytes)
+04-24 03:50:48.313  2381  2381 I olsrd   : detected duplicate packet with seqnr 0x5a from 10.1.1.6 on wlan0 (984 Bytes)
+04-24 03:50:48.313  2381  2381 I olsrd   : detected duplicate packet with seqnr 0x5a from 10.1.1.6 on wlan0 (984 Bytes)
+04-24 03:50:48.323  2381  2381 I olsrd   : detected duplicate packet with seqnr 0x5a from 10.1.1.6 on wlan0 (984 Bytes)
+04-24 03:50:48.323  2381  2381 I olsrd   : detected duplicate packet with seqnr 0x5a from 10.1.1.6 on wlan0 (984 Bytes)
+04-24 03:50:48.333  2381  2381 I olsrd   : detected duplicate packet with seqnr 0x5a from 10.1.1.6 on wlan0 (984 Bytes)
+04-24 03:50:48.333  2381  2381 I olsrd   : detected duplicate packet with seqnr 0x5a from 10.1.1.6 on wlan0 (984 Bytes)
+04-24 03:50:48.333  2381  2381 I olsrd   : detected duplicate packet with seqnr 0x5a from 10.1.1.6 on wlan0 (984 Bytes)
+04-24 03:50:56.080  2381  2381 I olsrd   : detected duplicate packet with seqnr 0x6680 from 10.1.1.15 on wlan0 (364 Bytes)
+04-24 03:50:56.080  2381  2381 I olsrd   : detected duplicate packet with seqnr 0x6680 from 10.1.1.15 on wlan0 (364 Bytes)
+04-24 03:50:56.080  2381  2381 I olsrd   : detected duplicate packet with seqnr 0x6680 from 10.1.1.15 on wlan0 (364 Bytes)
+04-24 03:50:56.230  2381  2381 I olsrd   : detected duplicate packet with seqnr 0xcf7d from 10.1.1.25 on wlan0 (980 Bytes)
+04-24 03:50:56.240  2381  2381 I olsrd   : detected duplicate packet with seqnr 0xcf7d from 10.1.1.25 on wlan0 (980 Bytes)
+04-24 03:50:56.240  2381  2381 I olsrd   : detected duplicate packet with seqnr 0xcf7d from 10.1.1.25 on wlan0 (980 Bytes)
+04-24 03:50:57.842  2381  2381 I olsrd   : detected duplicate packet with seqnr 0xddc1 from 10.1.1.10 on wlan0 (1460 Bytes)
+04-24 03:50:57.842  2381  2381 I olsrd   : detected duplicate packet with seqnr 0xddc1 from 10.1.1.10 on wlan0 (1460 Bytes)
+04-24 03:51:03.918  2381  2381 I olsrd   : detected duplicate packet with seqnr 0xddc6 from 10.1.1.10 on wlan0 (1276 Bytes)
+04-24 03:51:03.968  2381  2381 I olsrd   : detected duplicate packet with seqnr 0xddc6 from 10.1.1.10 on wlan0 (1276 Bytes)
+04-24 03:51:05.069  2381  2381 I olsrd   : detected duplicate packet with seqnr 0x4dc4 from 10.1.1.32 on wlan0 (1052 Bytes)
+04-24 03:51:05.079  2381  2381 I olsrd   : detected duplicate packet with seqnr 0x4dc4 from 10.1.1.32 on wlan0 (1052 Bytes)
+04-24 03:51:08.092  2381  2381 I olsrd   : detected duplicate packet with seqnr 0x4dcb from 10.1.1.32 on wlan0 (516 Bytes)
+04-24 03:51:08.092  2381  2381 I olsrd   : detected duplicate packet with seqnr 0x4dcb from 10.1.1.32 on wlan0 (516 Bytes)
+04-24 03:51:09.844  2381  2381 I olsrd   : detected duplicate packet with seqnr 0xddce from 10.1.1.10 on wlan0 (540 Bytes)
+04-24 03:51:09.854  2381  2381 I olsrd   : detected duplicate packet with seqnr 0xddce from 10.1.1.10 on wlan0 (540 Bytes)
+04-24 03:51:09.854  2381  2381 I olsrd   : detected duplicate packet with seqnr 0xddce from 10.1.1.10 on wlan0 (540 Bytes)
+04-24 03:51:09.854  2381  2381 I olsrd   : detected duplicate packet with seqnr 0xddce from 10.1.1.10 on wlan0 (540 Bytes)
+04-24 03:51:09.854  2381  2381 I olsrd   : detected duplicate packet with seqnr 0xddce from 10.1.1.10 on wlan0 (540 Bytes)
+04-24 03:51:09.864  2381  2381 I olsrd   : detected duplicate packet with seqnr 0xddce from 10.1.1.10 on wlan0 (540 Bytes)
+04-24 03:51:09.864  2381  2381 I olsrd   : detected duplicate packet with seqnr 0xddce from 10.1.1.10 on wlan0 (540 Bytes)
+04-24 03:51:09.864  2381  2381 I olsrd   : detected duplicate packet with seqnr 0xddce from 10.1.1.10 on wlan0 (540 Bytes)
+04-24 03:51:10.044  2381  2381 I olsrd   : detected duplicate packet with seqnr 0xddce from 10.1.1.10 on wlan0 (540 Bytes)
+04-24 03:51:26.119  2381  2381 I olsrd   : detected duplicate packet with seqnr 0x79cf from 10.1.1.28 on wlan0 (316 Bytes)
+04-24 03:51:26.159  2381  2381 I olsrd   : detected duplicate packet with seqnr 0x79cf from 10.1.1.28 on wlan0 (316 Bytes)
+04-24 03:51:26.169  2381  2381 I olsrd   : detected duplicate packet with seqnr 0x79cf from 10.1.1.28 on wlan0 (316 Bytes)
+04-24 03:51:26.169  2381  2381 I olsrd   : detected duplicate packet with seqnr 0x79cf from 10.1.1.28 on wlan0 (316 Bytes)
+04-24 03:51:31.985  2381  2381 I olsrd   : detected duplicate packet with seqnr 0x43cb from 10.1.1.29 on wlan0 (1468 Bytes)
+04-24 03:51:33.747  2381  2381 I olsrd   : detected duplicate packet with seqnr 0x4cbd from 10.1.1.9 on wlan0 (1256 Bytes)
+04-24 03:51:33.747  2381  2381 I olsrd   : detected duplicate packet with seqnr 0x4cbd from 10.1.1.9 on wlan0 (1256 Bytes)
+04-24 03:51:34.998  2381  2381 I olsrd   : detected duplicate packet with seqnr 0xcade from 10.1.1.36 on wlan0 (1472 Bytes)
+04-24 03:51:35.448  2381  2381 I olsrd   : detected duplicate packet with seqnr 0xcade from 10.1.1.36 on wlan0 (1472 Bytes)
+04-24 03:51:35.959  2381  2381 I olsrd   : detected duplicate packet with seqnr 0x7fb1 from 10.1.1.34 on wlan0 (1064 Bytes)
+04-24 03:51:37.791  4573  4573 D dalvikvm: Not late-enabling CheckJNI (already on)
+04-24 03:51:37.791   807   829 I ActivityManager: Start proc edu.mit.ll.NletLog.android for service edu.mit.ll.NletLog.android/.LoggerService: pid=4573 uid=10056 gids={50056, 1015, 3003, 1028}
+04-24 03:51:37.831  4573  4573 I dalvikvm: Turning on JNI app bug workarounds for target SDK version 12...
+04-24 03:51:37.891  4573  4573 V LoggerService: Reading config file at /sdcard/llcbmen/startup_40/Logger.json
+04-24 03:51:37.901   807   818 E dalvikvm: GREF has increased to 801, max is 800 and min is 600
+04-24 03:51:37.901  4573  4573 V LoggerService: Could not read config file!
+04-24 03:51:37.911  1426  1432 E MP-Decision: num online cores: 1 reqd : 2 available : 4 rq_depth:2.300000 hotplug_avg_load_dw: 33
+04-24 03:51:37.911  1426  1432 E MP-Decision: UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 total_time_up:145.000000
+04-24 03:51:37.911  4573  4573 V LoggerService: registering broadcast receiver...
+04-24 03:51:37.911  4573  4573 V LoggerService: registered broadcast receiver
+04-24 03:51:38.061  1426  1432 E MP-Decision: num online cores: 2 reqd : 1 available : 4 rq_depth:1.000000 hotplug_avg_load_dw: 18
+04-24 03:51:38.061  1426  1432 E MP-Decision: DOWN cpu:1 core_idx:1 Ns:1.100000 Ts:190 total_time_down:144.000000
+04-24 03:51:39.532  2381  2381 I olsrd   : detected duplicate packet with seqnr 0xaa88 from 10.1.1.27 on wlan0 (296 Bytes)
+04-24 03:51:39.532  2381  2381 I olsrd   : detected duplicate packet with seqnr 0xaa88 from 10.1.1.27 on wlan0 (296 Bytes)
+04-24 03:51:39.532  2381  2381 I olsrd   : detected duplicate packet with seqnr 0xaa88 from 10.1.1.27 on wlan0 (296 Bytes)
+04-24 03:51:39.532  2381  2381 I olsrd   : detected duplicate packet with seqnr 0xaa88 from 10.1.1.27 on wlan0 (296 Bytes)
+04-24 03:51:39.532  2381  2381 I olsrd   : detected duplicate packet with seqnr 0xaa88 from 10.1.1.27 on wlan0 (296 Bytes)
+04-24 03:51:39.542  2381  2381 I olsrd   : detected duplicate packet with seqnr 0xaa88 from 10.1.1.27 on wlan0 (296 Bytes)
+04-24 03:51:39.542  2381  2381 I olsrd   : detected duplicate packet with seqnr 0xaa88 from 10.1.1.27 on wlan0 (296 Bytes)
+04-24 03:51:45.548  2381  2381 I olsrd   : detected duplicate packet with seqnr 0x6560 from 10.1.1.37 on wlan0 (1448 Bytes)
+04-24 03:51:45.548  2381  2381 I olsrd   : detected duplicate packet with seqnr 0x6560 from 10.1.1.37 on wlan0 (1448 Bytes)
+04-24 03:51:48.011  2381  2381 I olsrd   : detected duplicate packet with seqnr 0x7fbe from 10.1.1.34 on wlan0 (956 Bytes)
+04-24 03:51:48.061  2381  2381 I olsrd   : detected duplicate packet with seqnr 0x7fbe from 10.1.1.34 on wlan0 (956 Bytes)
+04-24 03:51:48.111  2381  2381 I olsrd   : detected duplicate packet with seqnr 0x7fbf from 10.1.1.34 on wlan0 (1404 Bytes)
+04-24 03:51:48.111  2381  2381 I olsrd   : detected duplicate packet with seqnr 0x7fbf from 10.1.1.34 on wlan0 (1404 Bytes)
+04-24 03:51:52.325  2381  2381 I olsrd   : detected duplicate packet with seqnr 0xcae7 from 10.1.1.36 on wlan0 (1172 Bytes)
+04-24 03:51:52.876  2381  2381 I olsrd   : detected duplicate packet with seqnr 0x4cbf from 10.1.1.9 on wlan0 (680 Bytes)
+04-24 03:51:52.876  2381  2381 I olsrd   : detected duplicate packet with seqnr 0x4cbf from 10.1.1.9 on wlan0 (680 Bytes)
+04-24 03:51:52.926  2381  2381 I olsrd   : detected duplicate packet with seqnr 0x4cbf from 10.1.1.9 on wlan0 (680 Bytes)
+04-24 03:51:58.001  2381  2381 I olsrd   : detected duplicate packet with seqnr 0x4de7 from 10.1.1.32 on wlan0 (984 Bytes)
+04-24 03:51:58.001  2381  2381 I olsrd   : detected duplicate packet with seqnr 0x4de7 from 10.1.1.32 on wlan0 (984 Bytes)
+04-24 03:51:58.051  2381  2381 I olsrd   : detected duplicate packet with seqnr 0x4de7 from 10.1.1.32 on wlan0 (984 Bytes)
+04-24 03:51:58.251  2381  2381 I olsrd   : detected duplicate packet with seqnr 0x94 from 10.1.1.6 on wlan0 (272 Bytes)
+04-24 03:51:59.112  2381  2381 I olsrd   : detected duplicate packet with seqnr 0xcfac from 10.1.1.25 on wlan0 (1380 Bytes)
+04-24 03:52:00.313  2381  2381 I olsrd   : detected duplicate packet with seqnr 0xf8a from 10.1.1.12 on wlan0 (492 Bytes)
+04-24 03:52:00.323  2381  2381 I olsrd   : detected duplicate packet with seqnr 0xf8a from 10.1.1.12 on wlan0 (492 Bytes)
+04-24 03:52:00.363  2381  2381 I olsrd   : detected duplicate packet with seqnr 0xf8a from 10.1.1.12 on wlan0 (492 Bytes)
+04-24 03:52:00.523  2381  2381 I olsrd   : detected duplicate packet with seqnr 0xf8a from 10.1.1.12 on wlan0 (492 Bytes)
+04-24 03:52:00.874  2381  2381 I olsrd   : detected duplicate packet with seqnr 0xaa95 from 10.1.1.27 on wlan0 (676 Bytes)
+04-24 03:52:00.874  2381  2381 I olsrd   : detected duplicate packet with seqnr 0xaa95 from 10.1.1.27 on wlan0 (676 Bytes)
+04-24 03:52:00.874  2381  2381 I olsrd   : detected duplicate packet with seqnr 0xaa95 from 10.1.1.27 on wlan0 (676 Bytes)
+04-24 03:52:00.884  2381  2381 I olsrd   : detected duplicate packet with seqnr 0xaa95 from 10.1.1.27 on wlan0 (676 Bytes)
+04-24 03:52:00.884  2381  2381 I olsrd   : detected duplicate packet with seqnr 0xaa95 from 10.1.1.27 on wlan0 (676 Bytes)
+04-24 03:52:00.884  2381  2381 I olsrd   : detected duplicate packet with seqnr 0xaa95 from 10.1.1.27 on wlan0 (676 Bytes)
+04-24 03:52:00.884  2381  2381 I olsrd   : detected duplicate packet with seqnr 0xaa95 from 10.1.1.27 on wlan0 (676 Bytes)
+04-24 03:52:01.625  2381  2381 I olsrd   : detected duplicate packet with seqnr 0x9b from 10.1.1.6 on wlan0 (1016 Bytes)
+04-24 03:52:03.667  2381  2381 I olsrd   : detected duplicate packet with seqnr 0xaa97 from 10.1.1.27 on wlan0 (500 Bytes)
+04-24 03:52:04.618  2381  2381 I olsrd   : detected duplicate packet with seqnr 0xaa97 from 10.1.1.27 on wlan0 (500 Bytes)
+04-24 03:52:05.228  2381  2381 I olsrd   : detected duplicate packet with seqnr 0xddfc from 10.1.1.10 on wlan0 (1244 Bytes)
+04-24 03:52:05.228  2381  2381 I olsrd   : detected duplicate packet with seqnr 0xddfc from 10.1.1.10 on wlan0 (1244 Bytes)
+04-24 03:52:05.228  2381  2381 I olsrd   : detected duplicate packet with seqnr 0xddfc from 10.1.1.10 on wlan0 (1244 Bytes)
+04-24 03:52:07.190  2381  2381 I olsrd   : detected duplicate packet with seqnr 0x6574 from 10.1.1.37 on wlan0 (1284 Bytes)
+04-24 03:52:07.190  2381  2381 I olsrd   : detected duplicate packet with seqnr 0x6574 from 10.1.1.37 on wlan0 (1284 Bytes)
+04-24 03:52:08.592  2381  2381 I olsrd   : detected duplicate packet with seqnr 0x30a7 from 10.1.1.1 on wlan0 (1192 Bytes)
+04-24 03:52:08.642  2381  2381 I olsrd   : detected duplicate packet with seqnr 0x30a7 from 10.1.1.1 on wlan0 (1192 Bytes)
+04-24 03:52:09.853  2381  2381 I olsrd   : detected duplicate packet with seqnr 0x4df2 from 10.1.1.32 on wlan0 (748 Bytes)
+04-24 03:52:09.853  2381  2381 I olsrd   : detected duplicate packet with seqnr 0x4df2 from 10.1.1.32 on wlan0 (748 Bytes)
+04-24 03:52:09.903  2381  2381 I olsrd   : detected duplicate packet with seqnr 0x4df2 from 10.1.1.32 on wlan0 (748 Bytes)
+04-24 03:52:13.417  2381  2381 I olsrd   : detected duplicate packet with seqnr 0x6580 from 10.1.1.37 on wlan0 (1468 Bytes)
+04-24 03:52:13.667  2381  2381 I olsrd   : detected duplicate packet with seqnr 0x6580 from 10.1.1.37 on wlan0 (1468 Bytes)
+04-24 03:52:14.017  2381  2381 I olsrd   : detected duplicate packet with seqnr 0xa7 from 10.1.1.6 on wlan0 (1412 Bytes)
+04-24 03:52:16.680  2381  2381 I olsrd   : detected duplicate packet with seqnr 0x4cdc from 10.1.1.9 on wlan0 (1056 Bytes)
+04-24 03:52:19.182  2381  2381 I olsrd   : detected duplicate packet with seqnr 0x7a00 from 10.1.1.28 on wlan0 (1156 Bytes)
+04-24 03:52:20.694  2381  2381 I olsrd   : detected duplicate packet with seqnr 0x659a from 10.1.1.37 on wlan0 (1444 Bytes)
+04-24 03:52:20.694  2381  2381 I olsrd   : detected duplicate packet with seqnr 0x659a from 10.1.1.37 on wlan0 (1444 Bytes)
+04-24 03:52:20.694  2381  2381 I olsrd   : detected duplicate packet with seqnr 0x659a from 10.1.1.37 on wlan0 (1444 Bytes)
+04-24 03:52:22.986  2381  2381 I olsrd   : detected duplicate packet with seqnr 0xb4 from 10.1.1.6 on wlan0 (1236 Bytes)
+04-24 03:52:23.437  2381  2381 I olsrd   : detected duplicate packet with seqnr 0x30ba from 10.1.1.1 on wlan0 (960 Bytes)
+04-24 03:52:26.109  2381  2381 I olsrd   : detected duplicate packet with seqnr 0xde21 from 10.1.1.10 on wlan0 (1372 Bytes)
+04-24 03:52:26.510  2381  2381 I olsrd   : detected duplicate packet with seqnr 0xde2a from 10.1.1.10 on wlan0 (1308 Bytes)
+04-24 03:52:26.510  2381  2381 I olsrd   : detected duplicate packet with seqnr 0xde2a from 10.1.1.10 on wlan0 (1308 Bytes)
+04-24 03:52:41.165  2381  2381 I olsrd   : detected duplicate packet with seqnr 0x7a2a from 10.1.1.28 on wlan0 (1204 Bytes)
+04-24 03:52:41.165  2381  2381 I olsrd   : detected duplicate packet with seqnr 0x7a2a from 10.1.1.28 on wlan0 (1204 Bytes)
+04-24 03:52:41.365  2381  2381 I olsrd   : detected duplicate packet with seqnr 0xbed3 from 10.1.1.23 on wlan0 (1364 Bytes)
+04-24 03:52:41.365  2381  2381 I olsrd   : detected duplicate packet with seqnr 0xbed3 from 10.1.1.23 on wlan0 (1364 Bytes)
+04-24 03:52:52.066  2381  2381 I olsrd   : Removing interface wlan0
+04-24 03:52:52.076   807   870 D Tethering: InitialState.processMessage what=4
+04-24 03:52:52.076   807   870 D Tethering: Exception adding default nw to upstreamIfaceTypes: java.lang.NullPointerException
+04-24 03:52:52.076   807   870 D Tethering: sendTetherStateChangedBroadcast 1, 0, 0
+04-24 03:52:52.076   807  1181 D Tethering: Exception adding default nw to upstreamIfaceTypes: java.lang.NullPointerException
+04-24 03:54:14.790  5907  5907 W libc    : void endpwent()(3) is not implemented on Android
+04-24 03:54:14.800   251   251 I busybox : void endpwent()(3) is not implemented on Android
+04-24 03:54:14.880  5909  5909 W libc    : void endpwent()(3) is not implemented on Android
+04-24 03:54:15.070  1426  1432 E MP-Decision: num online cores: 1 reqd : 2 available : 4 rq_depth:1.000000 hotplug_avg_load_dw: 62
+04-24 03:54:15.070  1426  1432 E MP-Decision: UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 total_time_up:0.000000

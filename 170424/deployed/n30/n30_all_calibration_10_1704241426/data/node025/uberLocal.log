@@ -1,0 +1,44 @@
+nodeName node025
+nodeNum 25
+binDir /data/llcbmen
+expRoot /sdcard/llcbmen
+runId n30_all_calibration_10_1704241426
+basetime 1493058360
+duration 300
+startWait 30
+dataDir /sdcard/llcbmen/data/n30_all_calibration_10_1704241426
+doAPK N
+logFiles 
+ifaces wlan0
+si2Args  -b 10000 10.1.1.255:15387
+
+Resetting at time Mon Apr 24 07:25:40 SST 2017 = 1493058340.198211
+rm: can't remove '/sdcard/node*.log': No such file or directory
+rm: can't remove '/sdcard/*.json': No such file or directory
+killall: gcn: no process killed
+killall: beaconer: no process killed
+killall: babeld: no process killed
+killall: edu.mit.ll.NletLog.android: no process killed
+killall: edu.mit.ll.cbmen.monitor: no process killed
+killall: mchttpd: no process killed
+rm: can't remove '/sdcard/cascade': No such file or directory
+rm: can't remove '/sdcard/CBMEN': No such file or directory
+rm: can't remove '/sdcard/llcbmen/ISI': No such file or directory
+rm: can't remove '/sdcard/Android/data/cbmen.comet.workflow.cascade': No such file or directory
+rm: can't remove '/sdcard/registrar.db': No such file or directory
+Waiting until prep time...
+Skipping ahead because basetime + -30 = 1493058330 is in the past.
+Starting uberLocal.sh at time Mon Apr 24 07:25:40 SST 2017 = 1493058340.840628 with basetime 1493058360
+
+Starting instruments at time Mon Apr 24 07:25:40 SST 2017 = 1493058340.862081
+
+Sleeping 8.87272 sec until basetime + -10 = 1493058350
+
+Starting scenario at time Mon Apr 24 07:25:50 SST 2017 = 1493058350.086359
+Starting mgen.
+Parsing file: "/etc/olsrd.conf"
+Duplicate interfaces defined... not adding wlan0
+No interfaces detected! This might be intentional, but it also might mean that your configuration is fubar.
+I will continue after 5 seconds...
+mgen: version 5.02
+mgen: starting now ...

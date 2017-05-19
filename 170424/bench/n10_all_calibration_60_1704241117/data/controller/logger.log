@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "/home/cbmen/.harness/run/n10_all_calibration_60_1704241117/bin/NletLogger.py", line 198, in <module>
+    main()
+  File "/home/cbmen/.harness/run/n10_all_calibration_60_1704241117/bin/NletLogger.py", line 194, in main
+    logger.parseConfig()
+  File "/home/cbmen/.harness/run/n10_all_calibration_60_1704241117/bin/NletLogger.py", line 41, in parseConfig
+    with open( self.configFile ) as cf:
+IOError: [Errno 2] No such file or directory: '/home/cbmen/.harness/run/n10_all_calibration_60_1704241117/run_tmp/Logger.json'

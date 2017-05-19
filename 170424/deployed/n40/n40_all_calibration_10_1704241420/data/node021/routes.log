@@ -1,0 +1,860 @@
+1493057980.186771
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.21    0.0.0.0         UG    0      0        0 usb0
+1493057982.259380
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.21    0.0.0.0         UG    0      0        0 usb0
+1493057984.330096
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.21    0.0.0.0         UG    0      0        0 usb0
+1493057986.400385
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.21    0.0.0.0         UG    0      0        0 usb0
+1493057988.470033
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.21    0.0.0.0         UG    0      0        0 usb0
+1493057990.541116
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.21    0.0.0.0         UG    0      0        0 usb0
+1493057992.606797
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.21    0.0.0.0         UG    0      0        0 usb0
+1493057994.679222
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.21    0.0.0.0         UG    0      0        0 usb0
+1493057996.749969
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.21    0.0.0.0         UG    0      0        0 usb0
+1493057998.820136
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.21    0.0.0.0         UG    0      0        0 usb0
+1493058000.889051
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.21    0.0.0.0         UG    0      0        0 usb0
+1493058002.973866
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.21    0.0.0.0         UG    0      0        0 usb0
+1493058005.073452
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.21    0.0.0.0         UG    0      0        0 usb0
+1493058007.144931
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.21    0.0.0.0         UG    0      0        0 usb0
+1493058009.208598
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.21    0.0.0.0         UG    0      0        0 usb0
+1493058011.281115
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.21    0.0.0.0         UG    0      0        0 usb0
+1493058013.366968
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.21    0.0.0.0         UG    0      0        0 usb0
+10.1.1.22       10.1.1.22       255.255.255.255 UGH   2      0        0 wlan0
+1493058015.439606
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.21    0.0.0.0         UG    0      0        0 usb0
+10.1.1.22       10.1.1.22       255.255.255.255 UGH   2      0        0 wlan0
+1493058017.520149
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.21    0.0.0.0         UG    0      0        0 usb0
+10.1.1.22       10.1.1.22       255.255.255.255 UGH   2      0        0 wlan0
+1493058019.590469
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.21    0.0.0.0         UG    0      0        0 usb0
+10.1.1.22       10.1.1.22       255.255.255.255 UGH   2      0        0 wlan0
+1493058021.680625
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.21    0.0.0.0         UG    0      0        0 usb0
+10.1.1.22       10.1.1.22       255.255.255.255 UGH   2      0        0 wlan0
+1493058023.755033
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.21    0.0.0.0         UG    0      0        0 usb0
+10.1.1.22       10.1.1.22       255.255.255.255 UGH   2      0        0 wlan0
+1493058025.822240
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.21    0.0.0.0         UG    0      0        0 usb0
+10.1.1.22       10.1.1.22       255.255.255.255 UGH   2      0        0 wlan0
+1493058027.887036
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.21    0.0.0.0         UG    0      0        0 usb0
+10.1.1.22       10.1.1.22       255.255.255.255 UGH   2      0        0 wlan0
+1493058029.959950
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.21    0.0.0.0         UG    0      0        0 usb0
+10.1.1.22       10.1.1.22       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.23       10.1.1.22       255.255.255.255 UGH   2      0        0 wlan0
+1493058032.040492
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.21    0.0.0.0         UG    0      0        0 usb0
+10.1.1.22       10.1.1.22       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.23       10.1.1.22       255.255.255.255 UGH   2      0        0 wlan0
+1493058034.112887
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.21    0.0.0.0         UG    0      0        0 usb0
+10.1.1.22       10.1.1.22       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.23       10.1.1.22       255.255.255.255 UGH   2      0        0 wlan0
+1493058036.199198
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.21    0.0.0.0         UG    0      0        0 usb0
+10.1.1.22       10.1.1.22       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.23       10.1.1.22       255.255.255.255 UGH   2      0        0 wlan0
+1493058038.281541
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.21    0.0.0.0         UG    0      0        0 usb0
+10.1.1.22       10.1.1.22       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.23       10.1.1.22       255.255.255.255 UGH   2      0        0 wlan0
+1493058040.360680
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.21    0.0.0.0         UG    0      0        0 usb0
+10.1.1.22       10.1.1.22       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.23       10.1.1.22       255.255.255.255 UGH   2      0        0 wlan0
+1493058042.433746
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.21    0.0.0.0         UG    0      0        0 usb0
+10.1.1.22       10.1.1.22       255.255.255.255 UGH   2      0        0 wlan0
+1493058044.497321
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.21    0.0.0.0         UG    0      0        0 usb0
+10.1.1.22       10.1.1.22       255.255.255.255 UGH   2      0        0 wlan0
+1493058046.584792
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.21    0.0.0.0         UG    0      0        0 usb0
+10.1.1.22       10.1.1.22       255.255.255.255 UGH   2      0        0 wlan0
+1493058048.650808
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.21    0.0.0.0         UG    0      0        0 usb0
+10.1.1.22       10.1.1.22       255.255.255.255 UGH   2      0        0 wlan0
+1493058050.730496
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.21    0.0.0.0         UG    0      0        0 usb0
+10.1.1.22       10.1.1.22       255.255.255.255 UGH   2      0        0 wlan0
+1493058052.798405
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.21    0.0.0.0         UG    0      0        0 usb0
+10.1.1.22       10.1.1.22       255.255.255.255 UGH   2      0        0 wlan0
+1493058054.870281
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.21    0.0.0.0         UG    0      0        0 usb0
+10.1.1.22       10.1.1.22       255.255.255.255 UGH   2      0        0 wlan0
+1493058056.950244
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.21    0.0.0.0         UG    0      0        0 usb0
+10.1.1.22       10.1.1.22       255.255.255.255 UGH   2      0        0 wlan0
+1493058059.023493
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.21    0.0.0.0         UG    0      0        0 usb0
+10.1.1.22       10.1.1.22       255.255.255.255 UGH   2      0        0 wlan0
+1493058061.102205
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.21    0.0.0.0         UG    0      0        0 usb0
+10.1.1.22       10.1.1.22       255.255.255.255 UGH   2      0        0 wlan0
+1493058063.173379
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.21    0.0.0.0         UG    0      0        0 usb0
+10.1.1.22       10.1.1.22       255.255.255.255 UGH   2      0        0 wlan0
+1493058065.244187
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.21    0.0.0.0         UG    0      0        0 usb0
+10.1.1.22       10.1.1.22       255.255.255.255 UGH   2      0        0 wlan0
+1493058067.337272
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.21    0.0.0.0         UG    0      0        0 usb0
+10.1.1.22       10.1.1.22       255.255.255.255 UGH   2      0        0 wlan0
+1493058069.416533
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.21    0.0.0.0         UG    0      0        0 usb0
+10.1.1.22       10.1.1.22       255.255.255.255 UGH   2      0        0 wlan0
+1493058071.491339
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.21    0.0.0.0         UG    0      0        0 usb0
+10.1.1.22       10.1.1.22       255.255.255.255 UGH   2      0        0 wlan0
+1493058073.578260
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.21    0.0.0.0         UG    0      0        0 usb0
+10.1.1.22       10.1.1.22       255.255.255.255 UGH   2      0        0 wlan0
+1493058075.658528
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.21    0.0.0.0         UG    0      0        0 usb0
+10.1.1.22       10.1.1.22       255.255.255.255 UGH   2      0        0 wlan0
+1493058077.728695
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.21    0.0.0.0         UG    0      0        0 usb0
+10.1.1.22       10.1.1.22       255.255.255.255 UGH   2      0        0 wlan0
+1493058079.813297
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.21    0.0.0.0         UG    0      0        0 usb0
+10.1.1.22       10.1.1.22       255.255.255.255 UGH   2      0        0 wlan0
+1493058081.885996
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.21    0.0.0.0         UG    0      0        0 usb0
+10.1.1.22       10.1.1.22       255.255.255.255 UGH   2      0        0 wlan0
+1493058083.966844
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.21    0.0.0.0         UG    0      0        0 usb0
+10.1.1.22       10.1.1.22       255.255.255.255 UGH   2      0        0 wlan0
+1493058086.044061
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.21    0.0.0.0         UG    0      0        0 usb0
+10.1.1.22       10.1.1.22       255.255.255.255 UGH   2      0        0 wlan0
+1493058088.120636
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.21    0.0.0.0         UG    0      0        0 usb0
+10.1.1.22       10.1.1.22       255.255.255.255 UGH   2      0        0 wlan0
+1493058090.207161
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.21    0.0.0.0         UG    0      0        0 usb0
+10.1.1.22       10.1.1.22       255.255.255.255 UGH   2      0        0 wlan0
+1493058092.292403
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.21    0.0.0.0         UG    0      0        0 usb0
+10.1.1.22       10.1.1.22       255.255.255.255 UGH   2      0        0 wlan0
+1493058094.381948
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.21    0.0.0.0         UG    0      0        0 usb0
+10.1.1.22       10.1.1.22       255.255.255.255 UGH   2      0        0 wlan0
+1493058096.457059
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.21    0.0.0.0         UG    0      0        0 usb0
+10.1.1.22       10.1.1.22       255.255.255.255 UGH   2      0        0 wlan0
+1493058098.538395
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.21    0.0.0.0         UG    0      0        0 usb0
+10.1.1.22       10.1.1.22       255.255.255.255 UGH   2      0        0 wlan0
+1493058100.612560
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.21    0.0.0.0         UG    0      0        0 usb0
+10.1.1.22       10.1.1.22       255.255.255.255 UGH   2      0        0 wlan0
+1493058102.698260
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.21    0.0.0.0         UG    0      0        0 usb0
+10.1.1.22       10.1.1.22       255.255.255.255 UGH   2      0        0 wlan0
+1493058104.784815
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.21    0.0.0.0         UG    0      0        0 usb0
+10.1.1.22       10.1.1.22       255.255.255.255 UGH   2      0        0 wlan0
+1493058106.872285
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.21    0.0.0.0         UG    0      0        0 usb0
+10.1.1.22       10.1.1.22       255.255.255.255 UGH   2      0        0 wlan0
+1493058108.952614
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.21    0.0.0.0         UG    0      0        0 usb0
+10.1.1.22       10.1.1.22       255.255.255.255 UGH   2      0        0 wlan0
+1493058111.040756
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.21    0.0.0.0         UG    0      0        0 usb0
+10.1.1.22       10.1.1.22       255.255.255.255 UGH   2      0        0 wlan0
+1493058113.116202
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.21    0.0.0.0         UG    0      0        0 usb0
+10.1.1.22       10.1.1.22       255.255.255.255 UGH   2      0        0 wlan0
+1493058115.187010
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.21    0.0.0.0         UG    0      0        0 usb0
+10.1.1.22       10.1.1.22       255.255.255.255 UGH   2      0        0 wlan0
+1493058117.267584
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.21    0.0.0.0         UG    0      0        0 usb0
+10.1.1.22       10.1.1.22       255.255.255.255 UGH   2      0        0 wlan0
+1493058119.353223
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.21    0.0.0.0         UG    0      0        0 usb0
+10.1.1.22       10.1.1.22       255.255.255.255 UGH   2      0        0 wlan0
+1493058121.431080
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.21    0.0.0.0         UG    0      0        0 usb0
+10.1.1.22       10.1.1.22       255.255.255.255 UGH   2      0        0 wlan0
+1493058123.516323
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.21    0.0.0.0         UG    0      0        0 usb0
+10.1.1.22       10.1.1.22       255.255.255.255 UGH   2      0        0 wlan0
+1493058125.593051
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.21    0.0.0.0         UG    0      0        0 usb0
+10.1.1.22       10.1.1.22       255.255.255.255 UGH   2      0        0 wlan0
+1493058127.670633
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.21    0.0.0.0         UG    0      0        0 usb0
+10.1.1.22       10.1.1.22       255.255.255.255 UGH   2      0        0 wlan0
+1493058129.744249
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.21    0.0.0.0         UG    0      0        0 usb0
+10.1.1.22       10.1.1.22       255.255.255.255 UGH   2      0        0 wlan0
+1493058131.828637
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.21    0.0.0.0         UG    0      0        0 usb0
+10.1.1.22       10.1.1.22       255.255.255.255 UGH   2      0        0 wlan0
+1493058133.904236
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.21    0.0.0.0         UG    0      0        0 usb0
+10.1.1.22       10.1.1.22       255.255.255.255 UGH   2      0        0 wlan0
+1493058135.978278
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.21    0.0.0.0         UG    0      0        0 usb0
+10.1.1.22       10.1.1.22       255.255.255.255 UGH   2      0        0 wlan0
+1493058138.051161
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.21    0.0.0.0         UG    0      0        0 usb0
+10.1.1.22       10.1.1.22       255.255.255.255 UGH   2      0        0 wlan0
+1493058140.123251
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.21    0.0.0.0         UG    0      0        0 usb0
+10.1.1.22       10.1.1.22       255.255.255.255 UGH   2      0        0 wlan0
+1493058142.201505
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.21    0.0.0.0         UG    0      0        0 usb0
+10.1.1.22       10.1.1.22       255.255.255.255 UGH   2      0        0 wlan0
+1493058144.293278
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.21    0.0.0.0         UG    0      0        0 usb0
+10.1.1.22       10.1.1.22       255.255.255.255 UGH   2      0        0 wlan0
+1493058146.377361
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.21    0.0.0.0         UG    0      0        0 usb0
+10.1.1.22       10.1.1.22       255.255.255.255 UGH   2      0        0 wlan0
+1493058148.447284
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.21    0.0.0.0         UG    0      0        0 usb0
+10.1.1.22       10.1.1.22       255.255.255.255 UGH   2      0        0 wlan0
+1493058150.526179
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.21    0.0.0.0         UG    0      0        0 usb0
+10.1.1.22       10.1.1.22       255.255.255.255 UGH   2      0        0 wlan0
+1493058152.608613
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.21    0.0.0.0         UG    0      0        0 usb0
+10.1.1.22       10.1.1.22       255.255.255.255 UGH   2      0        0 wlan0
+1493058154.682961
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.21    0.0.0.0         UG    0      0        0 usb0
+10.1.1.22       10.1.1.22       255.255.255.255 UGH   2      0        0 wlan0
+1493058156.774673
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.21    0.0.0.0         UG    0      0        0 usb0
+10.1.1.22       10.1.1.22       255.255.255.255 UGH   2      0        0 wlan0
+1493058158.846641
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.21    0.0.0.0         UG    0      0        0 usb0
+10.1.1.22       10.1.1.22       255.255.255.255 UGH   2      0        0 wlan0
+1493058160.926482
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.21    0.0.0.0         UG    0      0        0 usb0
+10.1.1.22       10.1.1.22       255.255.255.255 UGH   2      0        0 wlan0
+1493058163.001043
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.21    0.0.0.0         UG    0      0        0 usb0
+10.1.1.22       10.1.1.22       255.255.255.255 UGH   2      0        0 wlan0
+1493058165.089551
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.21    0.0.0.0         UG    0      0        0 usb0
+10.1.1.22       10.1.1.22       255.255.255.255 UGH   2      0        0 wlan0
+1493058167.173725
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.21    0.0.0.0         UG    0      0        0 usb0
+10.1.1.22       10.1.1.22       255.255.255.255 UGH   2      0        0 wlan0
+1493058169.255306
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.21    0.0.0.0         UG    0      0        0 usb0
+10.1.1.22       10.1.1.22       255.255.255.255 UGH   2      0        0 wlan0
+1493058171.331271
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.21    0.0.0.0         UG    0      0        0 usb0
+10.1.1.22       10.1.1.22       255.255.255.255 UGH   2      0        0 wlan0
+1493058173.414682
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.21    0.0.0.0         UG    0      0        0 usb0
+10.1.1.22       10.1.1.22       255.255.255.255 UGH   2      0        0 wlan0
+1493058175.504106
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.21    0.0.0.0         UG    0      0        0 usb0
+10.1.1.22       10.1.1.22       255.255.255.255 UGH   2      0        0 wlan0
+1493058177.584649
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.21    0.0.0.0         UG    0      0        0 usb0
+10.1.1.22       10.1.1.22       255.255.255.255 UGH   2      0        0 wlan0
+1493058179.660309
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.21    0.0.0.0         UG    0      0        0 usb0
+10.1.1.22       10.1.1.22       255.255.255.255 UGH   2      0        0 wlan0
+1493058181.736060
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.21    0.0.0.0         UG    0      0        0 usb0
+10.1.1.22       10.1.1.22       255.255.255.255 UGH   2      0        0 wlan0
+1493058183.810133
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.21    0.0.0.0         UG    0      0        0 usb0
+10.1.1.22       10.1.1.22       255.255.255.255 UGH   2      0        0 wlan0
+1493058185.892721
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.21    0.0.0.0         UG    0      0        0 usb0
+10.1.1.22       10.1.1.22       255.255.255.255 UGH   2      0        0 wlan0
+1493058187.972867
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.21    0.0.0.0         UG    0      0        0 usb0
+10.1.1.22       10.1.1.22       255.255.255.255 UGH   2      0        0 wlan0
+1493058190.050724
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.21    0.0.0.0         UG    0      0        0 usb0
+10.1.1.22       10.1.1.22       255.255.255.255 UGH   2      0        0 wlan0
+1493058192.134685
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.21    0.0.0.0         UG    0      0        0 usb0
+10.1.1.22       10.1.1.22       255.255.255.255 UGH   2      0        0 wlan0
+1493058194.216967
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.21    0.0.0.0         UG    0      0        0 usb0
+10.1.1.22       10.1.1.22       255.255.255.255 UGH   2      0        0 wlan0
+1493058196.296686
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.21    0.0.0.0         UG    0      0        0 usb0
+10.1.1.22       10.1.1.22       255.255.255.255 UGH   2      0        0 wlan0
+1493058198.378602
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.21    0.0.0.0         UG    0      0        0 usb0
+10.1.1.22       10.1.1.22       255.255.255.255 UGH   2      0        0 wlan0
+1493058200.448678
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.21    0.0.0.0         UG    0      0        0 usb0
+10.1.1.22       10.1.1.22       255.255.255.255 UGH   2      0        0 wlan0
+1493058202.537429
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.21    0.0.0.0         UG    0      0        0 usb0
+10.1.1.22       10.1.1.22       255.255.255.255 UGH   2      0        0 wlan0
+1493058204.613791
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.21    0.0.0.0         UG    0      0        0 usb0
+10.1.1.22       10.1.1.22       255.255.255.255 UGH   2      0        0 wlan0
+1493058206.680083
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.21    0.0.0.0         UG    0      0        0 usb0
+10.1.1.22       10.1.1.22       255.255.255.255 UGH   2      0        0 wlan0
+1493058208.763128
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.21    0.0.0.0         UG    0      0        0 usb0
+10.1.1.22       10.1.1.22       255.255.255.255 UGH   2      0        0 wlan0
+1493058210.840924
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.21    0.0.0.0         UG    0      0        0 usb0
+10.1.1.22       10.1.1.22       255.255.255.255 UGH   2      0        0 wlan0
+1493058212.915089
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.21    0.0.0.0         UG    0      0        0 usb0
+10.1.1.22       10.1.1.22       255.255.255.255 UGH   2      0        0 wlan0
+1493058214.990596
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.21    0.0.0.0         UG    0      0        0 usb0
+10.1.1.22       10.1.1.22       255.255.255.255 UGH   2      0        0 wlan0
+1493058217.074099
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.21    0.0.0.0         UG    0      0        0 usb0
+10.1.1.22       10.1.1.22       255.255.255.255 UGH   2      0        0 wlan0
+1493058219.157480
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.21    0.0.0.0         UG    0      0        0 usb0
+10.1.1.22       10.1.1.22       255.255.255.255 UGH   2      0        0 wlan0
+1493058221.231798
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.21    0.0.0.0         UG    0      0        0 usb0
+10.1.1.22       10.1.1.22       255.255.255.255 UGH   2      0        0 wlan0
+1493058223.326714
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.21    0.0.0.0         UG    0      0        0 usb0
+10.1.1.22       10.1.1.22       255.255.255.255 UGH   2      0        0 wlan0
+1493058225.402008
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.21    0.0.0.0         UG    0      0        0 usb0
+10.1.1.22       10.1.1.22       255.255.255.255 UGH   2      0        0 wlan0
+1493058227.484168
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.21    0.0.0.0         UG    0      0        0 usb0
+10.1.1.22       10.1.1.22       255.255.255.255 UGH   2      0        0 wlan0
+1493058229.561598
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.21    0.0.0.0         UG    0      0        0 usb0
+10.1.1.22       10.1.1.22       255.255.255.255 UGH   2      0        0 wlan0
+1493058231.633047
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.21    0.0.0.0         UG    0      0        0 usb0
+10.1.1.22       10.1.1.22       255.255.255.255 UGH   2      0        0 wlan0
+1493058233.726346
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.21    0.0.0.0         UG    0      0        0 usb0
+10.1.1.22       10.1.1.22       255.255.255.255 UGH   2      0        0 wlan0
+1493058235.812504
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.21    0.0.0.0         UG    0      0        0 usb0
+10.1.1.22       10.1.1.22       255.255.255.255 UGH   2      0        0 wlan0
+1493058237.901347
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.21    0.0.0.0         UG    0      0        0 usb0
+10.1.1.22       10.1.1.22       255.255.255.255 UGH   2      0        0 wlan0
+1493058239.986162
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.21    0.0.0.0         UG    0      0        0 usb0
+10.1.1.22       10.1.1.22       255.255.255.255 UGH   2      0        0 wlan0
+1493058242.067377
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.21    0.0.0.0         UG    0      0        0 usb0
+10.1.1.22       10.1.1.22       255.255.255.255 UGH   2      0        0 wlan0
+1493058244.141358
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.21    0.0.0.0         UG    0      0        0 usb0
+10.1.1.22       10.1.1.22       255.255.255.255 UGH   2      0        0 wlan0
+1493058246.211128
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.21    0.0.0.0         UG    0      0        0 usb0
+10.1.1.22       10.1.1.22       255.255.255.255 UGH   2      0        0 wlan0
+1493058248.301895
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.21    0.0.0.0         UG    0      0        0 usb0
+10.1.1.22       10.1.1.22       255.255.255.255 UGH   2      0        0 wlan0
+1493058250.375998
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.21    0.0.0.0         UG    0      0        0 usb0
+10.1.1.22       10.1.1.22       255.255.255.255 UGH   2      0        0 wlan0
+1493058252.468382
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.21    0.0.0.0         UG    0      0        0 usb0
+10.1.1.22       10.1.1.22       255.255.255.255 UGH   2      0        0 wlan0
+1493058254.563207
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.21    0.0.0.0         UG    0      0        0 usb0
+10.1.1.22       10.1.1.22       255.255.255.255 UGH   2      0        0 wlan0
+1493058256.637097
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.21    0.0.0.0         UG    0      0        0 usb0
+10.1.1.22       10.1.1.22       255.255.255.255 UGH   2      0        0 wlan0
+1493058258.721332
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.21    0.0.0.0         UG    0      0        0 usb0
+10.1.1.22       10.1.1.22       255.255.255.255 UGH   2      0        0 wlan0
+1493058260.811946
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.21    0.0.0.0         UG    0      0        0 usb0
+10.1.1.22       10.1.1.22       255.255.255.255 UGH   2      0        0 wlan0
+1493058262.885805
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.21    0.0.0.0         UG    0      0        0 usb0
+10.1.1.22       10.1.1.22       255.255.255.255 UGH   2      0        0 wlan0
+1493058264.972940
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.21    0.0.0.0         UG    0      0        0 usb0
+10.1.1.22       10.1.1.22       255.255.255.255 UGH   2      0        0 wlan0
+1493058267.053147
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.21    0.0.0.0         UG    0      0        0 usb0
+10.1.1.22       10.1.1.22       255.255.255.255 UGH   2      0        0 wlan0
+1493058269.138786
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.21    0.0.0.0         UG    0      0        0 usb0
+10.1.1.22       10.1.1.22       255.255.255.255 UGH   2      0        0 wlan0
+1493058271.221373
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.21    0.0.0.0         UG    0      0        0 usb0
+10.1.1.22       10.1.1.22       255.255.255.255 UGH   2      0        0 wlan0
+1493058273.308508
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.21    0.0.0.0         UG    0      0        0 usb0
+10.1.1.22       10.1.1.22       255.255.255.255 UGH   2      0        0 wlan0
+1493058275.392499
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.21    0.0.0.0         UG    0      0        0 usb0
+10.1.1.22       10.1.1.22       255.255.255.255 UGH   2      0        0 wlan0
+1493058277.468892
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.21    0.0.0.0         UG    0      0        0 usb0
+10.1.1.22       10.1.1.22       255.255.255.255 UGH   2      0        0 wlan0
+1493058279.556820
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.21    0.0.0.0         UG    0      0        0 usb0
+10.1.1.22       10.1.1.22       255.255.255.255 UGH   2      0        0 wlan0
+1493058281.639621
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.21    0.0.0.0         UG    0      0        0 usb0
+10.1.1.22       10.1.1.22       255.255.255.255 UGH   2      0        0 wlan0
+1493058283.727091
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.21    0.0.0.0         UG    0      0        0 usb0
+10.1.1.22       10.1.1.22       255.255.255.255 UGH   2      0        0 wlan0
+1493058285.802507
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.21    0.0.0.0         UG    0      0        0 usb0
+10.1.1.22       10.1.1.22       255.255.255.255 UGH   2      0        0 wlan0
+1493058287.876916
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.21    0.0.0.0         UG    0      0        0 usb0
+10.1.1.22       10.1.1.22       255.255.255.255 UGH   2      0        0 wlan0
+1493058289.951599
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.21    0.0.0.0         UG    0      0        0 usb0
+10.1.1.22       10.1.1.22       255.255.255.255 UGH   2      0        0 wlan0
+1493058292.029304
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.21    0.0.0.0         UG    0      0        0 usb0
+10.1.1.22       10.1.1.22       255.255.255.255 UGH   2      0        0 wlan0
+1493058294.105940
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.21    0.0.0.0         UG    0      0        0 usb0
+10.1.1.22       10.1.1.22       255.255.255.255 UGH   2      0        0 wlan0
+1493058296.181387
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.21    0.0.0.0         UG    0      0        0 usb0
+10.1.1.22       10.1.1.22       255.255.255.255 UGH   2      0        0 wlan0
+1493058298.266111
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.21    0.0.0.0         UG    0      0        0 usb0
+10.1.1.22       10.1.1.22       255.255.255.255 UGH   2      0        0 wlan0
+1493058300.340245
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.21    0.0.0.0         UG    0      0        0 usb0
+10.1.1.22       10.1.1.22       255.255.255.255 UGH   2      0        0 wlan0
+1493058302.407787
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.21    0.0.0.0         UG    0      0        0 usb0
+10.1.1.22       10.1.1.22       255.255.255.255 UGH   2      0        0 wlan0
+1493058304.479999
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.21    0.0.0.0         UG    0      0        0 usb0
+10.1.1.22       10.1.1.22       255.255.255.255 UGH   2      0        0 wlan0
+1493058306.559779
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.21    0.0.0.0         UG    0      0        0 usb0
+10.1.1.22       10.1.1.22       255.255.255.255 UGH   2      0        0 wlan0
+1493058308.626192
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.21    0.0.0.0         UG    0      0        0 usb0
+10.1.1.22       10.1.1.22       255.255.255.255 UGH   2      0        0 wlan0
+1493058310.701791
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.21    0.0.0.0         UG    0      0        0 usb0
+10.1.1.22       10.1.1.22       255.255.255.255 UGH   2      0        0 wlan0
+1493058312.771775
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.21    0.0.0.0         UG    0      0        0 usb0
+10.1.1.22       10.1.1.22       255.255.255.255 UGH   2      0        0 wlan0
+1493058314.836937
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.21    0.0.0.0         UG    0      0        0 usb0
+10.1.1.22       10.1.1.22       255.255.255.255 UGH   2      0        0 wlan0
+1493058316.919219
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.21    0.0.0.0         UG    0      0        0 usb0
+10.1.1.22       10.1.1.22       255.255.255.255 UGH   2      0        0 wlan0
+1493058318.989783
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.21    0.0.0.0         UG    0      0        0 usb0
+10.1.1.22       10.1.1.22       255.255.255.255 UGH   2      0        0 wlan0
+1493058321.056440
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.21    0.0.0.0         UG    0      0        0 usb0
+10.1.1.22       10.1.1.22       255.255.255.255 UGH   2      0        0 wlan0
+1493058323.142659
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.21    0.0.0.0         UG    0      0        0 usb0
+10.1.1.22       10.1.1.22       255.255.255.255 UGH   2      0        0 wlan0
+1493058325.206876
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.21    0.0.0.0         UG    0      0        0 usb0
+10.1.1.22       10.1.1.22       255.255.255.255 UGH   2      0        0 wlan0
+1493058327.284855
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.21    0.0.0.0         UG    0      0        0 usb0
+10.1.1.22       10.1.1.22       255.255.255.255 UGH   2      0        0 wlan0
+1493058329.362132
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.21    0.0.0.0         UG    0      0        0 usb0
+10.1.1.22       10.1.1.22       255.255.255.255 UGH   2      0        0 wlan0
+1493058331.431262
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.21    0.0.0.0         UG    0      0        0 usb0
+10.1.1.22       10.1.1.22       255.255.255.255 UGH   2      0        0 wlan0
+1493058333.507380
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.21    0.0.0.0         UG    0      0        0 usb0
+10.1.1.22       10.1.1.22       255.255.255.255 UGH   2      0        0 wlan0
+1493058335.589387
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.21    0.0.0.0         UG    0      0        0 usb0
+10.1.1.22       10.1.1.22       255.255.255.255 UGH   2      0        0 wlan0
+1493058337.660439
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.21    0.0.0.0         UG    0      0        0 usb0
+10.1.1.22       10.1.1.22       255.255.255.255 UGH   2      0        0 wlan0
+1493058339.739273
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.21    0.0.0.0         UG    0      0        0 usb0
+10.1.1.22       10.1.1.22       255.255.255.255 UGH   2      0        0 wlan0

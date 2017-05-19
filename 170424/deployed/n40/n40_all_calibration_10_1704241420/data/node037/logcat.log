@@ -1,0 +1,359 @@
+--------- beginning of /dev/log/main
+04-24 07:02:21.477  1424  1431 E MP-Decision: num online cores: 2 reqd : 1 available : 4 rq_depth:0.000000 hotplug_avg_load_dw: 21
+04-24 07:02:21.477  1424  1431 E MP-Decision: DOWN cpu:1 core_idx:1 Ns:1.100000 Ts:190 total_time_down:791.000000
+04-24 07:02:21.858  1424  1431 E MP-Decision: num online cores: 1 reqd : 2 available : 4 rq_depth:1.000000 hotplug_avg_load_dw: 72
+04-24 07:02:21.858  1424  1431 E MP-Decision: UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 total_time_up:0.000000
+04-24 07:02:22.388 22933 22933 D AndroidRuntime: 
+04-24 07:02:22.388 22933 22933 D AndroidRuntime: >>>>>> AndroidRuntime START com.android.internal.os.RuntimeInit <<<<<<
+04-24 07:02:22.388 22933 22933 D AndroidRuntime: CheckJNI is ON
+04-24 07:02:22.388 22933 22933 E dalvikvm: ERROR: must specify non-'.' bootclasspath
+04-24 07:02:22.398 22933 22933 W dalvikvm: CreateJavaVM failed: dvmClassStartup failed
+04-24 07:02:22.398 22933 22933 E AndroidRuntime: JNI_CreateJavaVM failed
+04-24 07:02:22.719 22934 22934 D AndroidRuntime: 
+04-24 07:02:22.719 22934 22934 D AndroidRuntime: >>>>>> AndroidRuntime START com.android.internal.os.RuntimeInit <<<<<<
+04-24 07:02:22.719 22934 22934 D AndroidRuntime: CheckJNI is ON
+04-24 07:02:22.719 22934 22934 E dalvikvm: ERROR: must specify non-'.' bootclasspath
+04-24 07:02:22.719 22934 22934 W dalvikvm: CreateJavaVM failed: dvmClassStartup failed
+04-24 07:02:22.719 22934 22934 E AndroidRuntime: JNI_CreateJavaVM failed
+04-24 07:02:25.341  1424  1431 E MP-Decision: num online cores: 2 reqd : 1 available : 4 rq_depth:0.000000 hotplug_avg_load_dw: 19
+04-24 07:02:25.341  1424  1431 E MP-Decision: DOWN cpu:1 core_idx:1 Ns:1.100000 Ts:190 total_time_down:2912.000000
+04-24 07:20:00.112 23114 23114 I olsrd   : Writing '1' (was 1) to /proc/sys/net/ipv4/ip_forward
+04-24 07:20:00.112 23114 23114 I olsrd   : Writing '0' (was 1) to /proc/sys/net/ipv4/conf/all/send_redirects
+04-24 07:20:00.112 23114 23114 I olsrd   : Writing '0' (was 0) to /proc/sys/net/ipv4/conf/all/rp_filter
+04-24 07:20:00.112 23114 23114 I olsrd   : Writing '0' (was 0) to /proc/sys/net/ipv4/conf/wlan0/send_redirects
+04-24 07:20:00.112 23114 23114 I olsrd   : Writing '0' (was 0) to /proc/sys/net/ipv4/conf/wlan0/rp_filter
+04-24 07:20:00.112 23114 23114 I olsrd   : Adding interface wlan0
+04-24 07:20:00.112 23114 23114 I olsrd   : New main address: 10.1.1.37
+04-24 07:20:00.122 23119 23119 I olsrd   : olsr.org -  0.6.6.2-n -git_0000000 -n -hash_ 7985605520f3cae9b305d56e83b35d9c successfully started
+04-24 07:25:40.091   784   847 D Tethering: InitialState.processMessage what=4
+04-24 07:25:40.101   784   847 D Tethering: Exception adding default nw to upstreamIfaceTypes: java.lang.NullPointerException
+04-24 07:25:40.121   784   847 D Tethering: sendTetherStateChangedBroadcast 1, 0, 0
+04-24 07:25:40.121   784  1168 D Tethering: Exception adding default nw to upstreamIfaceTypes: java.lang.NullPointerException
+04-24 07:25:40.131 23119 23119 I olsrd   : Removing interface wlan0
+04-24 07:25:40.131 23119 23119 E olsrd   : OLSR: sendto IPv4 m
+04-24 07:52:46.866   784   799 E Sensors : Acc old sensor_state 0, new sensor_state : 1 en : 1
+--------- beginning of /dev/log/system
+04-24 07:52:46.866   784   800 I PowerManagerService: Waking up from sleep...
+04-24 07:52:46.876   784   823 E LightSensor: Light old sensor_state 1, new sensor_state : 129 en : 1
+04-24 07:52:46.996  1091  1091 D PhoneApp: mReceiver: ACTION_SCREEN_OFF / ACTION_SCREEN_ON
+04-24 07:52:47.006  1091  1091 D AccelerometerListener: enable(false)
+04-24 07:52:47.076   784   800 D InputEventConsistencyVerifier: KeyEvent: ACTION_UP but key was not down.
+04-24 07:52:47.076   784   800 D InputEventConsistencyVerifier:   in android.view.ViewRootImpl@4195e8d8
+04-24 07:52:47.076   784   800 D InputEventConsistencyVerifier:   0: sent at 15790720000000, KeyEvent { action=ACTION_UP, keyCode=KEYCODE_HOME, scanCode=172, metaState=0, flags=0x8, repeatCount=0, eventTime=15790720, downTime=15790550, deviceId=6, source=0x101 }
+04-24 07:52:47.076   784   800 D InputEventConsistencyVerifier:   -- recent events --
+04-24 07:52:47.076   784   800 D InputEventConsistencyVerifier:   1: sent at 5165012643000, MotionEvent { action=ACTION_UP, id[0]=0, x[0]=1038.0, y[0]=1229.0, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=5165012, downTime=5164925, deviceId=20, source=0x1002 }
+04-24 07:52:47.076   784   800 D InputEventConsistencyVerifier:   2: sent at 5165002328000, MotionEvent { action=ACTION_MOVE, id[0]=0, x[0]=1038.0, y[0]=1229.0, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=1, eventTime=5165002, downTime=5164925, deviceId=20, source=0x1002 }
+04-24 07:52:47.076   784   800 D InputEventConsistencyVerifier:   3: sent at 5164991530620, MotionEvent { action=ACTION_MOVE, id[0]=0, x[0]=1038.0, y[0]=1229.0024, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=1, eventTime=5164991, downTime=5164925, deviceId=20, source=0x1002 }
+04-24 07:52:47.076   784   800 D InputEventConsistencyVerifier:   4: sent at 5164974898672, MotionEvent { action=ACTION_MOVE, id[0]=0, x[0]=1037.4266, y[0]=1231.7202, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=3, eventTime=5164974, downTime=5164925, deviceId=20, source=0x1002 }
+04-24 07:52:47.076   784   800 D InputEventConsistencyVerifier:   5: sent at 5164942733401, MotionEvent { action=ACTION_MOVE, id[0]=0, x[0]=1030.0, y[0]=1246.0, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=1, eventTime=5164942, downTime=5164925, deviceId=20, source=0x1002 }
+04-24 07:52:47.107   784   800 I WindowManager: Lock screen displayed!
+04-24 07:52:47.317   784  1031 D PowerManagerService-JNI: Excessive delay in autosuspend_disable() while turning screen on: 408ms
+04-24 07:52:47.317   312   367 D SurfaceFlinger: Screen acquired, type=0 flinger=0xb7eca478
+04-24 07:52:47.317   312   367 D qdhwcomposer: hwc_blank: Unblanking display: 0
+04-24 07:52:47.317   312   367 D qdhwcomposer: hwc_blank: Done unblanking display: 0
+04-24 07:52:50.790   315   961 I AudioMixer: found effect "Multichannel Downmix To Stereo" from The Android Open Source Project
+04-24 07:52:50.790   315   961 D ALSADevice: route: devices 0x2 in mode 0
+04-24 07:52:50.790   315   961 D ALSADevice: No valid input device: 0
+04-24 07:52:50.790   315   961 D alsa_ucm: snd_use_case_set(): uc_mgr 0xb823f7d0 identifier _enadev value Speaker
+04-24 07:52:50.790   315   961 D ALSADevice: switchDevice: mCurTxUCMDevivce None mCurRxDevDevice Speaker
+04-24 07:52:50.790   315   961 D alsa_ucm: snd_use_case_set(): uc_mgr 0xb823f7d0 identifier _verb value HiFi Lowlatency
+04-24 07:52:50.790   315   961 D alsa_ucm: Set mixer controls for Speaker enable 1
+04-24 07:52:50.790   315   961 D alsa_ucm: acdb_id 15 cap 1 enable 1
+04-24 07:52:50.790   315   961 D ACDB-LOADER: ACDB -> send_audio_cal, acdb_id = 15, path =  0
+04-24 07:52:50.790   315   961 D ACDB-LOADER: ACDB -> send_adm_topology
+04-24 07:52:50.790   315   961 D ACDB-LOADER: ACDB -> ACDB_CMD_GET_AUDPROC_COMMON_TOPOLOGY_ID
+04-24 07:52:50.790   315   961 D ACDB-LOADER: ACDB -> send_audtable
+04-24 07:52:50.790   315   961 D ACDB-LOADER: ACDB -> ACDB_CMD_GET_AUDPROC_COMMON_TABLE
+04-24 07:52:50.790   315   961 D ACDB-LOADER: ACDB -> AUDIO_SET_AUDPROC_CAL
+04-24 07:52:50.790   315   961 D ACDB-LOADER: ACDB -> send_audvoltable
+04-24 07:52:50.790   315   961 D ACDB-LOADER: ACDB -> ACDB_CMD_GET_AUDPROC_GAIN_DEP_VOLTBL_STEP_COPP
+04-24 07:52:50.790   315   961 E ACDB-LOADER: Error: ACDB AudProc vol returned = -8
+04-24 07:52:50.790   315   961 D ACDB-LOADER: ACDB -> AUDIO_SET_AUDPROC_VOL_CAL
+04-24 07:52:50.790   315   961 D ACDB-LOADER: ACDB -> send_afe_cal
+04-24 07:52:50.790   315   961 D ACDB-LOADER: ACDB -> ACDB_CMD_GET_AFE_COMMON_TABLE
+04-24 07:52:50.790   315   961 D ACDB-LOADER: ACDB -> AUDIO_SET_AFE_CAL
+04-24 07:52:50.790   315   961 D alsa_ucm: Setting mixer control: SLIM_0_RX Channels, value: Two
+04-24 07:52:50.790   315   961 D alsa_ucm: Setting mixer control: RX5 MIX1 INP1, value: RX1
+04-24 07:52:50.800   315   961 D alsa_ucm: Setting mixer control: RX5 MIX1 INP2, value: RX2
+04-24 07:52:50.800   315   961 D alsa_ucm: Setting mixer control: RX6 DSM MUX, value: DSM_INV
+04-24 07:52:50.800   315   961 D alsa_ucm: Setting mixer control: LINEOUT2 Volume, value: 83
+04-24 07:52:50.800   315   961 D alsa_ucm: Setting mixer control: LINEOUT4 Volume, value: 83
+04-24 07:52:50.800   315   961 D alsa_ucm: Setting multi value: RX5 Digital Volume
+04-24 07:52:50.800   315   961 D alsa_ucm: Set mixer controls for HiFi Lowlatency enable 1
+04-24 07:52:50.800   315   961 D alsa_ucm: Setting mixer control: SLIMBUS_0_RX Audio Mixer MultiMedia5, value: 1
+04-24 07:52:50.800   315   961 D ALSADevice: close: handle 0xb828e7f8 h 0x0
+04-24 07:52:50.800   315   961 D ALSADevice: open: handle 0xb828e7f8, format 0x2
+04-24 07:52:50.800   315   961 D ALSADevice: Device value returned is hw:0,14
+04-24 07:52:50.810   315   961 D ALSADevice: handle->format: 0x2
+04-24 07:52:50.810   315   961 D ALSADevice: setHardwareParams: reqBuffSize 1024 channels 2 sampleRate 48000
+04-24 07:52:50.810   315   961 D ALSADevice: setHardwareParams: buffer_size 2048, period_size 1024, period_cnt 2
+04-24 07:52:51.501  1424  1431 E MP-Decision: num online cores: 1 reqd : 2 available : 4 rq_depth:1.900000 hotplug_avg_load_dw: 46
+04-24 07:52:51.501  1424  1431 E MP-Decision: UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 total_time_up:146.000000
+04-24 07:52:51.781  1424  1431 E MP-Decision: num online cores: 2 reqd : 1 available : 4 rq_depth:0.000000 hotplug_avg_load_dw: 25
+04-24 07:52:51.781  1424  1431 E MP-Decision: DOWN cpu:1 core_idx:1 Ns:1.100000 Ts:190 total_time_down:271.000000
+04-24 07:52:52.272   784  1779 D LightsService: Excessive delay setting light: 61ms
+04-24 07:52:52.342   784  1779 D LightsService: Excessive delay setting light: 65ms
+04-24 07:52:52.402   784  1779 D LightsService: Excessive delay setting light: 63ms
+04-24 07:52:52.472   784  1779 D LightsService: Excessive delay setting light: 66ms
+04-24 07:52:52.542   784  1779 D LightsService: Excessive delay setting light: 66ms
+04-24 07:52:52.602   784  1779 D LightsService: Excessive delay setting light: 65ms
+04-24 07:52:52.722   784  1779 D LightsService: Excessive delay setting light: 66ms
+04-24 07:52:52.792   784  1779 D LightsService: Excessive delay setting light: 66ms
+04-24 07:52:52.902   784  1779 D LightsService: Excessive delay setting light: 66ms
+04-24 07:52:52.972   784  1779 D LightsService: Excessive delay setting light: 66ms
+04-24 07:52:53.032   784  1779 D LightsService: Excessive delay setting light: 65ms
+04-24 07:52:53.102   784  1779 D LightsService: Excessive delay setting light: 65ms
+04-24 07:52:54.474   315   962 D ALSADevice: standby: handle 0xb828e7f8 h 0x0
+04-24 07:52:54.524   315   962 D alsa_ucm: snd_use_case_set(): uc_mgr 0xb823f7d0 identifier _verb value Inactive
+04-24 07:52:54.524   315   962 D alsa_ucm: Set mixer controls for HiFi Lowlatency enable 0
+04-24 07:52:54.524   315   962 D alsa_ucm: Setting mixer control: SLIMBUS_0_RX Audio Mixer MultiMedia5, value: 0
+04-24 07:52:54.524   315   962 D alsa_ucm: snd_use_case_set(): uc_mgr 0xb823f7d0 identifier _disdev value Speaker
+04-24 07:52:54.524   315   962 D alsa_ucm: Set mixer controls for Speaker enable 0
+04-24 07:52:54.524   315   962 D alsa_ucm: Setting mixer control: RX5 MIX1 INP1, value: ZERO
+04-24 07:52:54.524   315   962 D alsa_ucm: Setting mixer control: RX5 MIX1 INP2, value: ZERO
+04-24 07:52:54.524   315   962 D alsa_ucm: Setting mixer control: LINEOUT2 Volume, value: 0
+04-24 07:52:54.524   315   962 D alsa_ucm: Setting mixer control: LINEOUT4 Volume, value: 0
+04-24 07:52:54.534   315   962 D alsa_ucm: Setting mixer control: RX5 Digital Volume, value: 0
+04-24 07:52:54.534   315   962 D AudioUsbALSA: exitPlaybackThread, mproxypfdPlayback: -1
+04-24 07:52:54.534   315   962 D AudioUsbALSA: closeDevice handle 0x0
+04-24 07:52:54.534   315   962 D AudioUsbALSA: closeDevice handle 0x0
+04-24 07:52:56.826   784  1795 D LightsService: Excessive delay setting light: 66ms
+04-24 07:52:56.946   784  1795 D LightsService: Excessive delay setting light: 66ms
+04-24 07:52:57.016   784  1795 D LightsService: Excessive delay setting light: 66ms
+04-24 07:52:57.126   784  1795 D LightsService: Excessive delay setting light: 67ms
+04-24 07:52:57.246   784  1795 D LightsService: Excessive delay setting light: 65ms
+04-24 07:52:57.356   784  1795 D LightsService: Excessive delay setting light: 67ms
+04-24 07:52:57.467   784  1795 D LightsService: Excessive delay setting light: 65ms
+04-24 07:52:57.597   784  1795 D LightsService: Excessive delay setting light: 69ms
+04-24 07:52:57.757   784  1795 D LightsService: Excessive delay setting light: 65ms
+04-24 07:52:59.589   784   802 W ProcessStats: Skipping unknown process pid 7487
+04-24 07:52:59.589   784   802 W ProcessStats: Skipping unknown process pid 7488
+04-24 07:52:59.589   784   802 W ProcessStats: Skipping unknown process pid 7489
+04-24 07:53:02.541   784  8740 D LightsService: Excessive delay setting light: 64ms
+04-24 07:53:02.652   784  8740 D LightsService: Excessive delay setting light: 53ms
+04-24 07:53:02.762   784  8740 D LightsService: Excessive delay setting light: 66ms
+04-24 07:53:02.892   784  8740 D LightsService: Excessive delay setting light: 82ms
+04-24 07:53:03.112   784  8740 D LightsService: Excessive delay setting light: 67ms
+04-24 07:53:03.282   784  8740 D LightsService: Excessive delay setting light: 67ms
+04-24 07:53:14.943   784   980 D LightsService: Excessive delay setting light: 66ms
+04-24 07:53:15.034   784   980 D LightsService: Excessive delay setting light: 81ms
+04-24 07:53:15.094   784   980 D LightsService: Excessive delay setting light: 65ms
+04-24 07:53:15.164   784   980 D LightsService: Excessive delay setting light: 66ms
+04-24 07:53:15.234   784   980 D LightsService: Excessive delay setting light: 67ms
+04-24 07:53:15.294   784   980 D LightsService: Excessive delay setting light: 66ms
+04-24 07:53:15.364   784   980 D LightsService: Excessive delay setting light: 67ms
+04-24 07:53:15.424   784   980 D LightsService: Excessive delay setting light: 64ms
+04-24 07:53:15.494   784   980 D LightsService: Excessive delay setting light: 65ms
+04-24 07:53:20.809   784   823 E LightSensor: Light old sensor_state 129, new sensor_state : 1 en : 0
+04-24 07:53:20.809   784   823 I PowerManagerService: Going to sleep due to screen timeout...
+04-24 07:53:21.400   784   799 E Sensors : Acc old sensor_state 1, new sensor_state : 0 en : 0
+04-24 07:53:21.410   312   367 D SurfaceFlinger: Screen released, type=0 flinger=0xb7eca478
+04-24 07:53:21.410   312   367 D qdhwcomposer: hwc_blank: Blanking display: 0
+04-24 07:53:21.430   784   800 V KeyguardHostView: Keyguard widgets disabled by DPM
+04-24 07:53:21.430   784   800 V KeyguardHostView: Keyguard secure camera disabled by DPM
+04-24 07:53:21.560   784   800 V KeyguardHostView: hide transport, gen:3
+04-24 07:53:21.560   784   800 V KeyguardHostView: music state changed: 0
+04-24 07:53:21.600  1424  1431 E MP-Decision: num online cores: 1 reqd : 2 available : 4 rq_depth:2.500000 hotplug_avg_load_dw: 64
+04-24 07:53:21.600  1424  1431 E MP-Decision: UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 total_time_up:147.000000
+04-24 07:53:21.670   312   367 D qdhwcomposer: hwc_blank: Done blanking display: 0
+04-24 07:53:21.670   784  1031 D SurfaceControl: Excessive delay in blankDisplay() while turning screen off: 262ms
+04-24 07:53:21.680  1091  1091 D PhoneApp: mReceiver: ACTION_SCREEN_OFF / ACTION_SCREEN_ON
+04-24 07:53:21.680  1091  1091 D AccelerometerListener: enable(false)
+04-24 07:53:22.110  1424  1431 E MP-Decision: num online cores: 2 reqd : 1 available : 4 rq_depth:0.000000 hotplug_avg_load_dw: 21
+04-24 07:53:22.110  1424  1431 E MP-Decision: DOWN cpu:1 core_idx:1 Ns:1.100000 Ts:190 total_time_down:405.000000
+04-24 07:55:33.668   784   800 I PowerManagerService: Waking up from sleep...
+04-24 07:55:33.678   784   799 E Sensors : Acc old sensor_state 0, new sensor_state : 1 en : 1
+04-24 07:55:33.688   784   823 E LightSensor: Light old sensor_state 1, new sensor_state : 129 en : 1
+04-24 07:55:33.808  1091  1091 D PhoneApp: mReceiver: ACTION_SCREEN_OFF / ACTION_SCREEN_ON
+04-24 07:55:33.808  1091  1091 D AccelerometerListener: enable(false)
+04-24 07:55:33.828  1424  1431 E MP-Decision: num online cores: 1 reqd : 2 available : 4 rq_depth:5.000000 hotplug_avg_load_dw: 29
+04-24 07:55:33.828  1424  1431 E MP-Decision: UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 total_time_up:146.000000
+04-24 07:55:33.868   784   800 I WindowManager: Lock screen displayed!
+04-24 07:55:33.878  1424  1431 E MP-Decision: num online cores: 2 reqd : 3 available : 4 rq_depth:3.300000 hotplug_avg_load_dw: 84
+04-24 07:55:33.878  1424  1431 E MP-Decision: UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 total_time_up:0.000000
+04-24 07:55:33.878  1424  1431 E MP-Decision: UP cpu:2 core_idx:2 Nw:2.700000 Tw:90 total_time_up:192.000000
+04-24 07:55:34.168  1424  1431 E MP-Decision: num online cores: 3 reqd : 2 available : 4 rq_depth:0.000000 hotplug_avg_load_dw: 37
+04-24 07:55:34.168  1424  1431 E MP-Decision: DOWN cpu:2 core_idx:2 Ns:2.100000 Ts:240 total_time_down:280.000000
+04-24 07:55:34.218  1424  1431 E MP-Decision: num online cores: 2 reqd : 1 available : 4 rq_depth:0.900000 hotplug_avg_load_dw: 11
+04-24 07:55:34.218  1424  1431 E MP-Decision: DOWN cpu:1 core_idx:1 Ns:1.100000 Ts:190 total_time_down:316.000000
+04-24 07:55:34.238   784  1779 D PowerManagerService-JNI: Excessive delay in autosuspend_disable() while turning screen on: 537ms
+04-24 07:55:34.238   312   367 D SurfaceFlinger: Screen acquired, type=0 flinger=0xb7eca478
+04-24 07:55:34.238   312   367 D qdhwcomposer: hwc_blank: Unblanking display: 0
+04-24 07:55:34.238   312   367 D qdhwcomposer: hwc_blank: Done unblanking display: 0
+04-24 07:55:34.348   784  1795 D LightsService: Excessive delay setting light: 100ms
+04-24 07:55:34.418   784  1795 D LightsService: Excessive delay setting light: 65ms
+04-24 07:55:34.479   784  1795 D LightsService: Excessive delay setting light: 66ms
+04-24 07:55:34.579   784  1795 D LightsService: Excessive delay setting light: 99ms
+04-24 07:55:34.649   784  1795 D LightsService: Excessive delay setting light: 65ms
+04-24 07:55:34.709   784  1795 D LightsService: Excessive delay setting light: 66ms
+04-24 07:55:34.779   784  1795 D LightsService: Excessive delay setting light: 63ms
+04-24 07:55:34.849   784  1795 D LightsService: Excessive delay setting light: 68ms
+04-24 07:55:40.915   784  8740 D LightsService: Excessive delay setting light: 63ms
+04-24 07:55:40.985   784  8740 D LightsService: Excessive delay setting light: 67ms
+04-24 07:55:41.045   784  8740 D LightsService: Excessive delay setting light: 66ms
+04-24 07:55:41.115   784  8740 D LightsService: Excessive delay setting light: 65ms
+04-24 07:55:41.185   784  8740 D LightsService: Excessive delay setting light: 66ms
+04-24 07:55:41.245   784  8740 D LightsService: Excessive delay setting light: 66ms
+04-24 07:55:41.305   784  8740 D LightsService: Excessive delay setting light: 63ms
+04-24 07:55:41.385   784  8740 D LightsService: Excessive delay setting light: 71ms
+04-24 07:55:41.445   784  8740 D LightsService: Excessive delay setting light: 62ms
+04-24 07:55:57.841   784   980 D LightsService: Excessive delay setting light: 52ms
+04-24 07:55:57.901   784   980 D LightsService: Excessive delay setting light: 58ms
+04-24 07:55:57.971   784   980 D LightsService: Excessive delay setting light: 69ms
+04-24 07:55:58.041   784   980 D LightsService: Excessive delay setting light: 64ms
+04-24 07:56:03.777   784   823 I PowerManagerService: Going to sleep due to screen timeout...
+04-24 07:56:03.777   784   823 E LightSensor: Light old sensor_state 129, new sensor_state : 1 en : 0
+04-24 07:56:04.347   784   799 E Sensors : Acc old sensor_state 1, new sensor_state : 0 en : 0
+04-24 07:56:04.357  1091  1091 D PhoneApp: mReceiver: ACTION_SCREEN_OFF / ACTION_SCREEN_ON
+04-24 07:56:04.357  1091  1091 D AccelerometerListener: enable(false)
+04-24 07:56:04.367   312   367 D SurfaceFlinger: Screen released, type=0 flinger=0xb7eca478
+04-24 07:56:04.367   312   367 D qdhwcomposer: hwc_blank: Blanking display: 0
+04-24 07:56:04.398   784   800 V KeyguardHostView: Keyguard widgets disabled by DPM
+04-24 07:56:04.398   784   800 V KeyguardHostView: Keyguard secure camera disabled by DPM
+04-24 07:56:04.418  1424  1431 E MP-Decision: num online cores: 1 reqd : 2 available : 4 rq_depth:4.500000 hotplug_avg_load_dw: 34
+04-24 07:56:04.418  1424  1431 E MP-Decision: UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 total_time_up:147.000000
+04-24 07:56:04.518  1424  1431 E MP-Decision: num online cores: 2 reqd : 3 available : 4 rq_depth:2.900000 hotplug_avg_load_dw: 95
+04-24 07:56:04.518  1424  1431 E MP-Decision: UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 total_time_up:0.000000
+04-24 07:56:04.518  1424  1431 E MP-Decision: UP cpu:2 core_idx:2 Nw:2.700000 Tw:90 total_time_up:193.000000
+04-24 07:56:04.538   784   800 V KeyguardHostView: hide transport, gen:3
+04-24 07:56:04.538   784   800 V KeyguardHostView: music state changed: 0
+04-24 07:56:04.628   312   367 D qdhwcomposer: hwc_blank: Done blanking display: 0
+04-24 07:56:04.628   784  1031 D SurfaceControl: Excessive delay in blankDisplay() while turning screen off: 267ms
+04-24 07:56:05.008  1424  1431 E MP-Decision: num online cores: 3 reqd : 1 available : 4 rq_depth:0.000000 hotplug_avg_load_dw: 13
+04-24 07:56:05.008  1424  1431 E MP-Decision: DOWN cpu:2 core_idx:2 Ns:2.100000 Ts:240 total_time_down:326.000000
+04-24 07:56:05.018  1424  1431 E MP-Decision: DOWN cpu:1 core_idx:1 Ns:1.100000 Ts:190 total_time_down:326.000000
+04-24 08:01:02.316   784   823 E LightSensor: Light old sensor_state 0, new sensor_state : 128 en : 1
+04-24 08:01:02.316   784   800 I PowerManagerService: Waking up from sleep...
+04-24 08:01:02.326   784   799 E Sensors : Acc old sensor_state 128, new sensor_state : 129 en : 1
+04-24 08:01:02.346   784   828 I InputDispatcher: Dropped event because input dispatch is disabled.
+04-24 08:01:02.456  1091  1091 D PhoneApp: mReceiver: ACTION_SCREEN_OFF / ACTION_SCREEN_ON
+04-24 08:01:02.456  1091  1091 D AccelerometerListener: enable(false)
+04-24 08:01:02.506  1424  1431 E MP-Decision: num online cores: 1 reqd : 2 available : 4 rq_depth:3.900000 hotplug_avg_load_dw: 44
+04-24 08:01:02.506  1424  1431 E MP-Decision: UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 total_time_up:186.000000
+04-24 08:01:02.516   784   800 I WindowManager: Lock screen displayed!
+04-24 08:01:02.896   784  1779 D PowerManagerService-JNI: Excessive delay in autosuspend_disable() while turning screen on: 527ms
+04-24 08:01:02.896   312   367 D SurfaceFlinger: Screen acquired, type=0 flinger=0xb7eca478
+04-24 08:01:02.896   312   367 D qdhwcomposer: hwc_blank: Unblanking display: 0
+04-24 08:01:02.896   312   367 D qdhwcomposer: hwc_blank: Done unblanking display: 0
+04-24 08:01:02.977  1424  1431 E MP-Decision: num online cores: 2 reqd : 1 available : 4 rq_depth:0.000000 hotplug_avg_load_dw: 16
+04-24 08:01:02.977  1424  1431 E MP-Decision: DOWN cpu:1 core_idx:1 Ns:1.100000 Ts:190 total_time_down:79.000000
+04-24 08:01:03.047   784  1795 D LightsService: Excessive delay setting light: 133ms
+04-24 08:01:03.107   784  1795 D LightsService: Excessive delay setting light: 65ms
+04-24 08:01:03.207   784  1795 D LightsService: Excessive delay setting light: 97ms
+04-24 08:01:03.277   784  1795 D LightsService: Excessive delay setting light: 67ms
+04-24 08:01:03.347   784  1795 D LightsService: Excessive delay setting light: 64ms
+04-24 08:01:03.407   784  1795 D LightsService: Excessive delay setting light: 67ms
+04-24 08:01:04.248   784   823 E LightSensor: Light old sensor_state 129, new sensor_state : 1 en : 0
+04-24 08:01:04.248   784   829 I PowerManagerService: Going to sleep by user request...
+04-24 08:01:04.838   784   799 E Sensors : Acc old sensor_state 1, new sensor_state : 0 en : 0
+04-24 08:01:04.848  1091  1091 D PhoneApp: mReceiver: ACTION_SCREEN_OFF / ACTION_SCREEN_ON
+04-24 08:01:04.848  1091  1091 D AccelerometerListener: enable(false)
+04-24 08:01:04.878   784   800 V KeyguardHostView: Keyguard widgets disabled by DPM
+04-24 08:01:04.878   784   800 V KeyguardHostView: Keyguard secure camera disabled by DPM
+04-24 08:01:04.918   784  8740 D LightsService: Excessive delay setting light: 96ms
+04-24 08:01:04.918   312   367 D SurfaceFlinger: Screen released, type=0 flinger=0xb7eca478
+04-24 08:01:04.918   312   367 D qdhwcomposer: hwc_blank: Blanking display: 0
+04-24 08:01:04.938  1424  1431 E MP-Decision: num online cores: 1 reqd : 2 available : 4 rq_depth:2.300000 hotplug_avg_load_dw: 43
+04-24 08:01:04.938  1424  1431 E MP-Decision: UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 total_time_up:195.000000
+04-24 08:01:05.029   784   800 V KeyguardHostView: hide transport, gen:3
+04-24 08:01:05.029   784   800 V KeyguardHostView: music state changed: 0
+04-24 08:01:05.189   312   367 D qdhwcomposer: hwc_blank: Done blanking display: 0
+04-24 08:01:05.189   784  8740 D SurfaceControl: Excessive delay in blankDisplay() while turning screen off: 274ms
+04-24 08:01:05.389  1424  1431 E MP-Decision: num online cores: 2 reqd : 1 available : 4 rq_depth:0.000000 hotplug_avg_load_dw: 18
+04-24 08:01:05.389  1424  1431 E MP-Decision: DOWN cpu:1 core_idx:1 Ns:1.100000 Ts:190 total_time_down:188.000000
+04-24 08:06:26.910   784   798 I TemperatureHumiditySensor: Accuracy has been changed to 3
+04-24 08:06:58.331 14581 14581 D dalvikvm: Not late-enabling CheckJNI (already on)
+04-24 08:06:58.351   784   802 I ActivityManager: Start proc edu.mit.ll.NletLog.android for service edu.mit.ll.NletLog.android/.LoggerService: pid=14581 uid=10056 gids={50056, 1015, 3003, 1028}
+04-24 08:06:58.371 14581 14581 I dalvikvm: Turning on JNI app bug workarounds for target SDK version 12...
+04-24 08:06:58.451 14581 14581 V LoggerService: Reading config file at /sdcard/llcbmen/startup_40/Logger.json
+04-24 08:06:58.451 14581 14581 V LoggerService: Could not read config file!
+04-24 08:06:58.461  1424  1431 E MP-Decision: num online cores: 1 reqd : 2 available : 4 rq_depth:2.300000 hotplug_avg_load_dw: 29
+04-24 08:06:58.461  1424  1431 E MP-Decision: UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 total_time_up:146.000000
+04-24 08:06:58.471 14581 14581 V LoggerService: registering broadcast receiver...
+04-24 08:06:58.471 14581 14581 V LoggerService: registered broadcast receiver
+04-24 08:06:58.491 14581 14581 V LoggerService: Already a BroadcastReceiver running!!
+04-24 08:06:58.491 14581 14581 V LoggerService: Already a BroadcastReceiver running!!
+04-24 08:06:59.272  1424  1431 E MP-Decision: num online cores: 2 reqd : 1 available : 4 rq_depth:0.000000 hotplug_avg_load_dw: 12
+04-24 08:06:59.272  1424  1431 E MP-Decision: DOWN cpu:1 core_idx:1 Ns:1.100000 Ts:190 total_time_down:177.000000
+04-24 08:09:04.293   784   822 D lights  : set_light_leds: type=0, color=0x00ffff6000, fM=0, fOnMS=0, fOffMs=0.
+04-24 08:09:04.303   784   799 I EntropyMixer: Writing entropy...
+04-24 08:09:04.303   784   822 D lights  : write_leds: color=0x00ff6000, delay_on=0, delay_off=0, blink="0x00ff6000 0 0".
+04-24 08:09:04.373  1424  1431 E MP-Decision: num online cores: 1 reqd : 2 available : 4 rq_depth:2.200000 hotplug_avg_load_dw: 43
+04-24 08:09:04.373  1424  1431 E MP-Decision: UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 total_time_up:167.000000
+04-24 08:09:04.413   784   823 E LightSensor: Light old sensor_state 0, new sensor_state : 128 en : 1
+04-24 08:09:04.413   784   823 I PowerManagerService: Waking up from sleep...
+04-24 08:09:04.433   784   799 E Sensors : Acc old sensor_state 128, new sensor_state : 129 en : 1
+04-24 08:09:04.493  1091  1091 D PhoneApp: mReceiver: ACTION_SCREEN_OFF / ACTION_SCREEN_ON
+04-24 08:09:04.493  1091  1091 D AccelerometerListener: enable(false)
+04-24 08:09:04.503   784   800 I WindowManager: Lock screen displayed!
+04-24 08:09:04.793   784   980 D PowerManagerService-JNI: Excessive delay in autosuspend_disable() while turning screen on: 381ms
+04-24 08:09:04.803   312   367 D SurfaceFlinger: Screen acquired, type=0 flinger=0xb7eca478
+04-24 08:09:04.803   312   367 D qdhwcomposer: hwc_blank: Unblanking display: 0
+04-24 08:09:04.803   312   367 D qdhwcomposer: hwc_blank: Done unblanking display: 0
+04-24 08:09:04.813 10392 10392 D MtpService: updating state; isCurrentUser=true, mMtpLocked=true
+04-24 08:09:04.833   784  1133 D Tethering: Exception adding default nw to upstreamIfaceTypes: java.lang.NullPointerException
+04-24 08:09:04.833 10392 10392 D MtpService: updating state; isCurrentUser=true, mMtpLocked=true
+04-24 08:09:04.833 10392 10392 D MtpService: starting MTP server in MTP mode
+04-24 08:09:04.833 10392 10392 E MtpServerJNI: could not open MTP driver, errno: 16
+04-24 08:09:04.833   784  1155 D Tethering: Exception adding default nw to upstreamIfaceTypes: java.lang.NullPointerException
+04-24 08:09:04.843 10392 15667 E MtpServerJNI: server is null in run
+04-24 08:09:04.843 10392 15667 E MtpServerJNI: server is null in cleanup
+04-24 08:09:04.843   784  1061 D Tethering: Exception adding default nw to upstreamIfaceTypes: java.lang.NullPointerException
+04-24 08:09:04.913   784  1031 D LightsService: Excessive delay setting light: 96ms
+04-24 08:09:04.973   784  1031 D LightsService: Excessive delay setting light: 66ms
+04-24 08:09:05.053   784  1031 D LightsService: Excessive delay setting light: 66ms
+04-24 08:09:05.113  1424  1431 E MP-Decision: num online cores: 2 reqd : 1 available : 4 rq_depth:2.400000 hotplug_avg_load_dw: 9
+04-24 08:09:05.113  1424  1431 E MP-Decision: DOWN cpu:1 core_idx:1 Ns:1.100000 Ts:190 total_time_down:0.000000
+04-24 08:09:05.153   784  1031 D LightsService: Excessive delay setting light: 99ms
+04-24 08:09:05.213   784  1031 D LightsService: Excessive delay setting light: 65ms
+04-24 08:09:05.273   784  1031 D LightsService: Excessive delay setting light: 64ms
+04-24 08:09:05.354   784  1031 D LightsService: Excessive delay setting light: 64ms
+04-24 08:09:05.414   784  1031 D LightsService: Excessive delay setting light: 65ms
+04-24 08:09:05.474   784  1031 D LightsService: Excessive delay setting light: 66ms
+04-24 08:09:05.794   784  1031 D LightsService: Excessive delay setting light: 53ms
+04-24 08:09:22.951   784  1779 D LightsService: Excessive delay setting light: 66ms
+04-24 08:09:23.071   784  1779 D LightsService: Excessive delay setting light: 66ms
+04-24 08:09:28.606   784  1795 D LightsService: Excessive delay setting light: 68ms
+04-24 08:09:28.666   784  1795 D LightsService: Excessive delay setting light: 66ms
+04-24 08:09:28.736   784  1795 D LightsService: Excessive delay setting light: 68ms
+04-24 08:09:28.796   784  1795 D LightsService: Excessive delay setting light: 63ms
+04-24 08:09:28.866   784  1795 D LightsService: Excessive delay setting light: 65ms
+04-24 08:09:28.916   784  1795 D LightsService: Excessive delay setting light: 52ms
+04-24 08:09:34.452   784   823 I PowerManagerService: Going to sleep due to screen timeout...
+04-24 08:09:34.462   784   823 E LightSensor: Light old sensor_state 129, new sensor_state : 1 en : 0
+04-24 08:09:34.592  1424  1431 E MP-Decision: num online cores: 1 reqd : 2 available : 4 rq_depth:2.800000 hotplug_avg_load_dw: 29
+04-24 08:09:34.592  1424  1431 E MP-Decision: UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 total_time_up:185.000000
+04-24 08:09:34.942  1424  1431 E MP-Decision: num online cores: 2 reqd : 1 available : 4 rq_depth:0.700000 hotplug_avg_load_dw: 15
+04-24 08:09:34.942  1424  1431 E MP-Decision: DOWN cpu:1 core_idx:1 Ns:1.100000 Ts:190 total_time_down:48.000000
+04-24 08:09:35.062   784   799 E Sensors : Acc old sensor_state 1, new sensor_state : 0 en : 0
+04-24 08:09:35.072  1091  1091 D PhoneApp: mReceiver: ACTION_SCREEN_OFF / ACTION_SCREEN_ON
+04-24 08:09:35.072  1091  1091 D AccelerometerListener: enable(false)
+04-24 08:09:35.092   784   800 V KeyguardHostView: Keyguard widgets disabled by DPM
+04-24 08:09:35.092   784   800 V KeyguardHostView: Keyguard secure camera disabled by DPM
+04-24 08:09:35.132   784  8740 D LightsService: Excessive delay setting light: 117ms
+04-24 08:09:35.142  1424  1431 E MP-Decision: num online cores: 1 reqd : 2 available : 4 rq_depth:4.300000 hotplug_avg_load_dw: 39
+04-24 08:09:35.142  1424  1431 E MP-Decision: UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 total_time_up:184.000000
+04-24 08:09:35.142   312   367 D SurfaceFlinger: Screen released, type=0 flinger=0xb7eca478
+04-24 08:09:35.142   312   367 D qdhwcomposer: hwc_blank: Blanking display: 0
+04-24 08:09:35.192  1424  1431 E MP-Decision: num online cores: 2 reqd : 3 available : 4 rq_depth:2.800000 hotplug_avg_load_dw: 90
+04-24 08:09:35.192  1424  1431 E MP-Decision: UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 total_time_up:0.000000
+04-24 08:09:35.192  1424  1431 E MP-Decision: UP cpu:2 core_idx:2 Nw:2.700000 Tw:90 total_time_up:143.000000
+04-24 08:09:35.263   784   800 V KeyguardHostView: hide transport, gen:3
+04-24 08:09:35.263   784   800 V KeyguardHostView: music state changed: 0
+04-24 08:09:35.393   312   367 D qdhwcomposer: hwc_blank: Done blanking display: 0
+04-24 08:09:35.393   784  8740 D SurfaceControl: Excessive delay in blankDisplay() while turning screen off: 258ms
+04-24 08:09:35.713  1424  1431 E MP-Decision: num online cores: 3 reqd : 1 available : 4 rq_depth:0.000000 hotplug_avg_load_dw: 18
+04-24 08:09:35.713  1424  1431 E MP-Decision: DOWN cpu:2 core_idx:2 Ns:2.100000 Ts:240 total_time_down:296.000000
+04-24 08:09:35.723  1424  1431 E MP-Decision: DOWN cpu:1 core_idx:1 Ns:1.100000 Ts:190 total_time_down:296.000000
+04-24 08:10:44.159 16528 16528 W libc    : void endpwent()(3) is not implemented on Android
+04-24 08:10:44.159   251   251 I busybox : void endpwent()(3) is not implemented on Android
+04-24 08:10:44.239 16530 16530 W libc    : void endpwent()(3) is not implemented on Android
+04-24 08:10:44.439  1424  1431 E MP-Decision: num online cores: 1 reqd : 2 available : 4 rq_depth:2.300000 hotplug_avg_load_dw: 61
+04-24 08:10:44.439  1424  1431 E MP-Decision: UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 total_time_up:49.000000
+04-24 08:10:45.681  1424  1431 E MP-Decision: num online cores: 2 reqd : 1 available : 4 rq_depth:1.000000 hotplug_avg_load_dw: 18
+04-24 08:10:45.681  1424  1431 E MP-Decision: DOWN cpu:1 core_idx:1 Ns:1.100000 Ts:190 total_time_down:156.000000
+04-24 08:11:24.538 16885 16885 W libc    : void endpwent()(3) is not implemented on Android
+04-24 08:11:24.538   251   251 I busybox : void endpwent()(3) is not implemented on Android
+04-24 08:11:24.628 16887 16887 W libc    : void endpwent()(3) is not implemented on Android
+04-24 08:11:24.849  1424  1431 E MP-Decision: num online cores: 1 reqd : 2 available : 4 rq_depth:2.300000 hotplug_avg_load_dw: 66
+04-24 08:11:24.849  1424  1431 E MP-Decision: UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 total_time_up:49.000000

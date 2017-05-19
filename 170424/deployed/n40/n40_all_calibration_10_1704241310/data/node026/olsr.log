@@ -1,0 +1,19 @@
+
+ *** olsr.org -  0.6.6.2-n -git_0000000 -n -hash_ 7985605520f3cae9b305d56e83b35d9c ***
+ Build date: 2014-07-15 10:40:08 on 495450-mitll.llan.ll.mit.edu
+ http://www.olsr.org
+
+setting ifs_in_curr_cfg = 0
+Plugin: olsrd_jsoninfo.so.0.0
+Plugin param key:"accept" val: "0.0.0.0"
+Plugin param key:"port" val: "16000"
+Queuing if wlan0
+	IPv4 broadcast/multicast : AUTO
+	Mode           : mesh
+	IPv6 multicast           : ::
+	HELLO emission/validity  : 0.00/0.00
+	TC emission/validity     : 0.00/0.00
+	MID emission/validity    : 0.00/0.00
+	HNA emission/validity    : 0.00/0.00
+	Autodetect changes       : no
+olsr.org -  0.6.6.2-n -git_0000000 -n -hash_ 7985605520f3cae9b305d56e83b35d9c detaching from the current process...

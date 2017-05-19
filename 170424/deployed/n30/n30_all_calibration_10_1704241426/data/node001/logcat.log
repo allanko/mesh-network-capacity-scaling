@@ -1,0 +1,13 @@
+--------- beginning of /dev/log/main
+04-24 14:25:42.550 32447 32447 D AndroidRuntime: 
+04-24 14:25:42.550 32447 32447 D AndroidRuntime: >>>>>> AndroidRuntime START com.android.internal.os.RuntimeInit <<<<<<
+04-24 14:25:42.550 32447 32447 D AndroidRuntime: CheckJNI is ON
+04-24 14:25:42.550 32447 32447 E dalvikvm: ERROR: must specify non-'.' bootclasspath
+04-24 14:25:42.550 32447 32447 W dalvikvm: CreateJavaVM failed: dvmClassStartup failed
+04-24 14:25:42.550 32447 32447 E AndroidRuntime: JNI_CreateJavaVM failed
+04-24 14:25:42.911 32448 32448 D AndroidRuntime: 
+04-24 14:25:42.911 32448 32448 D AndroidRuntime: >>>>>> AndroidRuntime START com.android.internal.os.RuntimeInit <<<<<<
+04-24 14:25:42.911 32448 32448 D AndroidRuntime: CheckJNI is ON
+04-24 14:25:42.911 32448 32448 E dalvikvm: ERROR: must specify non-'.' bootclasspath
+04-24 14:25:42.911 32448 32448 W dalvikvm: CreateJavaVM failed: dvmClassStartup failed
+04-24 14:25:42.911 32448 32448 E AndroidRuntime: JNI_CreateJavaVM failed

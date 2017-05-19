@@ -1,0 +1,65 @@
+nodeName node006
+nodeNum 6
+binDir /data/llcbmen
+expRoot /sdcard/llcbmen
+runId n20_all_calibration_60_1704241258
+basetime 1493053110
+duration 300
+startWait 30
+dataDir /sdcard/llcbmen/data/n20_all_calibration_60_1704241258
+doAPK N
+logFiles 
+ifaces wlan0
+si2Args  -b 10000 10.1.1.255:15387
+
+Resetting at time Mon Apr 24 05:58:10 SST 2017 = 1493053090.181287
+rm: can't remove '/sdcard/node*.log': No such file or directory
+rm: can't remove '/sdcard/*.json': No such file or directory
+killall: gcn: no process killed
+killall: beaconer: no process killed
+killall: monitor.sh: no process killed
+killall: babeld: no process killed
+killall: edu.mit.ll.NletLog.android: no process killed
+killall: edu.mit.ll.cbmen.monitor: no process killed
+killall: mchttpd: no process killed
+rm: can't remove '/sdcard/cascade': No such file or directory
+rm: can't remove '/sdcard/CBMEN': No such file or directory
+rm: can't remove '/sdcard/llcbmen/ISI': No such file or directory
+rm: can't remove '/sdcard/Android/data/cbmen.comet.workflow.cascade': No such file or directory
+rm: can't remove '/sdcard/registrar.db': No such file or directory
+Waiting until prep time...
+Skipping ahead because basetime + -30 = 1493053080 is in the past.
+Starting uberLocal.sh at time Mon Apr 24 05:58:10 SST 2017 = 1493053090.881287 with basetime 1493053110
+
+Starting instruments at time Mon Apr 24 05:58:10 SST 2017 = 1493053090.923247
+
+Sleeping 8.76481 sec until basetime + -10 = 1493053100
+
+Starting scenario at time Mon Apr 24 05:58:20 SST 2017 = 1493053100.083051
+Starting mgen.
+Parsing file: "/etc/olsrd.conf"
+mgen: version 5.02
+mgen: starting now ...
+
+Waiting through scenario duration...
+Skipping ahead because basetime + 300 = 1493053410 is in the past.
+
+Stopping scenario at time Mon Apr 24 06:04:01 SST 2017 = 1493053441.861321
+killall: tcpdump: no process killed
+killall: gcn: no process killed
+killall: beaconer: no process killed
+killall: olsrd: no process killed
+killall: mgen: no process killed
+killall: babeld: no process killed
+killall: edu.mit.ll.NletLog.android: no process killed
+killall: edu.mit.ll.cbmen.monitor: no process killed
+
+killall: beaconer: no process killed
+killall: monitor.sh: no process killed
+killall: mgen: no process killed
+killall: olsrd: no process killed
+killall: edu.mit.ll.cbmen.monitor: no process killed
+killall: edu.mit.ll.NletLog.android: no process killed
+
+FINISHED uberLocal.sh at time Mon Apr 24 06:04:03 SST 2017 = 1493053443.187163
+

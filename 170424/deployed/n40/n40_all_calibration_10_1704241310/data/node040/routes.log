@@ -1,0 +1,1827 @@
+1493053780.197430
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.40    0.0.0.0         UG    0      0        0 usb0
+1493053782.267691
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.40    0.0.0.0         UG    0      0        0 usb0
+1493053784.336976
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.40    0.0.0.0         UG    0      0        0 usb0
+1493053786.407848
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.40    0.0.0.0         UG    0      0        0 usb0
+1493053788.477529
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.40    0.0.0.0         UG    0      0        0 usb0
+1493053790.548706
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.40    0.0.0.0         UG    0      0        0 usb0
+1493053792.613901
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.40    0.0.0.0         UG    0      0        0 usb0
+1493053794.682148
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.40    0.0.0.0         UG    0      0        0 usb0
+1493053796.745635
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.40    0.0.0.0         UG    0      0        0 usb0
+1493053798.816964
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.40    0.0.0.0         UG    0      0        0 usb0
+1493053800.884662
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.40    0.0.0.0         UG    0      0        0 usb0
+1493053802.957944
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.40    0.0.0.0         UG    0      0        0 usb0
+1493053805.024147
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.40    0.0.0.0         UG    0      0        0 usb0
+1493053807.106493
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.40    0.0.0.0         UG    0      0        0 usb0
+1493053809.188045
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.40    0.0.0.0         UG    0      0        0 usb0
+1493053811.258978
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.40    0.0.0.0         UG    0      0        0 usb0
+1493053813.324479
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.40    0.0.0.0         UG    0      0        0 usb0
+1493053815.397334
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.40    0.0.0.0         UG    0      0        0 usb0
+10.1.1.39       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+1493053817.467412
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.40    0.0.0.0         UG    0      0        0 usb0
+10.1.1.39       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+1493053819.540603
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.40    0.0.0.0         UG    0      0        0 usb0
+10.1.1.39       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+1493053821.606500
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.40    0.0.0.0         UG    0      0        0 usb0
+10.1.1.39       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+1493053823.682834
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.40    0.0.0.0         UG    0      0        0 usb0
+10.1.1.39       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+1493053825.760603
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.40    0.0.0.0         UG    0      0        0 usb0
+10.1.1.31       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.33       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.37       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.38       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.39       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+1493053827.825493
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.40    0.0.0.0         UG    0      0        0 usb0
+10.1.1.31       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.33       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.37       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.38       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.39       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+1493053829.896670
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.40    0.0.0.0         UG    0      0        0 usb0
+10.1.1.31       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.33       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.37       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.38       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.39       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+1493053831.975354
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.40    0.0.0.0         UG    0      0        0 usb0
+10.1.1.31       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.33       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.37       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.38       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.39       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+1493053834.050132
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.40    0.0.0.0         UG    0      0        0 usb0
+10.1.1.31       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.33       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.37       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.38       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.39       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+1493053836.115602
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.40    0.0.0.0         UG    0      0        0 usb0
+10.1.1.31       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.33       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.37       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.38       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.39       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+1493053838.190105
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.40    0.0.0.0         UG    0      0        0 usb0
+10.1.1.31       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.33       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.37       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.38       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.39       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+1493053840.255697
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.40    0.0.0.0         UG    0      0        0 usb0
+10.1.1.31       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.33       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.37       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.38       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.39       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+1493053842.328338
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.40    0.0.0.0         UG    0      0        0 usb0
+10.1.1.31       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.33       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.37       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.38       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.39       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+1493053844.408213
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.40    0.0.0.0         UG    0      0        0 usb0
+10.1.1.31       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.33       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.37       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.38       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.39       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+1493053846.474415
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.40    0.0.0.0         UG    0      0        0 usb0
+10.1.1.31       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.33       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.37       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.38       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.39       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+1493053848.552031
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.40    0.0.0.0         UG    0      0        0 usb0
+10.1.1.31       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.33       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.37       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.38       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.39       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+1493053850.629311
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.40    0.0.0.0         UG    0      0        0 usb0
+10.1.1.31       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.33       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.37       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.38       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.39       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+1493053852.696734
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.40    0.0.0.0         UG    0      0        0 usb0
+10.1.1.31       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.33       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.37       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.38       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.39       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+1493053854.763944
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.40    0.0.0.0         UG    0      0        0 usb0
+10.1.1.31       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.33       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.37       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.38       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.39       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+1493053856.837196
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.40    0.0.0.0         UG    0      0        0 usb0
+10.1.1.31       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.33       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.37       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.38       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.39       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+1493053858.917863
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.40    0.0.0.0         UG    0      0        0 usb0
+10.1.1.31       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.33       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.37       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.38       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.39       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+1493053860.983974
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.40    0.0.0.0         UG    0      0        0 usb0
+10.1.1.31       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.33       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.37       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.38       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.39       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+1493053863.040808
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.40    0.0.0.0         UG    0      0        0 usb0
+10.1.1.31       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.33       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.37       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.38       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.39       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+1493053865.125077
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.40    0.0.0.0         UG    0      0        0 usb0
+10.1.1.31       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.33       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.37       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.38       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.39       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+1493053867.209956
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.40    0.0.0.0         UG    0      0        0 usb0
+10.1.1.31       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.33       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.37       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.38       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.39       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+1493053869.304661
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.40    0.0.0.0         UG    0      0        0 usb0
+10.1.1.31       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.33       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.37       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.38       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.39       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+1493053871.377150
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.40    0.0.0.0         UG    0      0        0 usb0
+10.1.1.31       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.33       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.37       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.38       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.39       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+1493053873.457238
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.40    0.0.0.0         UG    0      0        0 usb0
+10.1.1.31       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.33       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.37       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.38       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.39       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+1493053875.545047
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.40    0.0.0.0         UG    0      0        0 usb0
+10.1.1.31       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.33       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.37       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.38       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.39       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+1493053877.623609
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.40    0.0.0.0         UG    0      0        0 usb0
+10.1.1.21       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.31       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.33       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.37       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.38       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.39       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+1493053879.707236
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.40    0.0.0.0         UG    0      0        0 usb0
+10.1.1.21       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.31       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.33       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.37       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.38       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.39       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+1493053881.786805
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.40    0.0.0.0         UG    0      0        0 usb0
+10.1.1.21       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.22       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.31       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.33       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.37       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.38       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.39       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+1493053883.864452
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.40    0.0.0.0         UG    0      0        0 usb0
+10.1.1.21       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.22       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.31       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.33       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.37       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.38       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.39       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+1493053885.952901
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.40    0.0.0.0         UG    0      0        0 usb0
+10.1.1.21       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.22       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.31       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.33       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.37       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.38       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.39       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+1493053888.033600
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.40    0.0.0.0         UG    0      0        0 usb0
+10.1.1.21       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.22       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.31       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.33       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.37       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.38       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.39       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+1493053890.112222
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.40    0.0.0.0         UG    0      0        0 usb0
+10.1.1.21       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.22       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.31       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.33       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.37       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.38       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.39       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+1493053892.192799
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.40    0.0.0.0         UG    0      0        0 usb0
+10.1.1.21       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.22       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.31       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.33       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.37       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.38       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.39       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+1493053894.269621
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.40    0.0.0.0         UG    0      0        0 usb0
+10.1.1.21       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.22       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.31       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.33       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.37       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.38       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.39       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+1493053896.343239
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.40    0.0.0.0         UG    0      0        0 usb0
+10.1.1.31       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.33       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.37       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.38       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.39       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+1493053898.428820
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.40    0.0.0.0         UG    0      0        0 usb0
+10.1.1.31       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.33       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.34       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.37       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.38       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.39       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+1493053900.521481
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.40    0.0.0.0         UG    0      0        0 usb0
+10.1.1.31       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.33       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.34       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.37       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.38       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.39       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+1493053902.613135
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.40    0.0.0.0         UG    0      0        0 usb0
+10.1.1.23       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.31       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.33       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.34       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.37       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.38       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.39       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+1493053904.696488
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.40    0.0.0.0         UG    0      0        0 usb0
+10.1.1.23       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.31       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.33       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.34       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.37       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.38       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.39       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+1493053906.773677
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.40    0.0.0.0         UG    0      0        0 usb0
+10.1.1.23       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.31       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.33       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.34       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.37       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.38       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.39       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+1493053908.860448
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.40    0.0.0.0         UG    0      0        0 usb0
+10.1.1.23       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.31       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.33       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.34       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.37       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.38       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.39       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+1493053910.933669
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.40    0.0.0.0         UG    0      0        0 usb0
+10.1.1.23       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.31       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.32       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.33       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.34       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.37       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.38       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.39       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+1493053913.020044
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.40    0.0.0.0         UG    0      0        0 usb0
+10.1.1.23       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.31       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.32       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.33       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.34       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.37       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.38       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.39       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+1493053915.094608
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.40    0.0.0.0         UG    0      0        0 usb0
+10.1.1.23       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.31       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.32       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.33       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.34       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.37       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.38       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.39       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+1493053917.168897
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.40    0.0.0.0         UG    0      0        0 usb0
+10.1.1.23       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.31       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.32       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.33       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.34       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.37       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.38       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.39       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+1493053919.247246
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.40    0.0.0.0         UG    0      0        0 usb0
+10.1.1.23       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.31       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.32       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.33       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.34       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.37       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.38       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.39       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+1493053921.314699
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.40    0.0.0.0         UG    0      0        0 usb0
+10.1.1.23       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.31       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.32       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.33       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.34       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.37       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.38       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.39       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+1493053923.384625
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.40    0.0.0.0         UG    0      0        0 usb0
+10.1.1.23       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.31       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.32       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.33       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.34       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.37       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.38       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.39       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+1493053925.472006
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.40    0.0.0.0         UG    0      0        0 usb0
+10.1.1.23       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.31       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.32       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.33       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.34       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.37       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.38       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.39       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+1493053927.554963
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.40    0.0.0.0         UG    0      0        0 usb0
+10.1.1.23       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.31       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.32       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.33       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.34       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.37       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.38       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.39       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+1493053929.642558
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.40    0.0.0.0         UG    0      0        0 usb0
+10.1.1.23       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.31       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.32       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.33       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.34       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.37       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.38       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.39       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+1493053931.719624
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.40    0.0.0.0         UG    0      0        0 usb0
+10.1.1.23       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.31       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.32       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.33       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.34       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.37       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.38       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.39       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+1493053933.810515
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.40    0.0.0.0         UG    0      0        0 usb0
+10.1.1.23       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.31       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.32       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.33       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.34       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.37       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.38       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.39       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+1493053935.889016
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.40    0.0.0.0         UG    0      0        0 usb0
+10.1.1.23       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.31       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.32       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.33       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.34       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.37       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.38       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.39       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+1493053937.983294
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.40    0.0.0.0         UG    0      0        0 usb0
+10.1.1.23       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.31       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.32       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.33       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.34       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.37       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.38       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.39       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+1493053940.059018
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.40    0.0.0.0         UG    0      0        0 usb0
+10.1.1.23       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.31       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.32       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.33       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.34       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.37       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.38       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.39       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+1493053942.127601
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.40    0.0.0.0         UG    0      0        0 usb0
+10.1.1.23       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.31       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.32       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.33       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.34       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.37       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.38       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.39       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+1493053944.217912
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.40    0.0.0.0         UG    0      0        0 usb0
+10.1.1.23       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.31       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.32       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.33       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.34       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.37       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.38       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.39       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+1493053946.304988
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.40    0.0.0.0         UG    0      0        0 usb0
+10.1.1.23       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.31       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.32       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.33       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.34       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.37       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.38       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.39       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+1493053948.376379
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.40    0.0.0.0         UG    0      0        0 usb0
+10.1.1.23       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.31       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.32       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.33       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.34       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.37       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.38       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.39       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+1493053950.458877
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.40    0.0.0.0         UG    0      0        0 usb0
+10.1.1.23       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.31       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.32       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.33       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.34       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.37       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.38       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.39       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+1493053952.548914
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.40    0.0.0.0         UG    0      0        0 usb0
+10.1.1.23       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.31       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.32       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.33       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.34       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.37       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.38       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.39       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+1493053954.623692
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.40    0.0.0.0         UG    0      0        0 usb0
+10.1.1.23       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.31       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.32       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.33       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.34       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.37       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.38       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.39       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+1493053956.703505
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.40    0.0.0.0         UG    0      0        0 usb0
+10.1.1.23       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.31       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.32       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.33       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.34       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.37       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.38       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.39       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+1493053958.786766
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.40    0.0.0.0         UG    0      0        0 usb0
+10.1.1.23       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.31       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.32       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.33       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.34       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.37       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.38       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.39       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+1493053960.869509
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.40    0.0.0.0         UG    0      0        0 usb0
+10.1.1.23       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.31       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.32       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.33       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.34       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.37       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.38       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.39       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+1493053962.951001
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.40    0.0.0.0         UG    0      0        0 usb0
+10.1.1.23       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.31       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.32       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.33       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.34       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.37       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.38       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.39       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+1493053965.029258
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.40    0.0.0.0         UG    0      0        0 usb0
+10.1.1.23       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.31       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.32       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.33       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.34       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.37       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.38       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.39       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+1493053967.109223
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.40    0.0.0.0         UG    0      0        0 usb0
+10.1.1.23       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.31       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.32       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.33       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.34       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.37       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.38       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.39       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+1493053969.197978
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.40    0.0.0.0         UG    0      0        0 usb0
+10.1.1.23       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.31       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.32       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.33       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.34       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.37       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.38       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.39       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+1493053971.281056
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.40    0.0.0.0         UG    0      0        0 usb0
+10.1.1.23       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.31       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.32       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.33       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.34       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.37       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.38       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.39       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+1493053973.357879
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.40    0.0.0.0         UG    0      0        0 usb0
+10.1.1.23       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.31       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.32       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.33       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.34       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.37       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.38       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.39       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+1493053975.437662
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.40    0.0.0.0         UG    0      0        0 usb0
+10.1.1.23       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.31       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.32       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.33       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.34       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.37       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.38       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.39       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+1493053977.512653
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.40    0.0.0.0         UG    0      0        0 usb0
+10.1.1.23       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.31       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.32       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.33       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.34       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.37       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.38       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.39       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+1493053979.591734
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.40    0.0.0.0         UG    0      0        0 usb0
+10.1.1.23       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.31       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.32       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.33       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.34       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.37       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.38       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.39       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+1493053981.668800
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.40    0.0.0.0         UG    0      0        0 usb0
+10.1.1.23       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.31       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.32       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.33       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.34       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.37       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.38       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.39       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+1493053983.740618
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.40    0.0.0.0         UG    0      0        0 usb0
+10.1.1.23       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.31       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.32       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.33       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.34       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.37       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.38       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.39       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+1493053985.818203
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.40    0.0.0.0         UG    0      0        0 usb0
+10.1.1.23       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.31       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.32       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.33       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.34       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.37       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.38       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.39       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+1493053987.914587
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.40    0.0.0.0         UG    0      0        0 usb0
+10.1.1.23       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.31       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.32       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.33       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.34       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.37       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.38       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.39       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+1493053989.995285
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.40    0.0.0.0         UG    0      0        0 usb0
+10.1.1.23       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.31       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.32       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.33       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.34       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.37       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.38       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.39       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+1493053992.066340
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.40    0.0.0.0         UG    0      0        0 usb0
+10.1.1.23       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.31       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.32       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.33       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.34       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.37       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.38       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.39       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+1493053994.140111
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.40    0.0.0.0         UG    0      0        0 usb0
+10.1.1.23       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.31       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.32       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.33       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.34       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.37       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.38       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.39       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+1493053996.235427
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.40    0.0.0.0         UG    0      0        0 usb0
+10.1.1.23       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.31       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.32       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.33       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.34       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.37       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.38       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.39       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+1493053998.316979
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.40    0.0.0.0         UG    0      0        0 usb0
+10.1.1.23       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.31       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.32       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.33       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.34       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.37       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.38       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.39       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+1493054000.395724
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.40    0.0.0.0         UG    0      0        0 usb0
+10.1.1.23       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.31       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.32       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.33       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.34       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.37       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.38       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.39       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+1493054002.484235
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.40    0.0.0.0         UG    0      0        0 usb0
+10.1.1.23       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.31       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.32       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.33       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.34       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.37       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.38       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.39       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+1493054004.571403
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.40    0.0.0.0         UG    0      0        0 usb0
+10.1.1.23       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.31       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.32       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.33       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.34       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.37       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.38       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.39       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+1493054006.653444
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.40    0.0.0.0         UG    0      0        0 usb0
+10.1.1.23       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.31       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.32       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.33       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.34       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.37       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.38       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.39       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+1493054008.728771
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.40    0.0.0.0         UG    0      0        0 usb0
+10.1.1.23       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.31       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.32       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.33       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.34       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.37       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.38       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.39       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+1493054010.817190
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.40    0.0.0.0         UG    0      0        0 usb0
+10.1.1.23       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.31       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.32       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.33       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.34       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.37       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.38       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.39       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+1493054012.889923
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.40    0.0.0.0         UG    0      0        0 usb0
+10.1.1.23       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.31       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.32       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.33       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.34       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.37       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.38       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.39       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+1493054014.978464
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.40    0.0.0.0         UG    0      0        0 usb0
+10.1.1.23       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.31       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.32       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.33       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.34       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.37       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.38       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.39       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+1493054017.059437
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.40    0.0.0.0         UG    0      0        0 usb0
+10.1.1.23       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.31       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.32       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.33       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.34       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.37       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.38       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.39       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+1493054019.149382
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.40    0.0.0.0         UG    0      0        0 usb0
+10.1.1.23       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.31       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.32       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.33       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.34       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.37       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.38       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.39       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+1493054021.228218
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.40    0.0.0.0         UG    0      0        0 usb0
+10.1.1.23       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.31       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.32       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.33       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.34       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.37       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.38       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.39       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+1493054023.299792
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.40    0.0.0.0         UG    0      0        0 usb0
+10.1.1.23       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.31       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.32       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.33       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.34       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.37       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.38       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.39       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+1493054025.386288
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.40    0.0.0.0         UG    0      0        0 usb0
+10.1.1.23       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.31       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.32       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.33       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.34       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.37       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.38       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.39       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+1493054027.465094
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.40    0.0.0.0         UG    0      0        0 usb0
+10.1.1.23       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.31       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.32       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.33       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.34       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.37       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.38       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.39       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+1493054029.553025
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.40    0.0.0.0         UG    0      0        0 usb0
+10.1.1.23       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.31       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.32       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.33       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.34       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.37       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.38       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.39       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+1493054031.638881
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.40    0.0.0.0         UG    0      0        0 usb0
+10.1.1.23       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.31       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.32       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.33       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.34       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.37       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.38       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.39       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+1493054033.720281
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.40    0.0.0.0         UG    0      0        0 usb0
+10.1.1.23       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.31       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.32       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.33       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.34       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.37       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.38       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.39       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+1493054035.808944
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.40    0.0.0.0         UG    0      0        0 usb0
+10.1.1.23       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.31       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.32       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.33       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.34       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.37       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.38       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.39       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+1493054037.887323
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.40    0.0.0.0         UG    0      0        0 usb0
+10.1.1.23       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.31       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.32       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.33       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.34       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.37       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.38       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.39       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+1493054039.988895
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.40    0.0.0.0         UG    0      0        0 usb0
+10.1.1.23       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.31       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.32       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.33       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.34       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.37       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.38       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.39       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+1493054042.066205
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.40    0.0.0.0         UG    0      0        0 usb0
+10.1.1.23       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.31       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.32       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.33       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.34       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.37       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.38       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.39       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+1493054044.149620
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.40    0.0.0.0         UG    0      0        0 usb0
+10.1.1.23       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.31       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.32       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.33       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.34       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.37       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.38       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.39       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+1493054046.227876
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.40    0.0.0.0         UG    0      0        0 usb0
+10.1.1.23       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.31       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.32       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.33       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.34       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.37       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.38       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.39       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+1493054048.304668
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.40    0.0.0.0         UG    0      0        0 usb0
+10.1.1.23       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.31       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.32       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.33       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.34       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.37       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.38       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.39       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+1493054050.380331
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.40    0.0.0.0         UG    0      0        0 usb0
+10.1.1.23       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.31       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.32       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.33       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.34       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.37       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.38       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.39       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+1493054052.471985
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.40    0.0.0.0         UG    0      0        0 usb0
+10.1.1.23       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.31       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.32       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.33       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.34       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.37       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.38       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.39       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+1493054054.552317
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.40    0.0.0.0         UG    0      0        0 usb0
+10.1.1.23       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.31       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.32       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.33       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.34       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.37       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.38       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.39       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+1493054056.639454
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.40    0.0.0.0         UG    0      0        0 usb0
+10.1.1.23       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.31       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.32       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.33       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.34       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.37       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.38       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.39       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+1493054058.720915
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.40    0.0.0.0         UG    0      0        0 usb0
+10.1.1.23       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.31       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.32       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.33       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.34       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.37       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.38       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.39       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+1493054060.804116
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.40    0.0.0.0         UG    0      0        0 usb0
+10.1.1.23       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.31       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.32       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.33       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.34       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.37       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.38       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.39       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+1493054062.875720
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.40    0.0.0.0         UG    0      0        0 usb0
+10.1.1.23       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.31       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.32       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.33       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.34       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.37       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.38       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.39       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+1493054064.945951
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.40    0.0.0.0         UG    0      0        0 usb0
+10.1.1.23       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.31       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.32       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.33       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.34       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.37       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.38       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.39       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+1493054067.017616
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.40    0.0.0.0         UG    0      0        0 usb0
+10.1.1.23       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.31       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.32       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.33       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.34       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.37       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.38       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.39       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+1493054069.092515
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.40    0.0.0.0         UG    0      0        0 usb0
+10.1.1.23       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.31       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.32       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.33       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.34       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.37       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.38       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.39       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+1493054071.176509
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.40    0.0.0.0         UG    0      0        0 usb0
+10.1.1.23       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.31       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.32       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.33       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.34       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.37       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.38       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.39       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+1493054073.246527
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.40    0.0.0.0         UG    0      0        0 usb0
+10.1.1.23       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.31       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.32       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.33       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.34       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.37       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.38       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.39       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+1493054075.339676
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.40    0.0.0.0         UG    0      0        0 usb0
+10.1.1.23       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.31       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.32       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.33       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.34       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.37       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.38       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.39       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+1493054077.428339
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.40    0.0.0.0         UG    0      0        0 usb0
+10.1.1.23       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.31       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.32       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.33       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.34       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.37       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.38       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.39       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+1493054079.510441
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.40    0.0.0.0         UG    0      0        0 usb0
+10.1.1.23       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.31       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.32       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.33       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.34       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.37       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.38       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.39       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+1493054081.588148
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.40    0.0.0.0         UG    0      0        0 usb0
+10.1.1.23       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.31       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.32       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.33       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.34       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.37       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.38       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.39       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+1493054083.664238
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.40    0.0.0.0         UG    0      0        0 usb0
+10.1.1.23       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.31       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.32       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.33       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.34       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.37       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.38       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.39       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+1493054085.739138
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.40    0.0.0.0         UG    0      0        0 usb0
+10.1.1.23       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.31       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.32       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.33       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.34       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.37       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.38       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.39       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+1493054087.809125
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.40    0.0.0.0         UG    0      0        0 usb0
+10.1.1.23       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.31       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.32       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.33       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.34       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.37       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.38       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.39       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+1493054089.904624
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.40    0.0.0.0         UG    0      0        0 usb0
+10.1.1.23       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.31       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.32       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.33       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.34       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.37       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.38       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.39       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+1493054091.983430
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.40    0.0.0.0         UG    0      0        0 usb0
+10.1.1.23       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.31       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.32       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.33       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.34       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.37       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.38       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.39       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+1493054094.056194
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.40    0.0.0.0         UG    0      0        0 usb0
+10.1.1.23       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.31       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.32       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.33       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.34       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.37       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.38       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.39       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+1493054096.130880
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.40    0.0.0.0         UG    0      0        0 usb0
+10.1.1.23       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.31       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.32       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.33       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.34       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.37       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.38       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.39       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+1493054098.206512
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.40    0.0.0.0         UG    0      0        0 usb0
+10.1.1.23       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.31       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.32       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.33       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.34       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.37       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.38       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.39       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+1493054100.301279
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.40    0.0.0.0         UG    0      0        0 usb0
+10.1.1.23       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.31       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.32       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.33       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.34       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.37       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.38       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.39       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+1493054102.392749
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.40    0.0.0.0         UG    0      0        0 usb0
+10.1.1.23       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.31       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.32       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.33       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.34       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.37       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.38       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.39       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+1493054104.462919
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.40    0.0.0.0         UG    0      0        0 usb0
+10.1.1.23       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.31       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.32       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.33       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.34       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.37       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.38       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.39       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+1493054106.526314
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.40    0.0.0.0         UG    0      0        0 usb0
+10.1.1.23       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.31       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.32       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.33       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.34       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.37       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.38       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.39       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+1493054108.608660
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.40    0.0.0.0         UG    0      0        0 usb0
+10.1.1.23       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.31       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.32       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.33       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.34       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.36       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.37       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.38       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.39       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+1493054110.681119
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.40    0.0.0.0         UG    0      0        0 usb0
+10.1.1.23       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.31       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.32       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.33       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.34       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.36       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.37       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.38       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.39       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+1493054112.762213
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.40    0.0.0.0         UG    0      0        0 usb0
+10.1.1.23       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.31       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.32       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.33       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.34       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.36       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.37       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.38       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.39       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+1493054114.839066
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.40    0.0.0.0         UG    0      0        0 usb0
+10.1.1.23       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.31       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.32       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.33       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.34       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.36       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.37       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.38       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.39       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+1493054116.909297
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.40    0.0.0.0         UG    0      0        0 usb0
+10.1.1.23       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.31       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.32       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.33       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.34       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.36       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.37       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.38       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.39       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+1493054118.975042
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.40    0.0.0.0         UG    0      0        0 usb0
+10.1.1.23       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.31       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.32       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.33       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.34       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.36       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.37       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.38       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.39       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+1493054121.056167
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.40    0.0.0.0         UG    0      0        0 usb0
+10.1.1.23       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.31       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.32       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.33       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.34       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.36       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.37       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.38       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.39       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+1493054123.124414
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.40    0.0.0.0         UG    0      0        0 usb0
+10.1.1.23       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.31       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.32       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.33       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.34       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.37       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.38       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.39       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+1493054125.197758
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.40    0.0.0.0         UG    0      0        0 usb0
+10.1.1.23       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.31       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.32       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.33       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.34       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.37       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.38       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.39       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+1493054127.270674
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.40    0.0.0.0         UG    0      0        0 usb0
+10.1.1.23       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.31       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.32       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.33       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.34       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.37       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.38       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.39       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+1493054129.342247
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.40    0.0.0.0         UG    0      0        0 usb0
+10.1.1.23       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.31       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.32       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.33       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.34       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.37       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.38       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.39       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+1493054131.406405
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.40    0.0.0.0         UG    0      0        0 usb0
+10.1.1.23       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.31       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.32       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.33       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.34       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.37       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.38       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.39       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+1493054133.498395
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.40    0.0.0.0         UG    0      0        0 usb0
+10.1.1.23       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.31       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.32       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.33       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.34       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.37       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.38       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.39       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+1493054135.571128
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.40    0.0.0.0         UG    0      0        0 usb0
+10.1.1.23       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.31       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.32       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.33       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.34       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.37       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.38       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.39       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+1493054137.635652
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.40    0.0.0.0         UG    0      0        0 usb0
+10.1.1.23       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.31       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.32       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.33       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.34       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.37       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.38       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.39       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+1493054139.707805
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         192.168.1.40    0.0.0.0         UG    0      0        0 usb0
+10.1.1.23       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.31       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.32       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.33       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.34       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.37       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.38       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0
+10.1.1.39       10.1.1.39       255.255.255.255 UGH   2      0        0 wlan0

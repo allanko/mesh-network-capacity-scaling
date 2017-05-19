@@ -1,0 +1,355 @@
+--------- beginning of /dev/log/main
+04-24 07:02:21.682  1395  1401 E MP-Decision: num online cores: 2 reqd : 1 available : 4 rq_depth:1.000000 hotplug_avg_load_dw: 19
+04-24 07:02:21.682  1395  1401 E MP-Decision: DOWN cpu:1 core_idx:1 Ns:1.100000 Ts:190 total_time_down:894.000000
+04-24 07:02:21.932  1395  1401 E MP-Decision: num online cores: 1 reqd : 2 available : 4 rq_depth:1.100000 hotplug_avg_load_dw: 63
+04-24 07:02:21.932  1395  1401 E MP-Decision: UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 total_time_up:0.000000
+04-24 07:02:22.513 22761 22761 D AndroidRuntime: 
+04-24 07:02:22.513 22761 22761 D AndroidRuntime: >>>>>> AndroidRuntime START com.android.internal.os.RuntimeInit <<<<<<
+04-24 07:02:22.513 22761 22761 D AndroidRuntime: CheckJNI is ON
+04-24 07:02:22.513 22761 22761 E dalvikvm: ERROR: must specify non-'.' bootclasspath
+04-24 07:02:22.513 22761 22761 W dalvikvm: CreateJavaVM failed: dvmClassStartup failed
+04-24 07:02:22.513 22761 22761 E AndroidRuntime: JNI_CreateJavaVM failed
+04-24 07:02:22.853 22762 22762 D AndroidRuntime: 
+04-24 07:02:22.853 22762 22762 D AndroidRuntime: >>>>>> AndroidRuntime START com.android.internal.os.RuntimeInit <<<<<<
+04-24 07:02:22.853 22762 22762 D AndroidRuntime: CheckJNI is ON
+04-24 07:02:22.853 22762 22762 E dalvikvm: ERROR: must specify non-'.' bootclasspath
+04-24 07:02:22.853 22762 22762 W dalvikvm: CreateJavaVM failed: dvmClassStartup failed
+04-24 07:02:22.853 22762 22762 E AndroidRuntime: JNI_CreateJavaVM failed
+04-24 07:02:24.985  1395  1401 E MP-Decision: num online cores: 2 reqd : 1 available : 4 rq_depth:0.000000 hotplug_avg_load_dw: 29
+04-24 07:02:24.985  1395  1401 E MP-Decision: DOWN cpu:1 core_idx:1 Ns:1.100000 Ts:190 total_time_down:2394.000000
+04-24 07:04:06.093   921   921 E kickstart: Total bytes received so far: 48
+04-24 07:04:06.093   921   921 E kickstart: EVENT: RECEIVED <-- SAHARA_HELLO
+04-24 07:04:06.093   921   921 E kickstart: EVENT: SENDING --> SAHARA_HELLO_RESPONSE
+04-24 07:04:06.093   921   921 E kickstart: EVENT: sahara_mode                         = 2
+04-24 07:04:06.093   921   921 E kickstart: EVENT: m_comm->sahara_hello_packet_rx.mode = 2
+04-24 07:04:06.093   921   921 E kickstart: EVENT: helloRx.mode                        = 2
+04-24 07:04:06.093   921   921 E kickstart: Total bytes received so far: 64
+04-24 07:04:06.093   921   921 E kickstart: EVENT: RECEIVED <-- SAHARA_MEMORY_DEBUG
+04-24 07:04:06.103   921   921 E kickstart: Total bytes received so far: 116
+04-24 07:04:06.103   921   921 E kickstart: EVENT: 0x46980000, len=000C0000, "m9kefs2", ""
+04-24 07:04:06.103   921   921 E kickstart: EVENT: STATE <-- SAHARA_WAIT_MEMORY_REGION
+04-24 07:04:06.103   921   921 E kickstart: EVENT: Saving "/dev/block/platform/msm_sdcc.1/by-name/m9kefs2"
+04-24 07:04:06.183   921   921 E kickstart: Total bytes received so far: 786548
+04-24 07:04:06.183   921   921 E kickstart: EVENT: Received: 786432 bytes
+04-24 07:04:06.183   921   921 E kickstart: EVENT: Writing to disk
+04-24 07:04:06.183   921   921 E kickstart: EVENT: Successfully wrote to disk
+04-24 07:04:06.183   921   921 E kickstart: Received file "m9kefs2"
+04-24 07:04:06.254   921   921 E kickstart: Sync finish Received file "m9kefs2"
+04-24 07:04:06.254   921   921 E kickstart: 786432 bytes transferred in 0.146s (5.13 MBps)
+04-24 07:04:06.254   921   921 E kickstart: EVENT: num_debug_entries not >=0
+04-24 07:04:06.254   921   921 E kickstart: Successfully downloaded files from target 
+04-24 07:04:06.254   921   921 E kickstart: EVENT: SENDING --> SAHARA_RESET
+04-24 07:04:06.264   921   921 E kickstart: Total bytes received so far: 786556
+04-24 07:04:06.264   921   921 E kickstart: EVENT: RECEIVED <-- SAHARA_RESET_RESP
+04-24 07:04:06.264   921   921 E kickstart: Sahara protocol completed
+04-24 07:04:06.264   921   921 E kickstart: EVENT: STATE <-- SAHARA_WAIT_HELLO
+04-24 07:20:00.099 22942 22942 I olsrd   : Writing '1' (was 1) to /proc/sys/net/ipv4/ip_forward
+04-24 07:20:00.099 22942 22942 I olsrd   : Writing '0' (was 1) to /proc/sys/net/ipv4/conf/all/send_redirects
+04-24 07:20:00.099 22942 22942 I olsrd   : Writing '0' (was 0) to /proc/sys/net/ipv4/conf/all/rp_filter
+04-24 07:20:00.099 22942 22942 I olsrd   : Writing '0' (was 0) to /proc/sys/net/ipv4/conf/wlan0/send_redirects
+04-24 07:20:00.099 22942 22942 I olsrd   : Writing '0' (was 0) to /proc/sys/net/ipv4/conf/wlan0/rp_filter
+04-24 07:20:00.099 22942 22942 I olsrd   : Adding interface wlan0
+04-24 07:20:00.099 22942 22942 I olsrd   : New main address: 10.1.1.31
+04-24 07:20:00.109 22947 22947 I olsrd   : olsr.org -  0.6.6.2-n -git_0000000 -n -hash_ 7985605520f3cae9b305d56e83b35d9c successfully started
+04-24 07:24:38.930 22947 22947 I olsrd   : detected duplicate packet with seqnr 0x6579 from 10.1.1.32 on wlan0 (232 Bytes)
+04-24 07:25:40.049 22947 22947 I olsrd   : Removing interface wlan0
+04-24 07:25:40.049   782   846 D Tethering: InitialState.processMessage what=4
+04-24 07:25:40.059   782   846 D Tethering: Exception adding default nw to upstreamIfaceTypes: java.lang.NullPointerException
+04-24 07:25:40.059   782   846 D Tethering: sendTetherStateChangedBroadcast 1, 0, 0
+04-24 07:25:40.069   782  1113 D Tethering: Exception adding default nw to upstreamIfaceTypes: java.lang.NullPointerException
+04-24 07:47:49.810   782   789 I dalvikvm: Jit: resizing JitTable from 8192 to 16384
+--------- beginning of /dev/log/system
+04-24 08:02:08.594   782   798 I PowerManagerService: Waking up from sleep...
+04-24 08:02:08.594   782   821 E LightSensor: Light old sensor_state 0, new sensor_state : 128 en : 1
+04-24 08:02:08.604   782   797 E Sensors : Acc old sensor_state 128, new sensor_state : 129 en : 1
+04-24 08:02:08.714  1099  1099 D PhoneApp: mReceiver: ACTION_SCREEN_OFF / ACTION_SCREEN_ON
+04-24 08:02:08.714  1099  1099 D AccelerometerListener: enable(false)
+04-24 08:02:08.774   782   798 I WindowManager: Lock screen displayed!
+04-24 08:02:09.074   782  1767 D PowerManagerService-JNI: Excessive delay in autosuspend_disable() while turning screen on: 470ms
+04-24 08:02:09.074   311   364 D SurfaceFlinger: Screen acquired, type=0 flinger=0xb7ac2478
+04-24 08:02:09.074   311   364 D qdhwcomposer: hwc_blank: Unblanking display: 0
+04-24 08:02:09.074   311   364 D qdhwcomposer: hwc_blank: Done unblanking display: 0
+04-24 08:02:09.164   782  8432 D LightsService: Excessive delay setting light: 64ms
+04-24 08:02:09.234   782  8432 D LightsService: Excessive delay setting light: 69ms
+04-24 08:02:09.294   782  8432 D LightsService: Excessive delay setting light: 66ms
+04-24 08:02:09.444   782  8432 D LightsService: Excessive delay setting light: 99ms
+04-24 08:02:09.515   782  8432 D LightsService: Excessive delay setting light: 65ms
+04-24 08:02:09.585   782  8432 D LightsService: Excessive delay setting light: 69ms
+04-24 08:02:09.645   782  8432 D LightsService: Excessive delay setting light: 62ms
+04-24 08:02:09.715   782  8432 D LightsService: Excessive delay setting light: 67ms
+04-24 08:02:13.018   782   798 W ViewRootImpl: Dropping event due to no window focus: KeyEvent { action=ACTION_DOWN, keyCode=KEYCODE_POWER, scanCode=116, metaState=0, flags=0x8, repeatCount=3, eventTime=16379165, downTime=16378560, deviceId=3, source=0x101 }
+04-24 08:02:13.028   782   798 D InputEventConsistencyVerifier: KeyEvent: ACTION_UP but key was not down.
+04-24 08:02:13.028   782   798 D InputEventConsistencyVerifier:   in com.android.internal.policy.impl.PhoneWindow$DecorView{41d4efc8 V.E..... R.....I. 0,0-0,0}
+04-24 08:02:13.028   782   798 D InputEventConsistencyVerifier:   0: sent at 16379286000000, KeyEvent { action=ACTION_UP, keyCode=KEYCODE_POWER, scanCode=116, metaState=0, flags=0x28, repeatCount=0, eventTime=16379286, downTime=16378560, deviceId=3, source=0x101 }
+04-24 08:02:13.108  1395  1401 E MP-Decision: num online cores: 1 reqd : 2 available : 4 rq_depth:0.900000 hotplug_avg_load_dw: 71
+04-24 08:02:13.108  1395  1401 E MP-Decision: UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 total_time_up:0.000000
+04-24 08:02:13.138   981   981 D PhoneStatusBar: disable: < EXPAND icons alerts TICKER system_info back* home* RECENT clock* SEARCH >
+04-24 08:02:13.568  1395  1401 E MP-Decision: num online cores: 2 reqd : 1 available : 4 rq_depth:1.000000 hotplug_avg_load_dw: 17
+04-24 08:02:13.568  1395  1401 E MP-Decision: DOWN cpu:1 core_idx:1 Ns:1.100000 Ts:190 total_time_down:49.000000
+04-24 08:02:13.789   782 10337 D LightsService: Excessive delay setting light: 67ms
+04-24 08:02:13.849   782 10337 D LightsService: Excessive delay setting light: 67ms
+04-24 08:02:13.919   782 10337 D LightsService: Excessive delay setting light: 68ms
+04-24 08:02:13.989   782 10337 D LightsService: Excessive delay setting light: 66ms
+04-24 08:02:14.049   782 10337 D LightsService: Excessive delay setting light: 64ms
+04-24 08:02:14.169   782 10337 D LightsService: Excessive delay setting light: 66ms
+04-24 08:02:14.289   782 10337 D LightsService: Excessive delay setting light: 79ms
+04-24 08:02:14.670   782 10337 D LightsService: Excessive delay setting light: 52ms
+04-24 08:02:14.670   782   827 I PowerManagerService: Going to sleep by user request...
+04-24 08:02:14.670   782   821 E LightSensor: Light old sensor_state 129, new sensor_state : 1 en : 0
+04-24 08:02:14.750   782 10337 D LightsService: Excessive delay setting light: 79ms
+04-24 08:02:14.950   782   978 D LightsService: Excessive delay setting light: 52ms
+04-24 08:02:15.010   782   978 D LightsService: Excessive delay setting light: 63ms
+04-24 08:02:15.130   782   978 D LightsService: Excessive delay setting light: 67ms
+04-24 08:02:15.280   782   797 E Sensors : Acc old sensor_state 1, new sensor_state : 0 en : 0
+04-24 08:02:15.330  1099  1099 D PhoneApp: mReceiver: ACTION_SCREEN_OFF / ACTION_SCREEN_ON
+04-24 08:02:15.330  1099  1099 D AccelerometerListener: enable(false)
+04-24 08:02:15.380  1395  1401 E MP-Decision: num online cores: 1 reqd : 2 available : 4 rq_depth:6.900000 hotplug_avg_load_dw: 32
+04-24 08:02:15.380  1395  1401 E MP-Decision: UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 total_time_up:437.000000
+04-24 08:02:15.390   782   798 V KeyguardHostView: Keyguard widgets disabled by DPM
+04-24 08:02:15.390   782   798 V KeyguardHostView: Keyguard secure camera disabled by DPM
+04-24 08:02:15.440   782   978 D LightsService: Excessive delay setting light: 178ms
+04-24 08:02:15.520   782   978 D LightsService: Excessive delay setting light: 82ms
+04-24 08:02:15.530  1395  1401 E MP-Decision: num online cores: 2 reqd : 3 available : 4 rq_depth:3.300000 hotplug_avg_load_dw: 78
+04-24 08:02:15.530  1395  1401 E MP-Decision: UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 total_time_up:0.000000
+04-24 08:02:15.530  1395  1401 E MP-Decision: UP cpu:2 core_idx:2 Nw:2.700000 Tw:90 total_time_up:98.000000
+04-24 08:02:15.530   311   364 D SurfaceFlinger: Screen released, type=0 flinger=0xb7ac2478
+04-24 08:02:15.530   311   364 D qdhwcomposer: hwc_blank: Blanking display: 0
+04-24 08:02:15.570   782   798 V KeyguardHostView: hide transport, gen:3
+04-24 08:02:15.570   782   798 V KeyguardHostView: music state changed: 0
+04-24 08:02:15.600   782   821 E LightSensor: Light old sensor_state 0, new sensor_state : 128 en : 1
+04-24 08:02:15.600   782   798 I PowerManagerService: Waking up from sleep...
+04-24 08:02:15.610   782   797 E Sensors : Acc old sensor_state 128, new sensor_state : 129 en : 1
+04-24 08:02:15.781   311   364 D qdhwcomposer: hwc_blank: Done blanking display: 0
+04-24 08:02:15.781   782   978 D SurfaceControl: Excessive delay in blankDisplay() while turning screen off: 258ms
+04-24 08:02:15.791  1099  1099 D PhoneApp: mReceiver: ACTION_SCREEN_OFF / ACTION_SCREEN_ON
+04-24 08:02:15.791  1099  1099 D AccelerometerListener: enable(false)
+04-24 08:02:15.881   981   981 D PhoneStatusBar: disable: < EXPAND icons alerts TICKER system_info BACK* HOME* RECENT CLOCK* SEARCH >
+04-24 08:02:15.891   782   798 I WindowManager: Lock screen displayed!
+04-24 08:02:16.091  1395  1401 E MP-Decision: num online cores: 3 reqd : 2 available : 4 rq_depth:0.700000 hotplug_avg_load_dw: 68
+04-24 08:02:16.091  1395  1401 E MP-Decision: DOWN cpu:2 core_idx:2 Ns:2.100000 Ts:240 total_time_down:255.000000
+04-24 08:02:16.141  1395  1401 E MP-Decision: num online cores: 2 reqd : 1 available : 4 rq_depth:0.400000 hotplug_avg_load_dw: 13
+04-24 08:02:16.141  1395  1401 E MP-Decision: DOWN cpu:1 core_idx:1 Ns:1.100000 Ts:190 total_time_down:140.000000
+04-24 08:02:16.281   782   978 D PowerManagerService-JNI: Excessive delay in autosuspend_disable() while turning screen on: 489ms
+04-24 08:02:16.281   311   364 D SurfaceFlinger: Screen acquired, type=0 flinger=0xb7ac2478
+04-24 08:02:16.281   311   364 D qdhwcomposer: hwc_blank: Unblanking display: 0
+04-24 08:02:16.281   311   364 D qdhwcomposer: hwc_blank: Done unblanking display: 0
+04-24 08:02:16.651   782   821 E LightSensor: Light old sensor_state 129, new sensor_state : 1 en : 0
+04-24 08:02:16.651   782   827 I PowerManagerService: Going to sleep by user request...
+04-24 08:02:16.892   782   798 I PowerManagerService: Waking up from sleep...
+04-24 08:02:16.912   782   797 E Sensors : Acc old sensor_state 1, new sensor_state : 0 en : 0
+04-24 08:02:16.922  1099  1099 D PhoneApp: mReceiver: ACTION_SCREEN_OFF / ACTION_SCREEN_ON
+04-24 08:02:16.922  1099  1099 D AccelerometerListener: enable(false)
+04-24 08:02:16.952   782   821 E LightSensor: Light old sensor_state 0, new sensor_state : 128 en : 1
+04-24 08:02:16.972   782   797 E Sensors : Acc old sensor_state 128, new sensor_state : 129 en : 1
+04-24 08:02:16.982   782   798 V KeyguardHostView: Keyguard widgets disabled by DPM
+04-24 08:02:16.982   782   798 V KeyguardHostView: Keyguard secure camera disabled by DPM
+04-24 08:02:17.022  1395  1401 E MP-Decision: num online cores: 1 reqd : 2 available : 4 rq_depth:2.500000 hotplug_avg_load_dw: 51
+04-24 08:02:17.022  1395  1401 E MP-Decision: UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 total_time_up:146.000000
+04-24 08:02:17.122  1395  1401 E MP-Decision: num online cores: 2 reqd : 3 available : 4 rq_depth:3.800000 hotplug_avg_load_dw: 95
+04-24 08:02:17.122  1395  1401 E MP-Decision: UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 total_time_up:0.000000
+04-24 08:02:17.122  1395  1401 E MP-Decision: UP cpu:2 core_idx:2 Nw:2.700000 Tw:90 total_time_up:95.000000
+04-24 08:02:17.172  1395  1401 E MP-Decision: num online cores: 3 reqd : 4 available : 4 rq_depth:3.500000 hotplug_avg_load_dw: 143
+04-24 08:02:17.172  1395  1401 E MP-Decision: UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 total_time_up:0.000000
+04-24 08:02:17.172  1395  1401 E MP-Decision: UP cpu:2 core_idx:2 Nw:2.700000 Tw:90 total_time_up:0.000000
+04-24 08:02:17.172  1395  1401 E MP-Decision: UP cpu:3 core_idx:3 Nw:3.500000 Tw:90 total_time_up:141.000000
+04-24 08:02:17.182   782   798 V KeyguardHostView: hide transport, gen:3
+04-24 08:02:17.182   782   798 V KeyguardHostView: music state changed: 0
+04-24 08:02:17.212  1099  1099 D PhoneApp: mReceiver: ACTION_SCREEN_OFF / ACTION_SCREEN_ON
+04-24 08:02:17.212  1099  1099 D AccelerometerListener: enable(false)
+04-24 08:02:17.302   782   798 I WindowManager: Lock screen displayed!
+04-24 08:02:17.362   782  1767 D LightsService: Excessive delay setting light: 53ms
+04-24 08:02:17.512   782  1767 D LightsService: Excessive delay setting light: 66ms
+04-24 08:02:17.672  1395  1401 E MP-Decision: num online cores: 4 reqd : 2 available : 4 rq_depth:1.200000 hotplug_avg_load_dw: 41
+04-24 08:02:17.672  1395  1401 E MP-Decision: DOWN cpu:3 core_idx:3 Ns:3.100000 Ts:240 total_time_down:244.000000
+04-24 08:02:17.672  1395  1401 E MP-Decision: DOWN cpu:2 core_idx:2 Ns:2.100000 Ts:240 total_time_down:244.000000
+04-24 08:02:17.722   782   821 E LightSensor: Light old sensor_state 129, new sensor_state : 1 en : 0
+04-24 08:02:17.722   782   827 I PowerManagerService: Going to sleep by user request...
+04-24 08:02:17.743   782  1767 D LightsService: Excessive delay setting light: 82ms
+04-24 08:02:17.963   782  8432 D LightsService: Excessive delay setting light: 53ms
+04-24 08:02:18.063   782  8432 D LightsService: Excessive delay setting light: 68ms
+04-24 08:02:18.163   782  8432 D LightsService: Excessive delay setting light: 68ms
+04-24 08:02:18.333   782  8432 D LightsService: Excessive delay setting light: 63ms
+04-24 08:02:18.403   782   797 E Sensors : Acc old sensor_state 1, new sensor_state : 0 en : 0
+04-24 08:02:18.413  1395  1401 E MP-Decision: num online cores: 2 reqd : 1 available : 4 rq_depth:2.700000 hotplug_avg_load_dw: 18
+04-24 08:02:18.413  1395  1401 E MP-Decision: DOWN cpu:1 core_idx:1 Ns:1.100000 Ts:190 total_time_down:0.000000
+04-24 08:02:18.453  1099  1099 D PhoneApp: mReceiver: ACTION_SCREEN_OFF / ACTION_SCREEN_ON
+04-24 08:02:18.453  1099  1099 D AccelerometerListener: enable(false)
+04-24 08:02:18.493   782   798 V KeyguardHostView: Keyguard widgets disabled by DPM
+04-24 08:02:18.493   782   798 V KeyguardHostView: Keyguard secure camera disabled by DPM
+04-24 08:02:18.493   782  8432 D LightsService: Excessive delay setting light: 116ms
+04-24 08:02:18.513   311   364 D SurfaceFlinger: Screen released, type=0 flinger=0xb7ac2478
+04-24 08:02:18.513   311   364 D qdhwcomposer: hwc_blank: Blanking display: 0
+04-24 08:02:18.613  1395  1401 E MP-Decision: num online cores: 1 reqd : 3 available : 4 rq_depth:2.900000 hotplug_avg_load_dw: 62
+04-24 08:02:18.613  1395  1401 E MP-Decision: UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 total_time_up:185.000000
+04-24 08:02:18.613  1395  1401 E MP-Decision: UP cpu:2 core_idx:2 Nw:2.700000 Tw:90 total_time_up:233.000000
+04-24 08:02:18.623   782   798 V KeyguardHostView: hide transport, gen:3
+04-24 08:02:18.623   782   798 V KeyguardHostView: music state changed: 0
+04-24 08:02:18.794   311   364 D qdhwcomposer: hwc_blank: Done blanking display: 0
+04-24 08:02:18.794   782  8432 D SurfaceControl: Excessive delay in blankDisplay() while turning screen off: 297ms
+04-24 08:02:18.814   782   797 E Sensors : Acc old sensor_state 0, new sensor_state : 1 en : 1
+04-24 08:02:18.814   782   821 E LightSensor: Light old sensor_state 1, new sensor_state : 129 en : 1
+04-24 08:02:18.814   782   798 I PowerManagerService: Waking up from sleep...
+04-24 08:02:18.864  1099  1099 D PhoneApp: mReceiver: ACTION_SCREEN_OFF / ACTION_SCREEN_ON
+04-24 08:02:18.864  1099  1099 D AccelerometerListener: enable(false)
+04-24 08:02:18.914   782   798 I WindowManager: Lock screen displayed!
+04-24 08:02:19.184  1395  1401 E MP-Decision: num online cores: 3 reqd : 2 available : 4 rq_depth:0.000000 hotplug_avg_load_dw: 30
+04-24 08:02:19.184  1395  1401 E MP-Decision: DOWN cpu:2 core_idx:2 Ns:2.100000 Ts:240 total_time_down:262.000000
+04-24 08:02:19.234  1395  1401 E MP-Decision: num online cores: 2 reqd : 1 available : 4 rq_depth:1.900000 hotplug_avg_load_dw: 14
+04-24 08:02:19.234  1395  1401 E MP-Decision: DOWN cpu:1 core_idx:1 Ns:1.100000 Ts:190 total_time_down:0.000000
+04-24 08:02:19.314   782 10337 D PowerManagerService-JNI: Excessive delay in autosuspend_disable() while turning screen on: 492ms
+04-24 08:02:19.314   311   364 D SurfaceFlinger: Screen acquired, type=0 flinger=0xb7ac2478
+04-24 08:02:19.314   311   364 D qdhwcomposer: hwc_blank: Unblanking display: 0
+04-24 08:02:19.314   311   364 D qdhwcomposer: hwc_blank: Done unblanking display: 0
+04-24 08:02:23.668   782   978 D LightsService: Excessive delay setting light: 97ms
+04-24 08:02:23.738   782   978 D LightsService: Excessive delay setting light: 60ms
+04-24 08:02:23.818   782   978 D LightsService: Excessive delay setting light: 71ms
+04-24 08:02:23.878   782   978 D LightsService: Excessive delay setting light: 64ms
+04-24 08:02:23.949   782   978 D LightsService: Excessive delay setting light: 66ms
+04-24 08:02:24.059   782   978 D LightsService: Excessive delay setting light: 65ms
+04-24 08:02:24.119   782   978 D LightsService: Excessive delay setting light: 66ms
+04-24 08:02:24.199   782   978 D LightsService: Excessive delay setting light: 66ms
+04-24 08:02:24.259   782   978 D LightsService: Excessive delay setting light: 67ms
+04-24 08:02:24.329   782   978 D LightsService: Excessive delay setting light: 65ms
+04-24 08:02:24.399   782   978 D LightsService: Excessive delay setting light: 65ms
+04-24 08:02:24.459   782   978 D LightsService: Excessive delay setting light: 67ms
+04-24 08:02:24.529   782   978 D LightsService: Excessive delay setting light: 64ms
+04-24 08:02:24.639   782   978 D LightsService: Excessive delay setting light: 66ms
+04-24 08:02:24.709   782   978 D LightsService: Excessive delay setting light: 65ms
+04-24 08:02:24.829   782   978 D LightsService: Excessive delay setting light: 66ms
+04-24 08:02:41.035   782  1048 D LightsService: Excessive delay setting light: 65ms
+04-24 08:02:41.145   782  1048 D LightsService: Excessive delay setting light: 66ms
+04-24 08:02:41.265   782  1048 D LightsService: Excessive delay setting light: 65ms
+04-24 08:02:41.365   782  1048 D LightsService: Excessive delay setting light: 51ms
+04-24 08:02:42.997   782  1767 D LightsService: Excessive delay setting light: 65ms
+04-24 08:02:43.057   782  1767 D LightsService: Excessive delay setting light: 66ms
+04-24 08:02:43.127   782  1767 D LightsService: Excessive delay setting light: 64ms
+04-24 08:02:43.187   782  1767 D LightsService: Excessive delay setting light: 66ms
+04-24 08:02:43.257   782  1767 D LightsService: Excessive delay setting light: 66ms
+04-24 08:02:43.327   782  1767 D LightsService: Excessive delay setting light: 65ms
+04-24 08:02:48.863   782   821 E LightSensor: Light old sensor_state 129, new sensor_state : 1 en : 0
+04-24 08:02:48.863   782   821 I PowerManagerService: Going to sleep due to screen timeout...
+04-24 08:02:49.453   782   797 E Sensors : Acc old sensor_state 1, new sensor_state : 0 en : 0
+04-24 08:02:49.473  1099  1099 D PhoneApp: mReceiver: ACTION_SCREEN_OFF / ACTION_SCREEN_ON
+04-24 08:02:49.473  1099  1099 D AccelerometerListener: enable(false)
+04-24 08:02:49.493   782  8432 D LightsService: Excessive delay setting light: 83ms
+04-24 08:02:49.503   782   798 V KeyguardHostView: Keyguard widgets disabled by DPM
+04-24 08:02:49.503   782   798 V KeyguardHostView: Keyguard secure camera disabled by DPM
+04-24 08:02:49.523   311   364 D SurfaceFlinger: Screen released, type=0 flinger=0xb7ac2478
+04-24 08:02:49.523   311   364 D qdhwcomposer: hwc_blank: Blanking display: 0
+04-24 08:02:49.583  1395  1401 E MP-Decision: num online cores: 1 reqd : 2 available : 4 rq_depth:6.700000 hotplug_avg_load_dw: 38
+04-24 08:02:49.583  1395  1401 E MP-Decision: UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 total_time_up:146.000000
+04-24 08:02:49.633  1395  1401 E MP-Decision: num online cores: 2 reqd : 4 available : 4 rq_depth:3.700000 hotplug_avg_load_dw: 113
+04-24 08:02:49.633  1395  1401 E MP-Decision: UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 total_time_up:0.000000
+04-24 08:02:49.633  1395  1401 E MP-Decision: UP cpu:2 core_idx:2 Nw:2.700000 Tw:90 total_time_up:191.000000
+04-24 08:02:49.633  1395  1401 E MP-Decision: UP cpu:3 core_idx:3 Nw:3.500000 Tw:90 total_time_up:191.000000
+04-24 08:02:49.663   782   798 V KeyguardHostView: hide transport, gen:3
+04-24 08:02:49.663   782   798 V KeyguardHostView: music state changed: 0
+04-24 08:02:49.804   311   364 D qdhwcomposer: hwc_blank: Done blanking display: 0
+04-24 08:02:49.804   782  8432 D SurfaceControl: Excessive delay in blankDisplay() while turning screen off: 279ms
+04-24 08:02:49.914  1395  1401 E MP-Decision: num online cores: 4 reqd : 2 available : 4 rq_depth:0.000000 hotplug_avg_load_dw: 43
+04-24 08:02:49.914  1395  1401 E MP-Decision: DOWN cpu:3 core_idx:3 Ns:3.100000 Ts:240 total_time_down:270.000000
+04-24 08:02:49.924  1395  1401 E MP-Decision: DOWN cpu:2 core_idx:2 Ns:2.100000 Ts:240 total_time_down:270.000000
+04-24 08:02:49.994  1395  1401 E MP-Decision: num online cores: 2 reqd : 1 available : 4 rq_depth:0.000000 hotplug_avg_load_dw: 8
+04-24 08:02:49.994  1395  1401 E MP-Decision: DOWN cpu:1 core_idx:1 Ns:1.100000 Ts:190 total_time_down:110.000000
+04-24 08:06:58.275 14427 14427 D dalvikvm: Not late-enabling CheckJNI (already on)
+04-24 08:06:58.295   782   800 I ActivityManager: Start proc edu.mit.ll.NletLog.android for service edu.mit.ll.NletLog.android/.LoggerService: pid=14427 uid=10056 gids={50056, 1015, 3003, 1028}
+04-24 08:06:58.305 14427 14427 I dalvikvm: Turning on JNI app bug workarounds for target SDK version 12...
+04-24 08:06:58.375 14427 14427 V LoggerService: Reading config file at /sdcard/llcbmen/startup_40/Logger.json
+04-24 08:06:58.375 14427 14427 V LoggerService: Could not read config file!
+04-24 08:06:58.385 14427 14427 V LoggerService: registering broadcast receiver...
+04-24 08:06:58.405  1395  1401 E MP-Decision: num online cores: 1 reqd : 2 available : 4 rq_depth:2.700000 hotplug_avg_load_dw: 33
+04-24 08:06:58.405  1395  1401 E MP-Decision: UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 total_time_up:146.000000
+04-24 08:06:58.405 14427 14427 V LoggerService: registered broadcast receiver
+04-24 08:06:58.415 14427 14427 V LoggerService: Already a BroadcastReceiver running!!
+04-24 08:06:58.425 14427 14427 V LoggerService: Already a BroadcastReceiver running!!
+04-24 08:06:58.455  1395  1401 E MP-Decision: num online cores: 2 reqd : 3 available : 4 rq_depth:2.700000 hotplug_avg_load_dw: 85
+04-24 08:06:58.455  1395  1401 E MP-Decision: UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 total_time_up:0.000000
+04-24 08:06:58.455  1395  1401 E MP-Decision: UP cpu:2 core_idx:2 Nw:2.700000 Tw:90 total_time_up:143.000000
+04-24 08:06:58.655  1395  1401 E MP-Decision: num online cores: 3 reqd : 1 available : 4 rq_depth:0.000000 hotplug_avg_load_dw: 14
+04-24 08:06:58.655  1395  1401 E MP-Decision: DOWN cpu:2 core_idx:2 Ns:2.100000 Ts:240 total_time_down:196.000000
+04-24 08:06:58.665  1395  1401 E MP-Decision: DOWN cpu:1 core_idx:1 Ns:1.100000 Ts:190 total_time_down:196.000000
+04-24 08:08:40.134   782   820 D lights  : set_light_leds: type=0, color=0x00ffff6000, fM=0, fOnMS=0, fOffMs=0.
+04-24 08:08:40.134   782   797 I EntropyMixer: Writing entropy...
+04-24 08:08:40.144   782   820 D lights  : write_leds: color=0x00ff6000, delay_on=0, delay_off=0, blink="0x00ff6000 0 0".
+04-24 08:08:40.174   782   821 I PowerManagerService: Waking up from sleep...
+04-24 08:08:40.184   782   821 E LightSensor: Light old sensor_state 0, new sensor_state : 128 en : 1
+04-24 08:08:40.184   782   797 E Sensors : Acc old sensor_state 128, new sensor_state : 129 en : 1
+04-24 08:08:40.214  1395  1401 E MP-Decision: num online cores: 1 reqd : 2 available : 4 rq_depth:5.500000 hotplug_avg_load_dw: 45
+04-24 08:08:40.214  1395  1401 E MP-Decision: UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 total_time_up:171.000000
+04-24 08:08:40.254   782   798 I WindowManager: Lock screen displayed!
+04-24 08:08:40.264  1395  1401 E MP-Decision: num online cores: 2 reqd : 3 available : 4 rq_depth:3.800000 hotplug_avg_load_dw: 96
+04-24 08:08:40.264  1395  1401 E MP-Decision: UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 total_time_up:0.000000
+04-24 08:08:40.264  1395  1401 E MP-Decision: UP cpu:2 core_idx:2 Nw:2.700000 Tw:90 total_time_up:144.000000
+04-24 08:08:40.274  1099  1099 D PhoneApp: mReceiver: ACTION_SCREEN_OFF / ACTION_SCREEN_ON
+04-24 08:08:40.274  1099  1099 D AccelerometerListener: enable(false)
+04-24 08:08:40.314  1395  1401 E MP-Decision: num online cores: 3 reqd : 4 available : 4 rq_depth:3.700000 hotplug_avg_load_dw: 158
+04-24 08:08:40.314  1395  1401 E MP-Decision: UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 total_time_up:0.000000
+04-24 08:08:40.314  1395  1401 E MP-Decision: UP cpu:2 core_idx:2 Nw:2.700000 Tw:90 total_time_up:0.000000
+04-24 08:08:40.314  1395  1401 E MP-Decision: UP cpu:3 core_idx:3 Nw:3.500000 Tw:90 total_time_up:190.000000
+04-24 08:08:40.464 10227 10227 D MtpService: updating state; isCurrentUser=true, mMtpLocked=true
+04-24 08:08:40.484 10227 10227 D MtpService: updating state; isCurrentUser=true, mMtpLocked=true
+04-24 08:08:40.494 10227 10227 D MtpService: starting MTP server in MTP mode
+04-24 08:08:40.494 10227 10227 E MtpServerJNI: could not open MTP driver, errno: 16
+04-24 08:08:40.494 10227 15322 E MtpServerJNI: server is null in run
+04-24 08:08:40.494 10227 15322 E MtpServerJNI: server is null in cleanup
+04-24 08:08:40.504   782 10184 D Tethering: Exception adding default nw to upstreamIfaceTypes: java.lang.NullPointerException
+04-24 08:08:40.524   782   782 D Tethering: Exception adding default nw to upstreamIfaceTypes: java.lang.NullPointerException
+04-24 08:08:40.534   782  1073 D Tethering: Exception adding default nw to upstreamIfaceTypes: java.lang.NullPointerException
+04-24 08:08:40.574   782 10337 D PowerManagerService-JNI: Excessive delay in autosuspend_disable() while turning screen on: 385ms
+04-24 08:08:40.574   311   364 D SurfaceFlinger: Screen acquired, type=0 flinger=0xb7ac2478
+04-24 08:08:40.574   311   364 D qdhwcomposer: hwc_blank: Unblanking display: 0
+04-24 08:08:40.574   311   364 D qdhwcomposer: hwc_blank: Done unblanking display: 0
+04-24 08:08:40.694   782  1048 D LightsService: Excessive delay setting light: 100ms
+04-24 08:08:40.714  1395  1401 E MP-Decision: num online cores: 4 reqd : 2 available : 4 rq_depth:0.500000 hotplug_avg_load_dw: 52
+04-24 08:08:40.714  1395  1401 E MP-Decision: DOWN cpu:3 core_idx:3 Ns:3.100000 Ts:240 total_time_down:243.000000
+04-24 08:08:40.714  1395  1401 E MP-Decision: DOWN cpu:2 core_idx:2 Ns:2.100000 Ts:240 total_time_down:243.000000
+04-24 08:08:40.764  1395  1401 E MP-Decision: num online cores: 2 reqd : 1 available : 4 rq_depth:1.300000 hotplug_avg_load_dw: 18
+04-24 08:08:40.764  1395  1401 E MP-Decision: DOWN cpu:1 core_idx:1 Ns:1.100000 Ts:190 total_time_down:0.000000
+04-24 08:08:40.784   782  1048 D LightsService: Excessive delay setting light: 87ms
+04-24 08:08:40.854   782  1048 D LightsService: Excessive delay setting light: 67ms
+04-24 08:08:40.934   782  1048 D LightsService: Excessive delay setting light: 77ms
+04-24 08:09:04.367   782  1767 D LightsService: Excessive delay setting light: 66ms
+04-24 08:09:04.447   782  1767 D LightsService: Excessive delay setting light: 83ms
+04-24 08:09:04.507   782  1767 D LightsService: Excessive delay setting light: 64ms
+04-24 08:09:04.587   782  1767 D LightsService: Excessive delay setting light: 66ms
+04-24 08:09:04.647   782  1767 D LightsService: Excessive delay setting light: 65ms
+04-24 08:09:04.718   782  1767 D LightsService: Excessive delay setting light: 64ms
+04-24 08:09:04.788   782  1767 D LightsService: Excessive delay setting light: 66ms
+04-24 08:09:04.848   782  1767 D LightsService: Excessive delay setting light: 66ms
+04-24 08:09:04.918   782  1767 D LightsService: Excessive delay setting light: 65ms
+04-24 08:09:04.988   782  1767 D LightsService: Excessive delay setting light: 66ms
+04-24 08:09:10.243   782   821 E LightSensor: Light old sensor_state 129, new sensor_state : 1 en : 0
+04-24 08:09:10.243   782   821 I PowerManagerService: Going to sleep due to screen timeout...
+04-24 08:09:10.373  1395  1401 E MP-Decision: num online cores: 1 reqd : 2 available : 4 rq_depth:2.000000 hotplug_avg_load_dw: 42
+04-24 08:09:10.373  1395  1401 E MP-Decision: UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 total_time_up:147.000000
+04-24 08:09:10.723  1395  1401 E MP-Decision: num online cores: 2 reqd : 1 available : 4 rq_depth:1.000000 hotplug_avg_load_dw: 19
+04-24 08:09:10.723  1395  1401 E MP-Decision: DOWN cpu:1 core_idx:1 Ns:1.100000 Ts:190 total_time_down:48.000000
+04-24 08:09:10.843   782   797 E Sensors : Acc old sensor_state 1, new sensor_state : 0 en : 0
+04-24 08:09:10.853  1099  1099 D PhoneApp: mReceiver: ACTION_SCREEN_OFF / ACTION_SCREEN_ON
+04-24 08:09:10.853  1099  1099 D AccelerometerListener: enable(false)
+04-24 08:09:10.874   782   798 E SensorManager: Error: Sensor Event is null for Sensor: {Sensor name="K330 3-axis Accelerometer", vendor="STMicroelectronics", version=1, type=1, maxRange=19.6133, resolution=5.985504E-4, power=0.25, minDelay=10000}
+04-24 08:09:10.894   782  8432 D LightsService: Excessive delay setting light: 106ms
+04-24 08:09:10.904   782   798 V KeyguardHostView: Keyguard widgets disabled by DPM
+04-24 08:09:10.904   782   798 V KeyguardHostView: Keyguard secure camera disabled by DPM
+04-24 08:09:10.914   311   364 D SurfaceFlinger: Screen released, type=0 flinger=0xb7ac2478
+04-24 08:09:10.914   311   364 D qdhwcomposer: hwc_blank: Blanking display: 0
+04-24 08:09:10.924  1395  1401 E MP-Decision: num online cores: 1 reqd : 2 available : 4 rq_depth:4.100000 hotplug_avg_load_dw: 35
+04-24 08:09:10.924  1395  1401 E MP-Decision: UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 total_time_up:187.000000
+04-24 08:09:11.034   782   798 V KeyguardHostView: hide transport, gen:3
+04-24 08:09:11.034   782   798 V KeyguardHostView: music state changed: 0
+04-24 08:09:11.184   311   364 D qdhwcomposer: hwc_blank: Done blanking display: 0
+04-24 08:09:11.184   782  8432 D SurfaceControl: Excessive delay in blankDisplay() while turning screen off: 277ms
+04-24 08:09:11.394  1395  1401 E MP-Decision: num online cores: 2 reqd : 1 available : 4 rq_depth:0.000000 hotplug_avg_load_dw: 22
+04-24 08:09:11.394  1395  1401 E MP-Decision: DOWN cpu:1 core_idx:1 Ns:1.100000 Ts:190 total_time_down:197.000000
+04-24 08:10:42.362 16372 16372 W libc    : void endpwent()(3) is not implemented on Android
+04-24 08:10:42.362   249   249 I busybox : void endpwent()(3) is not implemented on Android
+04-24 08:10:42.442 16374 16374 W libc    : void endpwent()(3) is not implemented on Android
+04-24 08:10:42.643  1395  1401 E MP-Decision: num online cores: 1 reqd : 2 available : 4 rq_depth:1.300000 hotplug_avg_load_dw: 61
+04-24 08:10:42.643  1395  1401 E MP-Decision: UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 total_time_up:0.000000
+04-24 08:10:44.094  1395  1401 E MP-Decision: num online cores: 2 reqd : 1 available : 4 rq_depth:0.000000 hotplug_avg_load_dw: 18
+04-24 08:10:44.094  1395  1401 E MP-Decision: DOWN cpu:1 core_idx:1 Ns:1.100000 Ts:190 total_time_down:59.000000
+04-24 08:11:24.013 16729 16729 W libc    : void endpwent()(3) is not implemented on Android
+04-24 08:11:24.013   249   249 I busybox : void endpwent()(3) is not implemented on Android
+04-24 08:11:24.093 16731 16731 W libc    : void endpwent()(3) is not implemented on Android
+04-24 08:11:24.293  1395  1401 E MP-Decision: num online cores: 1 reqd : 2 available : 4 rq_depth:1.800000 hotplug_avg_load_dw: 60
+04-24 08:11:24.293  1395  1401 E MP-Decision: UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 total_time_up:0.000000

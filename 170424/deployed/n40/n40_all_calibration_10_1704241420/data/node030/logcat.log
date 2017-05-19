@@ -1,0 +1,73 @@
+--------- beginning of /dev/log/main
+04-24 07:08:11.606  1426  1432 E MP-Decision: num online cores: 2 reqd : 1 available : 4 rq_depth:0.000000 hotplug_avg_load_dw: 29
+04-24 07:08:11.606  1426  1432 E MP-Decision: DOWN cpu:1 core_idx:1 Ns:1.100000 Ts:190 total_time_down:777.000000
+04-24 07:08:11.856  1426  1432 E MP-Decision: num online cores: 1 reqd : 2 available : 4 rq_depth:1.000000 hotplug_avg_load_dw: 66
+04-24 07:08:11.856  1426  1432 E MP-Decision: UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 total_time_up:0.000000
+04-24 07:08:12.507 19072 19072 D AndroidRuntime: 
+04-24 07:08:12.507 19072 19072 D AndroidRuntime: >>>>>> AndroidRuntime START com.android.internal.os.RuntimeInit <<<<<<
+04-24 07:08:12.507 19072 19072 D AndroidRuntime: CheckJNI is ON
+04-24 07:08:12.507 19072 19072 E dalvikvm: ERROR: must specify non-'.' bootclasspath
+04-24 07:08:12.507 19072 19072 W dalvikvm: CreateJavaVM failed: dvmClassStartup failed
+04-24 07:08:12.507 19072 19072 E AndroidRuntime: JNI_CreateJavaVM failed
+04-24 07:08:12.887 19073 19073 D AndroidRuntime: 
+04-24 07:08:12.887 19073 19073 D AndroidRuntime: >>>>>> AndroidRuntime START com.android.internal.os.RuntimeInit <<<<<<
+04-24 07:08:12.887 19073 19073 D AndroidRuntime: CheckJNI is ON
+04-24 07:08:12.887 19073 19073 E dalvikvm: ERROR: must specify non-'.' bootclasspath
+04-24 07:08:12.887 19073 19073 W dalvikvm: CreateJavaVM failed: dvmClassStartup failed
+04-24 07:08:12.887 19073 19073 E AndroidRuntime: JNI_CreateJavaVM failed
+04-24 07:08:14.509  1426  1432 E MP-Decision: num online cores: 2 reqd : 1 available : 4 rq_depth:0.000000 hotplug_avg_load_dw: 28
+04-24 07:08:14.509  1426  1432 E MP-Decision: DOWN cpu:1 core_idx:1 Ns:1.100000 Ts:190 total_time_down:2618.000000
+--------- beginning of /dev/log/system
+04-24 07:19:23.085   807   828 W BroadcastQueue: Timeout of broadcast BroadcastRecord{41ff6fd0 u0 com.android.server.action.NETWORK_STATS_POLL} - receiver=android.app.LoadedApk$ReceiverDispatcher$InnerReceiver@41bbf290, started 60024ms ago
+04-24 07:19:23.085   807   828 W BroadcastQueue: Receiver during timeout: BroadcastFilter{41baaa60 u0 ReceiverList{41bb4e38 807 system/1000/u0 local:41bbf290}}
+04-24 07:20:00.141 19252 19252 I olsrd   : Writing '1' (was 1) to /proc/sys/net/ipv4/ip_forward
+04-24 07:20:00.141 19252 19252 I olsrd   : Writing '0' (was 1) to /proc/sys/net/ipv4/conf/all/send_redirects
+04-24 07:20:00.141 19252 19252 I olsrd   : Writing '0' (was 0) to /proc/sys/net/ipv4/conf/all/rp_filter
+04-24 07:20:00.141 19252 19252 I olsrd   : Writing '0' (was 0) to /proc/sys/net/ipv4/conf/wlan0/send_redirects
+04-24 07:20:00.141 19252 19252 I olsrd   : Writing '0' (was 0) to /proc/sys/net/ipv4/conf/wlan0/rp_filter
+04-24 07:20:00.141 19252 19252 I olsrd   : Adding interface wlan0
+04-24 07:20:00.141 19252 19252 I olsrd   : New main address: 10.1.1.30
+04-24 07:20:00.151 19253 19253 I olsrd   : olsr.org -  0.6.6.2-n -git_0000000 -n -hash_ 7985605520f3cae9b305d56e83b35d9c successfully started
+04-24 07:20:05.046   807   828 W ProcessStats: Skipping unknown process pid 19282
+04-24 07:20:05.046   807   828 W ProcessStats: Skipping unknown process pid 19283
+04-24 07:20:05.056   807   828 W ProcessStats: Skipping unknown process pid 19284
+04-24 07:21:37.485 19253 19253 I olsrd   : detected duplicate packet with seqnr 0xcf26 from 10.1.1.18 on wlan0 (352 Bytes)
+04-24 07:21:37.485 19253 19253 I olsrd   : detected duplicate packet with seqnr 0xcf26 from 10.1.1.18 on wlan0 (352 Bytes)
+04-24 07:21:37.485 19253 19253 I olsrd   : detected duplicate packet with seqnr 0xcf26 from 10.1.1.18 on wlan0 (352 Bytes)
+04-24 07:21:37.485 19253 19253 I olsrd   : detected duplicate packet with seqnr 0xcf26 from 10.1.1.18 on wlan0 (352 Bytes)
+04-24 07:21:37.485 19253 19253 I olsrd   : detected duplicate packet with seqnr 0xcf26 from 10.1.1.18 on wlan0 (352 Bytes)
+04-24 07:21:37.485 19253 19253 I olsrd   : detected duplicate packet with seqnr 0xcf26 from 10.1.1.18 on wlan0 (352 Bytes)
+04-24 07:21:46.454 19253 19253 I olsrd   : detected duplicate packet with seqnr 0xcf2b from 10.1.1.18 on wlan0 (728 Bytes)
+04-24 07:21:46.454 19253 19253 I olsrd   : detected duplicate packet with seqnr 0xcf2b from 10.1.1.18 on wlan0 (728 Bytes)
+04-24 07:21:46.454 19253 19253 I olsrd   : detected duplicate packet with seqnr 0xcf2b from 10.1.1.18 on wlan0 (728 Bytes)
+04-24 07:23:12.957 19253 19253 I olsrd   : detected duplicate packet with seqnr 0x515 from 10.1.1.11 on wlan0 (200 Bytes)
+04-24 07:23:13.007 19253 19253 I olsrd   : detected duplicate packet with seqnr 0x515 from 10.1.1.11 on wlan0 (200 Bytes)
+04-24 07:23:13.007 19253 19253 I olsrd   : detected duplicate packet with seqnr 0x515 from 10.1.1.11 on wlan0 (200 Bytes)
+04-24 07:23:14.229 19253 19253 I olsrd   : detected duplicate packet with seqnr 0xfb5a from 10.1.1.29 on wlan0 (456 Bytes)
+04-24 07:24:02.225 19253 19253 I olsrd   : detected duplicate packet with seqnr 0xcf77 from 10.1.1.18 on wlan0 (320 Bytes)
+04-24 07:25:40.170  1426  1432 E MP-Decision: num online cores: 1 reqd : 2 available : 4 rq_depth:2.400000 hotplug_avg_load_dw: 31
+04-24 07:25:40.170  1426  1432 E MP-Decision: UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 total_time_up:146.000000
+04-24 07:25:40.580 21432 21432 D AndroidRuntime: 
+04-24 07:25:40.580 21432 21432 D AndroidRuntime: >>>>>> AndroidRuntime START com.android.internal.os.RuntimeInit <<<<<<
+04-24 07:25:40.580 21432 21432 D AndroidRuntime: CheckJNI is ON
+04-24 07:25:40.580 21432 21432 E dalvikvm: ERROR: must specify non-'.' bootclasspath
+04-24 07:25:40.580 21432 21432 W dalvikvm: CreateJavaVM failed: dvmClassStartup failed
+04-24 07:25:40.580 21432 21432 E AndroidRuntime: JNI_CreateJavaVM failed
+04-24 07:25:40.690 19253 19253 I olsrd   : Writing '1' (was 0) to /proc/sys/net/ipv4/conf/all/send_redirects
+04-24 07:25:40.690 19253 19253 I olsrd   : olsr.org -  0.6.6.2-n -git_0000000 -n -hash_ 7985605520f3cae9b305d56e83b35d9c stopped
+04-24 07:25:41.431  1426  1432 E MP-Decision: num online cores: 2 reqd : 1 available : 4 rq_depth:0.000000 hotplug_avg_load_dw: 24
+04-24 07:25:41.431  1426  1432 E MP-Decision: DOWN cpu:1 core_idx:1 Ns:1.100000 Ts:190 total_time_down:256.000000
+04-24 07:25:42.022  1426  1432 E MP-Decision: num online cores: 1 reqd : 2 available : 4 rq_depth:1.300000 hotplug_avg_load_dw: 70
+04-24 07:25:42.022  1426  1432 E MP-Decision: UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 total_time_up:0.000000
+04-24 07:25:42.572 21527 21527 D AndroidRuntime: 
+04-24 07:25:42.572 21527 21527 D AndroidRuntime: >>>>>> AndroidRuntime START com.android.internal.os.RuntimeInit <<<<<<
+04-24 07:25:42.572 21527 21527 D AndroidRuntime: CheckJNI is ON
+04-24 07:25:42.572 21527 21527 E dalvikvm: ERROR: must specify non-'.' bootclasspath
+04-24 07:25:42.572 21527 21527 W dalvikvm: CreateJavaVM failed: dvmClassStartup failed
+04-24 07:25:42.572 21527 21527 E AndroidRuntime: JNI_CreateJavaVM failed
+04-24 07:25:42.922 21528 21528 D AndroidRuntime: 
+04-24 07:25:42.922 21528 21528 D AndroidRuntime: >>>>>> AndroidRuntime START com.android.internal.os.RuntimeInit <<<<<<
+04-24 07:25:42.922 21528 21528 D AndroidRuntime: CheckJNI is ON
+04-24 07:25:42.922 21528 21528 E dalvikvm: ERROR: must specify non-'.' bootclasspath
+04-24 07:25:42.922 21528 21528 W dalvikvm: CreateJavaVM failed: dvmClassStartup failed
+04-24 07:25:42.922 21528 21528 E AndroidRuntime: JNI_CreateJavaVM failed
