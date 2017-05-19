@@ -1,6 +1,6 @@
 # Experimentally Measuring Capacity in Wireless Mesh Networks
 
-This repository contains the final data and Python scripts (used in conjunction with the CBMEN Android networking testbed at MIT Lincoln Lab) used to support my capstone project in MIT AeroAstro.
+This repository contains the final data and Python scripts (used in conjunction with the CBMEN Android networking testbed at MIT Lincoln Lab) used to support my capstone project in MIT AeroAstro. For more information about the MIT AeroAstro 16.62x capstone, see [this article](http://web.mit.edu/aeroastro/news/magazine/aeroastro-no3/200616.62x.html) and the [MIT course catalog](http://student.mit.edu/catalog/m16b.html#16.621). 
 
 ## Project abstract
 
