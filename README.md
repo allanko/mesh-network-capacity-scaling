@@ -16,6 +16,8 @@ The full project report, along with a slide deck from my final presentation, is 
 
 The logfiles from the experiments used in the final report are available in [`170424\deployed`](https://github.com/allanko/mesh-network-capacity-scaling/tree/master/170424/deployed). 
 
+The reduced data is compiled in [`final-data.xlsx`](https://github.com/allanko/mesh-network-capacity-scaling/blob/master/final-data.xlsx).
+
 ### Python scripts
 
 There are three Python scripts, sorted into separate notebooks:
